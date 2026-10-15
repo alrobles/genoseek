@@ -1,4 +1,4 @@
-# EcoSeek Genominer Web Server
+# GenoSeek Web Server
 
 FastAPI + SQLite file server for the `genominer` population-genetic candidate database.
 
@@ -83,18 +83,18 @@ If the HPC publish route is not yet complete, run the build step above first.
 
 ## Cloudflare Tunnel
 
-Run the `genominer` tunnel as a systemd user service on the serving host:
+Run the `genoseek` tunnel as a systemd user service on the serving host:
 
 ```bash
-systemctl --user status genominer-tunnel
+systemctl --user status genoseek-tunnel
 ```
 
 To set up manually:
 
 ```bash
-cloudflared tunnel create genominer
+cloudflared tunnel create genoseek
 cloudflared tunnel route dns <id> genominer.example.org
-cloudflared tunnel --config ~/.cloudflared/genominer.yml run
+cloudflared tunnel --config ~/.cloudflared/genoseek.yml run
 ```
 
 ## API

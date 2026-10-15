@@ -1,4 +1,4 @@
-# Agent Guide: genominer
+# Agent Guide: genoseek
 
 ## Purpose
 Build a reproducible pipeline that mines PubMed and GBIF Literature for species with population-genetic data, producing a publishable candidate database for landscape-genetic / refugia studies.

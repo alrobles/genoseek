@@ -1,8 +1,8 @@
-# genominer
+# genoseek
 
-**genominer** is a reproducible pipeline and database that mines the primary literature to discover species with population-genetic data, geographic coverage, and a usable reference genome for landscape-genetic and glacial-refugia studies.
+**GenoSeek** is a reproducible pipeline and database that mines the primary literature to discover species with population-genetic data, geographic coverage, and a usable reference genome for landscape-genetic and glacial-refugia studies.
 
-Live catalog: [genominer.ecoseek.org](https://genominer.ecoseek.org) · Web frontend: [alrobles/genominer-web-devel](https://github.com/alrobles/genominer-web-devel)
+Live catalog: [genominer.ecoseek.org](https://genominer.ecoseek.org) · Web frontend: [alrobles/genoseek-web-devel](https://github.com/alrobles/genoseek-web-devel)
 
 It is intended to be a **publishable, queryable database of candidate species** linking:
 - papers (PubMed / GBIF Literature),
@@ -11,7 +11,7 @@ It is intended to be a **publishable, queryable database of candidate species** 
 - spatial occurrence data (GBIF),
 - a recommended reference genome (NCBI Datasets / Assembly).
 
-For each candidate, genominer produces a `candidates` record, a `popmap`, and a flag (`ready_for_spa` / `ready_for_wgs_gst`) that lets downstream pipelines (`spa_1000_sp`) run niche/SPA, temporal connectivity, and `G'ST ~ SPA` regressions automatically.
+For each candidate, GenoSeek produces a `candidates` record, a `popmap`, and a flag (`ready_for_spa` / `ready_for_wgs_gst`) that lets downstream pipelines (`spa_1000_sp`) run niche/SPA, temporal connectivity, and `G'ST ~ SPA` regressions automatically.
 
 ## What it does
 
