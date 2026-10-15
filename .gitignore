@@ -1,7 +1,6 @@
 data/*.db
 data/*.tsv
 data/*.csv
-data/genetic/
 data/snapshots/
 data/vcf_database/
 publish/*.tsv
