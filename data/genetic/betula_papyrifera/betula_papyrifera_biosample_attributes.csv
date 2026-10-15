@@ -1,0 +1,18 @@
+accession,taxonomy_name,title,age,biomaterial_provider,cell_line,cell_type,collected_by,collection_date,cultivar,culture_collection,dev_stage,disease,disease_stage,ecotype,env_broad_scale,env_local_scale,env_medium,genotype,geo_loc_name,growth_protocol,height_or_length,isolate,isolation_source,lat_lon,phenotype,population,sample_type,sex,specimen_voucher,temp,tissue,treatment
+SAMN04497581,Betula papyrifera,Plant sample from Betula papyrifera,Six months,Nkongolo,,,,,,,,,,missing,,,,,"Canada: Sudbury, Ontario",,50 cm,,,,,,,,,,Roots,
+SAMN07737257,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP10A_2.fq.gz,,,,,,,,,Leaf,
+SAMN07737258,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP13A_2.fq.gz,,,,,,,,,Leaf,
+SAMN07737259,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP14-3A_2.fq.gz,,,,,,,,,Leaf,
+SAMN07737260,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP21-3A_2.fq.gz,,,,,,,,,Leaf,
+SAMN07737261,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP27CA_2.fq.gz,,,,,,,,,Leaf,
+SAMN07737262,Betula papyrifera,Plant sample from Betula papyrifera,one year old,,,,,,,,,,,,,,,,USA: Michigan,,,BP32.3A_2.fq.gz,,,,,,,,,Leaf,
+SAMN12502770,Betula papyrifera,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,2017,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,,,,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,UTC,not applicable,leaves,not applicable
+SAMN16833884,Betula papyrifera,Plant sample from Betula papyrifera,,,,,,,missing,,adult,,,,,,,,Canada,,,,,,,,,,,,twig,
+SAMN16833885,Betula papyrifera var. commutata,Plant sample from Betula papyrifera var. commutata,,,,,,,missing,,adult,,,,,,,,Canada,,,,,,,,,,,,twig,
+SAMN25243672,Betula papyrifera,MIMAG Metagenome-assembled Genome sample from Betula papyrifera,,,,,,2012-07,,,,,,,woodland area [ENVO:00000109]|temperate environment[ENVO:01001705]|forested area[ENVO:00000111],botanical garden [ENVO:00010624],plant litter [ENVO:01000628],,France: Nogent-sur-Vernisson,,,Betula_papyrifera_1,Arboretum des Barres,47.83819 N 2.75792 E,,,,,,,,
+SAMN31538745,Betula papyrifera,Plant sample from Betula papyrifera,not collected,,,,,,not applicable,,not collected,,,not applicable,,,,,USA: the University of Notre Dame Environmental Research Center,,,not applicable,,,,,,,,,Leaf,
+SAMN37589964,Betula papyrifera,Targeted sequencing of Betula papyrifera,,,,,,missing,,,adult,,,,,,,,missing,,,04acf31f-a65b-4481-a4c2-8e1c2d4b8c35,,,,,,,,,leaf,
+SAMN39676470,Betula papyrifera,Plant sample from Betula papyrifera,6 months,,,,,2021-09,,,seedling,,,,,,,,Canada:Sudbury,,,White birch growing in the Greater Sudbury Region,,,,,tissue sample,,,,Roots,water
+SAMN39676471,Betula papyrifera,Plant sample from Betula papyrifera,6 months,,,,,2021-09,,,seedling,,,,,,,,Canada:Sudbury,,,White birch growing in the Greater Sudbury Region,,,,,tissue sample,,,,Roots,Potassium nitrate
+SAMN39676472,Betula papyrifera,Plant sample from Betula papyrifera,6 months,,,,,2021-09,,,seedling,,,,,,,,Canada:Sudbury,,,White birch growing in the Greater Sudbury Region,,,,,tissue sample,,,,Roots,Nickel nitrate
+SAMN51793500,Betula papyrifera,Plant sample from Betula papyrifera,Six year,,,,,2022-09-12,,,,,,Estonia,,,,,Estonia: Rohu,,,D-18,,,,,,,,,leaves,

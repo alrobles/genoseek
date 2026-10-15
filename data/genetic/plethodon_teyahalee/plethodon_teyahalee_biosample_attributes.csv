@@ -1,0 +1,19 @@
+accession,taxonomy_name,title,USGS_sample_ID,age,collection_date,collection_method,collection_number,cultivar,dev_stage,ecotype,elevation,env_broad_scale,env_local_scale,env_medium,geo_loc_name,isol_growth_condt,isolate,lat_lon,lib_type,sex,strain,tissue
+SAMN36374077,Plethodon teyahalee,Model organism or animal sample from Plethodon teyahalee,,NA,NA,,117,,NA,,,,,,NA,,,35.341833 N 83.724972 W,extra_enzymes,not determined,NA,tail tip
+SAMN36374078,Plethodon teyahalee,Model organism or animal sample from Plethodon teyahalee,,NA,NA,,118,,NA,,,,,,NA,,,35.341833 N 83.724972 W,extra_enzymes,not determined,NA,tail tip
+SAMN36374079,Plethodon teyahalee,Model organism or animal sample from Plethodon teyahalee,,NA,NA,,120,,NA,,,,,,NA,,,35.341833 N 83.724972 W,extra_enzymes,not determined,NA,tail tip
+SAMN36374080,Plethodon teyahalee,Model organism or animal sample from Plethodon teyahalee,,NA,NA,,122,,NA,,,,,,NA,,,35.341833 N 83.724972 W,extra_enzymes,not determined,NA,tail tip
+SAMN36374081,Plethodon teyahalee,Model organism or animal sample from Plethodon teyahalee,,NA,NA,,123,,NA,,,,,,NA,,,35.341833 N 83.724972 W,extra_enzymes,not determined,NA,tail tip
+SAMN46403621,Plethodon teyahalee,MIGS Eukaryotic sample from Plethodon teyahalee,GSM19101,,2019-07-26,non-lethal sampling of tail tip,,not applicable,,not applicable,1021,mid-elevation mountain [ENVO:01001460],forest floor [ENVO:01001582],surface soil [ENVO:02000059],"USA:North Carolina, Haywood Couny",wild,not applicable,35.58496 N 83.11911 W,,,not applicable,
+SAMN46403622,Plethodon teyahalee,MIGS Eukaryotic sample from Plethodon teyahalee,GSM19113,,2019-07-29,non-lethal sampling of tail tip,,not applicable,,not applicable,790,mid-elevation mountain [ENVO:01001460],forest floor [ENVO:01001582],surface soil [ENVO:02000059],"USA: Tennessee, Cocke County",wild,not applicable,35.77275 N 83.18032 W,,,not applicable,
+SAMN50004002,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,A,35.1056 N 83.2847 W,,not collected,not applicable,blood
+SAMN50004003,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,B,35.4625 N 84.0269 W,,not collected,not applicable,blood
+SAMN50004004,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,C,35.2561 N 83.8031 W,,not collected,not applicable,blood
+SAMN50004005,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,D,35.2561 N 83.8031 W,,not collected,not applicable,blood
+SAMN50004006,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,E,34.7422 N 82.8431 W,,not collected,not applicable,blood
+SAMN50004007,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,F,35.8139 N 82.9494 W,,not collected,not applicable,blood
+SAMN50004008,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,G,34.7422 N 82.8431 W,,not collected,not applicable,blood
+SAMN50004009,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,H,35.8139 N 82.9494 W,,not collected,not applicable,blood
+SAMN50004010,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,I,35.0447 N 83.1392 W,,not collected,not applicable,blood
+SAMN50004011,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,J,35.3253 N 84.0856 W,,not collected,not applicable,blood
+SAMN50004012,Plethodon teyahalee,Plethodon teyahalee,,not applicable,not collected,,,,not applicable,,,,,,not collected,,K,35.35838 N 83.71799 W,,not collected,not applicable,tail

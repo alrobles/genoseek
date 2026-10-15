@@ -1,0 +1,854 @@
+accession,taxonomy_name,title,age,breed,collection_date,death_date,dev_stage,disease,disease_stage,ecotype,env_broad_scale,env_local_scale,env_medium,geo_loc_name,health_state,isol_growth_condt,isolate,lat_lon,sample_type,sex,specimen_voucher,store_cond,strain,tissue
+SAMN17269799,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_NW001,,,female,,,,muscle
+SAMN17269800,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW002,,,male,,,,muscle
+SAMN17269801,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW003,,,female,,,,muscle
+SAMN17269802,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW004,,,female,,,,muscle
+SAMN17269803,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW005,,,male,,,,muscle
+SAMN17269804,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW006,,,female,,,,muscle
+SAMN17269805,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW007,,,female,,,,muscle
+SAMN17269806,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW008,,,female,,,,muscle
+SAMN17269807,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW009,,,female,,,,muscle
+SAMN17269808,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW010,,,female,,,,muscle
+SAMN17269809,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW011,,,female,,,,muscle
+SAMN17269810,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW012,,,female,,,,muscle
+SAMN17269811,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW013,,,female,,,,muscle
+SAMN17269812,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW014,,,female,,,,muscle
+SAMN17269813,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW015,,,male,,,,muscle
+SAMN17269814,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW016,,,female,,,,muscle
+SAMN17269815,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW017,,,male,,,,muscle
+SAMN17269816,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW021,,,male,,,,muscle
+SAMN17269817,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW023,,,female,,,,muscle
+SAMN17269818,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW024,,,female,,,,muscle
+SAMN17269819,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW026,,,male,,,,muscle
+SAMN17269820,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW027,,,male,,,,muscle
+SAMN17269821,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_NW029,,,female,,,,muscle
+SAMN17269822,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW032,,,male,,,,muscle
+SAMN17269823,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW040,,,female,,,,muscle
+SAMN17269824,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW041,,,female,,,,muscle
+SAMN17269825,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW042,,,female,,,,muscle
+SAMN17269826,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW043,,,female,,,,muscle
+SAMN17269827,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW048,,,male,,,,muscle
+SAMN17269828,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW058,,,female,,,,muscle
+SAMN17269829,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW064,,,female,,,,muscle
+SAMN17269830,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW065,,,male,,,,muscle
+SAMN17269831,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW066,,,female,,,,muscle
+SAMN17269832,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW067,,,male,,,,muscle
+SAMN17269833,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW068,,,male,,,,muscle
+SAMN17269834,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW069,,,male,,,,muscle
+SAMN17269835,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW070,,,male,,,,muscle
+SAMN17269836,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW071,,,male,,,,muscle
+SAMN17269837,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW072,,,male,,,,muscle
+SAMN17269838,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW073,,,male,,,,muscle
+SAMN17269839,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW074,,,male,,,,muscle
+SAMN17269840,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW075,,,female,,,,muscle
+SAMN17269841,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_NW076,,,male,,,,muscle
+SAMN17269842,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW077,,,male,,,,muscle
+SAMN17269843,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW078,,,male,,,,muscle
+SAMN17269844,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW079,,,male,,,,muscle
+SAMN17269845,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW080,,,male,,,,muscle
+SAMN17269846,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW081,,,male,,,,muscle
+SAMN17269847,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW082,,,female,,,,muscle
+SAMN17269848,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW083,,,male,,,,muscle
+SAMN17269849,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW084,,,male,,,,muscle
+SAMN17269850,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW085,,,male,,,,muscle
+SAMN17269851,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW086,,,female,,,,muscle
+SAMN17269852,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_NW087,,,male,,,,muscle
+SAMN17269853,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW088,,,male,,,,muscle
+SAMN17269854,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW089,,,female,,,,muscle
+SAMN17269855,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_NW090,,,female,,,,muscle
+SAMN17269856,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_NW091,,,female,,,,muscle
+SAMN17269857,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW092,,,male,,,,muscle
+SAMN17269858,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW093,,,female,,,,muscle
+SAMN17269859,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW094,,,male,,,,muscle
+SAMN17269860,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW095,,,female,,,,muscle
+SAMN17269861,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_NW096,,,male,,,,muscle
+SAMN17269862,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW097,,,female,,,,muscle
+SAMN17269863,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW098,,,male,,,,muscle
+SAMN17269864,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-positive,,AR,,,,,,,replicate_NW002,,,female,,,,muscle
+SAMN17269865,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW006,,,male,,,,muscle
+SAMN17269866,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-positive,,AR,,,,,,,replicate_NW011,,,female,,,,muscle
+SAMN17269867,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW013,,,male,,,,muscle
+SAMN17269868,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW014,,,female,,,,muscle
+SAMN17269869,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW016,,,female,,,,muscle
+SAMN17269870,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW017,,,female,,,,muscle
+SAMN17269871,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW019,,,female,,,,muscle
+SAMN17269872,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW021,,,female,,,,muscle
+SAMN17269873,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW022,,,female,,,,muscle
+SAMN17269874,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW023,,,male,,,,muscle
+SAMN17269875,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_NW024,,,male,,,,muscle
+SAMN17269876,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_NW027,,,female,,,,muscle
+SAMN17269877,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW028,,,male,,,,muscle
+SAMN17269878,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW029,,,male,,,,muscle
+SAMN17269879,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW030,,,female,,,,muscle
+SAMN17269880,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW031,,,male,,,,muscle
+SAMN17269881,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW032,,,male,,,,muscle
+SAMN17269882,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_NW034,,,male,,,,muscle
+SAMN17269883,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW035,,,female,,,,muscle
+SAMN17269884,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW036,,,female,,,,muscle
+SAMN17269885,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW041,,,female,,,,muscle
+SAMN17269886,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW042,,,female,,,,muscle
+SAMN17269887,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW044,,,female,,,,muscle
+SAMN17269888,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW045,,,female,,,,muscle
+SAMN17269889,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW046,,,male,,,,muscle
+SAMN17269890,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-positive,,AR,,,,,,,replicate_NW048,,,male,,,,muscle
+SAMN17269891,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW049,,,female,,,,muscle
+SAMN17269892,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW050,,,male,,,,muscle
+SAMN17269893,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_NW051,,,female,,,,muscle
+SAMN17269894,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW052,,,male,,,,muscle
+SAMN17269895,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW053,,,male,,,,muscle
+SAMN17269896,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW068,,,male,,,,muscle
+SAMN17269897,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-positive,,AR,,,,,,,replicate_NW069,,,female,,,,muscle
+SAMN17269898,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW070,,,male,,,,muscle
+SAMN17269899,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW071,,,male,,,,muscle
+SAMN17269900,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW072,,,male,,,,muscle
+SAMN17269901,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-positive,,AR,,,,,,,replicate_NW073,,,male,,,,muscle
+SAMN17269902,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW074,,,male,,,,muscle
+SAMN17269903,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW075,,,male,,,,muscle
+SAMN17269904,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW076,,,male,,,,muscle
+SAMN17269905,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-positive,,AR,,,,,,,replicate_NW077,,,male,,,,muscle
+SAMN17269906,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_NW078,,,male,,,,muscle
+SAMN17269907,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW079,,,male,,,,muscle
+SAMN17269908,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW080,,,male,,,,muscle
+SAMN17269909,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW081,,,male,,,,muscle
+SAMN17269910,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW148,,,male,,,,muscle
+SAMN17269911,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW152,,,female,,,,muscle
+SAMN17269912,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW162,,,male,,,,muscle
+SAMN17269913,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW164,,,male,,,,muscle
+SAMN17269914,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW175,,,male,,,,muscle
+SAMN17269915,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW177,,,male,,,,muscle
+SAMN17269916,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW191,,,male,,,,muscle
+SAMN17269917,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW193,,,male,,,,muscle
+SAMN17269918,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW209,,,male,,,,muscle
+SAMN17269919,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_NW212,,,male,,,,muscle
+SAMN17269920,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NW213,,,female,,,,muscle
+SAMN17269921,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_NW226,,,male,,,,muscle
+SAMN17269922,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-positive,,AR,,,,,,,replicate_NW217,,,male,,,,muscle
+SAMN17269923,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW218,,,female,,,,muscle
+SAMN17269924,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW219,,,male,,,,muscle
+SAMN17269925,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_NW220,,,male,,,,muscle
+SAMN17269926,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW221,,,male,,,,muscle
+SAMN17269927,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-positive,,AR,,,,,,,replicate_NW222,,,male,,,,muscle
+SAMN17269928,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-positive,,AR,,,,,,,replicate_NW223,,,female,,,,muscle
+SAMN17269929,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW228,,,missing,,,,muscle
+SAMN17269930,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW229,,,missing,,,,muscle
+SAMN17269931,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW230,,,missing,,,,muscle
+SAMN17269932,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW231,,,missing,,,,muscle
+SAMN17269933,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW232,,,missing,,,,muscle
+SAMN17269934,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW233,,,missing,,,,muscle
+SAMN17269935,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW234,,,missing,,,,muscle
+SAMN17269936,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW235,,,missing,,,,muscle
+SAMN17269937,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW236,,,missing,,,,muscle
+SAMN17269938,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW237,,,missing,,,,muscle
+SAMN17269939,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW238,,,missing,,,,muscle
+SAMN17269940,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW239,,,missing,,,,muscle
+SAMN17269941,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW240,,,missing,,,,muscle
+SAMN17269942,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_NW241,,,missing,,,,muscle
+SAMN17269943,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP002,,,female,,,,muscle
+SAMN17269944,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP003,,,female,,,,muscle
+SAMN17269945,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP004,,,female,,,,muscle
+SAMN17269946,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP006,,,female,,,,muscle
+SAMN17269947,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP007,,,male,,,,muscle
+SAMN17269948,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP008,,,male,,,,muscle
+SAMN17269949,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP009,,,male,,,,muscle
+SAMN17269950,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP010,,,female,,,,muscle
+SAMN17269951,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP011,,,female,,,,muscle
+SAMN17269952,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP012,,,female,,,,muscle
+SAMN17269953,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP013,,,female,,,,muscle
+SAMN17269954,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP014,,,female,,,,muscle
+SAMN17269955,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP015,,,female,,,,muscle
+SAMN17269956,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP016,,,female,,,,muscle
+SAMN17269957,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP017,,,male,,,,muscle
+SAMN17269958,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP018,,,female,,,,muscle
+SAMN17269959,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP019,,,male,,,,muscle
+SAMN17269960,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP020,,,male,,,,muscle
+SAMN17269961,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP021,,,female,,,,muscle
+SAMN17269962,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP022,,,female,,,,muscle
+SAMN17269963,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP023,,,male,,,,muscle
+SAMN17269964,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP024,,,male,,,,muscle
+SAMN17269965,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP025,,,male,,,,muscle
+SAMN17269966,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP026,,,male,,,,muscle
+SAMN17269967,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP027,,,male,,,,muscle
+SAMN17269968,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP028,,,male,,,,muscle
+SAMN17269969,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP029,,,male,,,,muscle
+SAMN17269970,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP030,,,male,,,,muscle
+SAMN17269971,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP031,,,male,,,,muscle
+SAMN17269972,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP032,,,male,,,,muscle
+SAMN17269973,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP033,,,male,,,,muscle
+SAMN17269974,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP034,,,female,,,,muscle
+SAMN17269975,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP035,,,female,,,,muscle
+SAMN17269976,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP036,,,male,,,,muscle
+SAMN17269977,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP037,,,female,,,,muscle
+SAMN17269978,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP038,,,female,,,,muscle
+SAMN17269979,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP039,,,female,,,,muscle
+SAMN17269980,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP040,,,male,,,,muscle
+SAMN17269981,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP041,,,male,,,,muscle
+SAMN17269982,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP042,,,male,,,,muscle
+SAMN17269983,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP043,,,female,,,,muscle
+SAMN17269984,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP044,,,male,,,,muscle
+SAMN17269985,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_PP045,,,male,,,,muscle
+SAMN17269986,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP046,,,male,,,,muscle
+SAMN17269987,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP047,,,male,,,,muscle
+SAMN17269988,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP048,,,female,,,,muscle
+SAMN17269989,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP049,,,female,,,,muscle
+SAMN17269990,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP050,,,male,,,,muscle
+SAMN17269991,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_PP051,,,male,,,,muscle
+SAMN17269992,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP052,,,male,,,,muscle
+SAMN17269993,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP053,,,female,,,,muscle
+SAMN17269994,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_PP054,,,female,,,,muscle
+SAMN17269995,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP055,,,male,,,,muscle
+SAMN17269996,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP056,,,male,,,,muscle
+SAMN17269997,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_PP001,,,missing,,,,muscle
+SAMN17269998,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-positive,,AR,,,,,,,replicate_PP002,,,male,,,,muscle
+SAMN17269999,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP082,,,male,,,,muscle
+SAMN17270000,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP083,,,male,,,,muscle
+SAMN17270001,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP084,,,male,,,,muscle
+SAMN17270002,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_PP088,,,male,,,,muscle
+SAMN17270003,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_PP090,,,female,,,,muscle
+SAMN17270004,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP091,,,male,,,,muscle
+SAMN17270005,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP094,,,female,,,,muscle
+SAMN17270006,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_PP098,,,male,,,,muscle
+SAMN17270007,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR001,,,male,,,,muscle
+SAMN17270008,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR002,,,male,,,,muscle
+SAMN17270009,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MR003,,,female,,,,muscle
+SAMN17270010,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR004,,,male,,,,muscle
+SAMN17270011,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR005,,,male,,,,muscle
+SAMN17270012,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR006,,,male,,,,muscle
+SAMN17270013,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR007,,,male,,,,muscle
+SAMN17270014,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR008,,,male,,,,muscle
+SAMN17270015,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR009,,,male,,,,muscle
+SAMN17270016,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR010,,,male,,,,muscle
+SAMN17270017,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR011,,,male,,,,muscle
+SAMN17270018,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_MR012,,,female,,,,muscle
+SAMN17270019,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR013,,,female,,,,muscle
+SAMN17270020,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR014,,,female,,,,muscle
+SAMN17270021,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR015,,,male,,,,muscle
+SAMN17270022,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR016,,,male,,,,muscle
+SAMN17270023,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_MR017,,,female,,,,muscle
+SAMN17270024,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR018,,,male,,,,muscle
+SAMN17270025,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR020,,,male,,,,muscle
+SAMN17270026,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR022,,,male,,,,muscle
+SAMN17270027,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR027,,,male,,,,muscle
+SAMN17270028,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR028,,,male,,,,muscle
+SAMN17270029,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR029,,,male,,,,muscle
+SAMN17270030,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MR037,,,male,,,,muscle
+SAMN17270031,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR041,,,male,,,,muscle
+SAMN17270032,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR044,,,male,,,,muscle
+SAMN17270033,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR050,,,female,,,,muscle
+SAMN17270034,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR051,,,male,,,,muscle
+SAMN17270035,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MR052,,,female,,,,muscle
+SAMN17270036,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MR053,,,male,,,,muscle
+SAMN17270037,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR054,,,male,,,,muscle
+SAMN17270038,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR060,,,male,,,,muscle
+SAMN17270039,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MR061,,,female,,,,muscle
+SAMN17270040,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_MR068,,,female,,,,muscle
+SAMN17270041,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MR069,,,male,,,,muscle
+SAMN17270042,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MR070,,,female,,,,muscle
+SAMN17270043,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MR071,,,female,,,,muscle
+SAMN17270044,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MR072,,,male,,,,muscle
+SAMN17270125,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_AR006,,,male,,,,muscle
+SAMN17270126,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_AR007,,,female,,,,muscle
+SAMN17270165,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_BE034,,,male,,,,muscle
+SAMN17270166,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_BE036,,,male,,,,muscle
+SAMN17270167,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_BE042,,,female,,,,muscle
+SAMN17270168,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_BE049,,,male,,,,muscle
+SAMN17270169,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_BO001,,,male,,,,muscle
+SAMN17270170,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_BO003,,,female,,,,muscle
+SAMN17270171,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_BO004,,,female,,,,muscle
+SAMN17270172,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_BO005,,,male,,,,muscle
+SAMN17270173,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_BO006,,,female,,,,muscle
+SAMN17270174,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_BO007,,,female,,,,muscle
+SAMN17270175,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_BO008,,,male,,,,muscle
+SAMN17270176,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_BO009,,,male,,,,muscle
+SAMN17270177,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_BO010,,,missing,,,,muscle
+SAMN17270178,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_BO011,,,male,,,,muscle
+SAMN17270179,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_BO012,,,female,,,,muscle
+SAMN17270180,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_BO013,,,male,,,,muscle
+SAMN17270181,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_BO014,,,female,,,,muscle
+SAMN17270182,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_BO015,,,male,,,,muscle
+SAMN17270183,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_BO016,,,male,,,,muscle
+SAMN17270184,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_BO017,,,male,,,,muscle
+SAMN17270185,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_BO018,,,female,,,,muscle
+SAMN17270186,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_BO019,,,female,,,,muscle
+SAMN17270570,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO020,,,male,,,,muscle
+SAMN17270571,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO021,,,male,,,,muscle
+SAMN17270572,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO022,,,male,,,,muscle
+SAMN17270573,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO023,,,male,,,,muscle
+SAMN17270574,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO024,,,male,,,,muscle
+SAMN17270575,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO025,,,male,,,,muscle
+SAMN17270576,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_JO026,,,male,,,,muscle
+SAMN17270577,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO027,,,male,,,,muscle
+SAMN17270578,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO028,,,male,,,,muscle
+SAMN17270579,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO029,,,male,,,,muscle
+SAMN17270580,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO030,,,male,,,,muscle
+SAMN17270581,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_JO031,,,male,,,,muscle
+SAMN17270582,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO032,,,male,,,,muscle
+SAMN17270583,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_JO033,,,female,,,,muscle
+SAMN17270584,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO034,,,male,,,,muscle
+SAMN17270585,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO035,,,male,,,,muscle
+SAMN17270586,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO036,,,male,,,,muscle
+SAMN17270587,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO037,,,male,,,,muscle
+SAMN17270588,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_JO042,,,male,,,,muscle
+SAMN17270589,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO043,,,male,,,,muscle
+SAMN17270590,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_JO047,,,male,,,,muscle
+SAMN17270591,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO048,,,male,,,,muscle
+SAMN17270592,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO053,,,female,,,,muscle
+SAMN17270593,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_JO054,,,male,,,,muscle
+SAMN17270594,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_JO067,,,male,,,,muscle
+SAMN17270595,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_JO069,,,female,,,,muscle
+SAMN17270596,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LA001,,,female,,,,muscle
+SAMN17270597,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LA002,,,female,,,,muscle
+SAMN17270598,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LA003,,,female,,,,muscle
+SAMN17270599,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_LA004,,,female,,,,muscle
+SAMN17270600,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-unknown,,AR,,,,,,,replicate_LA005,,,female,,,,muscle
+SAMN17270601,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-unknown,,AR,,,,,,,replicate_LA006,,,female,,,,muscle
+SAMN17270602,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-unknown,,AR,,,,,,,replicate_LA007,,,female,,,,muscle
+SAMN17270603,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_LA008,,,female,,,,muscle
+SAMN17270604,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-unknown,,AR,,,,,,,replicate_LA009,,,female,,,,muscle
+SAMN17270605,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-unknown,,AR,,,,,,,replicate_LA010,,,female,,,,muscle
+SAMN17270606,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LA011,,,male,,,,muscle
+SAMN17270607,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LA012,,,female,,,,muscle
+SAMN17270608,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LA013,,,male,,,,muscle
+SAMN17270609,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LA014,,,female,,,,muscle
+SAMN17270610,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LA015,,,female,,,,muscle
+SAMN17270611,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LC001,,,female,,,,muscle
+SAMN17270612,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LE001,,,female,,,,muscle
+SAMN17270613,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LE002,,,female,,,,muscle
+SAMN17270614,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LE003,,,female,,,,muscle
+SAMN17270615,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LE004,,,missing,,,,muscle
+SAMN17270616,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LE005,,,missing,,,,muscle
+SAMN17270617,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LE006,,,female,,,,muscle
+SAMN17270618,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LE007,,,male,,,,muscle
+SAMN17270619,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LE008,,,female,,,,muscle
+SAMN17270620,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LE009,,,female,,,,muscle
+SAMN17270621,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LI009,,,male,,,,muscle
+SAMN17270622,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5.5,,,,,CWD-unknown,,AR,,,,,,,replicate_LI002,,,female,,,,muscle
+SAMN17270623,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LI003,,,missing,,,,muscle
+SAMN17270624,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_LI004,,,female,,,,muscle
+SAMN17270625,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-unknown,,AR,,,,,,,replicate_LI005,,,female,,,,muscle
+SAMN17270626,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-unknown,,AR,,,,,,,replicate_LI006,,,male,,,,muscle
+SAMN17270627,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-unknown,,AR,,,,,,,replicate_LI007,,,male,,,,muscle
+SAMN17270628,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-unknown,,AR,,,,,,,replicate_LI008,,,female,,,,muscle
+SAMN17270629,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LN001,,,female,,,,muscle
+SAMN17270630,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LN002,,,female,,,,muscle
+SAMN17270631,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LN003,,,female,,,,muscle
+SAMN17270632,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LN004,,,male,,,,muscle
+SAMN17270633,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LN005,,,female,,,,muscle
+SAMN17270634,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LN006,,,female,,,,muscle
+SAMN17270635,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LN007,,,male,,,,muscle
+SAMN17270636,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LN008,,,male,,,,muscle
+SAMN17270637,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LN009,,,female,,,,muscle
+SAMN17270638,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LN010,,,female,,,,muscle
+SAMN17270639,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LN011,,,male,,,,muscle
+SAMN17270640,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LN012,,,male,,,,muscle
+SAMN17270641,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LN013,,,male,,,,muscle
+SAMN17270642,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO001,,,female,,,,muscle
+SAMN17270643,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO002,,,male,,,,muscle
+SAMN17270644,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO003,,,male,,,,muscle
+SAMN17270645,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO004,,,male,,,,muscle
+SAMN17270646,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO005,,,male,,,,muscle
+SAMN17270647,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO006,,,female,,,,muscle
+SAMN17270648,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LO007,,,male,,,,muscle
+SAMN17270649,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LO008,,,male,,,,muscle
+SAMN17270650,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO009,,,male,,,,muscle
+SAMN17270651,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO010,,,male,,,,muscle
+SAMN17270652,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO011,,,male,,,,muscle
+SAMN17270653,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO012,,,male,,,,muscle
+SAMN17270654,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO013,,,male,,,,muscle
+SAMN17270655,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LO014,,,male,,,,muscle
+SAMN17270656,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO015,,,male,,,,muscle
+SAMN17270657,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO016,,,male,,,,muscle
+SAMN17270658,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO017,,,male,,,,muscle
+SAMN17270659,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LO018,,,female,,,,muscle
+SAMN17270660,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO019,,,female,,,,muscle
+SAMN17270661,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO020,,,female,,,,muscle
+SAMN17270662,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO021,,,female,,,,muscle
+SAMN17270663,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LO022,,,male,,,,muscle
+SAMN17270664,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LO023,,,male,,,,muscle
+SAMN17270665,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO024,,,male,,,,muscle
+SAMN17270666,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO025,,,male,,,,muscle
+SAMN17270667,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO032,,,female,,,,muscle
+SAMN17270668,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO033,,,female,,,,muscle
+SAMN17270669,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO034,,,male,,,,muscle
+SAMN17270670,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO038,,,male,,,,muscle
+SAMN17270671,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LO039,,,female,,,,muscle
+SAMN17270672,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO040,,,male,,,,muscle
+SAMN17270673,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LO041,,,male,,,,muscle
+SAMN17270674,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LR001,,,female,,,,muscle
+SAMN17270675,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LR002,,,male,,,,muscle
+SAMN17270676,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LR003,,,female,,,,muscle
+SAMN17270677,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_LR004,,,female,,,,muscle
+SAMN17270678,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LR005,,,female,,,,muscle
+SAMN17270679,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LR006,,,female,,,,muscle
+SAMN17270680,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LR007,,,female,,,,muscle
+SAMN17270681,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_LR008,,,female,,,,muscle
+SAMN17270682,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_LR009,,,male,,,,muscle
+SAMN17270683,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LR010,,,male,,,,muscle
+SAMN17270684,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LW001,,,male,,,,muscle
+SAMN17270685,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_LW002,,,male,,,,muscle
+SAMN17270686,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_LW003,,,female,,,,muscle
+SAMN17270687,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_LW004,,,female,,,,muscle
+SAMN17270688,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW005,,,missing,,,,muscle
+SAMN17270689,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW006,,,missing,,,,muscle
+SAMN17270690,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW007,,,missing,,,,muscle
+SAMN17270691,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW008,,,missing,,,,muscle
+SAMN17270692,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW009,,,missing,,,,muscle
+SAMN17270693,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW010,,,missing,,,,muscle
+SAMN17270694,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW011,,,missing,,,,muscle
+SAMN17270695,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW012,,,missing,,,,muscle
+SAMN17270696,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW013,,,missing,,,,muscle
+SAMN17270697,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW014,,,missing,,,,muscle
+SAMN17270698,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW015,,,missing,,,,muscle
+SAMN17270699,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW016,,,missing,,,,muscle
+SAMN17270700,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_LW017,,,missing,,,,muscle
+SAMN17270701,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA001,,,male,,,,muscle
+SAMN17270702,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA002,,,male,,,,muscle
+SAMN17270703,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA003,,,female,,,,muscle
+SAMN17270704,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_MA004,,,male,,,,muscle
+SAMN17270705,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA005,,,male,,,,muscle
+SAMN17270706,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_MA006,,,male,,,,muscle
+SAMN17270707,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA007,,,female,,,,muscle
+SAMN17270708,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA008,,,male,,,,muscle
+SAMN17270709,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA009,,,male,,,,muscle
+SAMN17270710,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA010,,,female,,,,muscle
+SAMN17270711,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_MA011,,,male,,,,muscle
+SAMN17270712,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA012,,,male,,,,muscle
+SAMN17270713,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA013,,,male,,,,muscle
+SAMN17270714,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MA014,,,female,,,,muscle
+SAMN17270715,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA015,,,female,,,,muscle
+SAMN17270716,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-negative,,AR,,,,,,,replicate_MA016,,,male,,,,muscle
+SAMN17270717,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA017,,,female,,,,muscle
+SAMN17270718,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA018,,,male,,,,muscle
+SAMN17270719,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA019,,,male,,,,muscle
+SAMN17270720,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA020,,,male,,,,muscle
+SAMN17270721,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MA021,,,male,,,,muscle
+SAMN17270722,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA022,,,male,,,,muscle
+SAMN17270723,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA023,,,male,,,,muscle
+SAMN17270724,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA024,,,male,,,,muscle
+SAMN17270725,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-positive,,AR,,,,,,,replicate_MA001,,,male,,,,muscle
+SAMN17270726,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA022_2,,,male,,,,muscle
+SAMN17270727,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA023_2,,,male,,,,muscle
+SAMN17270728,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA026,,,male,,,,muscle
+SAMN17270729,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA027,,,female,,,,muscle
+SAMN17270730,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_MA029,,,male,,,,muscle
+SAMN17270731,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA036,,,male,,,,muscle
+SAMN17270732,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA037,,,male,,,,muscle
+SAMN17270733,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA038,,,male,,,,muscle
+SAMN17270734,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA045,,,female,,,,muscle
+SAMN17270735,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MA050,,,female,,,,muscle
+SAMN17270736,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MA055,,,male,,,,muscle
+SAMN17270737,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MA056,,,female,,,,muscle
+SAMN17270738,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_MA058,,,missing,,,,muscle
+SAMN17270739,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_MA059,,,missing,,,,muscle
+SAMN17270740,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-positive,,AR,,,,,,,replicate_MA060,,,missing,,,,muscle
+SAMN17270741,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_MI006,,,male,,,,muscle
+SAMN17270742,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_MI007,,,male,,,,muscle
+SAMN17270743,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-unknown,,AR,,,,,,,replicate_MI008,,,female,,,,muscle
+SAMN17270744,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-unknown,,AR,,,,,,,replicate_MI009,,,female,,,,muscle
+SAMN17270745,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_MI010,,,male,,,,muscle
+SAMN17270746,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-unknown,,AR,,,,,,,replicate_MI011,,,female,,,,muscle
+SAMN17270747,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_MI012,,,male,,,,muscle
+SAMN17270748,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_ML001,,,female,,,,muscle
+SAMN17270749,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_ML002,,,male,,,,muscle
+SAMN17270750,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_ML003,,,male,,,,muscle
+SAMN17270751,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_ML004,,,female,,,,muscle
+SAMN17270752,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_ML005,,,female,,,,muscle
+SAMN17270753,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MN001,,,female,,,,muscle
+SAMN17270754,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MN004,,,female,,,,muscle
+SAMN17270755,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MN005,,,female,,,,muscle
+SAMN17270756,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MN006,,,male,,,,muscle
+SAMN17270757,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MN007,,,male,,,,muscle
+SAMN17270758,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MN008,,,male,,,,muscle
+SAMN17270759,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MN009,,,female,,,,muscle
+SAMN17270760,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_MN010,,,female,,,,muscle
+SAMN17270761,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_MN011,,,male,,,,muscle
+SAMN17270762,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-negative,,AR,,,,,,,replicate_MN012,,,female,,,,muscle
+SAMN17270763,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-negative,,AR,,,,,,,replicate_MN013,,,male,,,,muscle
+SAMN17270764,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MO001,,,missing,,,,muscle
+SAMN17270765,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MO002,,,missing,,,,muscle
+SAMN17270766,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-negative,,AR,,,,,,,replicate_MS001,,,male,,,,muscle
+SAMN17270767,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_MS002,,,missing,,,,muscle
+SAMN17270768,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-negative,,AR,,,,,,,replicate_NE001,,,male,,,,muscle
+SAMN17270769,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_NE002,,,missing,,,,muscle
+SAMN17270770,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-negative,,AR,,,,,,,replicate_NE014,,,missing,,,,muscle
+SAMN17270771,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_NE003,,,missing,,,,muscle
+SAMN17270772,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_NE004,,,missing,,,,muscle
+SAMN17270773,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_NE005,,,missing,,,,muscle
+SAMN17270774,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,missing,,,,,CWD-unknown,,AR,,,,,,,replicate_NE006,,,missing,,,,muscle
+SAMN17270775,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,2,,,,,CWD-unknown,,AR,,,,,,,replicate_NE007,,,female,,,,muscle
+SAMN17270776,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-unknown,,AR,,,,,,,replicate_NE008,,,female,,,,muscle
+SAMN17270777,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,3,,,,,CWD-unknown,,AR,,,,,,,replicate_NE009,,,female,,,,muscle
+SAMN17270778,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,1,,,,,CWD-unknown,,AR,,,,,,,replicate_NE010,,,female,,,,muscle
+SAMN17270779,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,5,,,,,CWD-unknown,,AR,,,,,,,replicate_NE011,,,female,,,,muscle
+SAMN17270780,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,4,,,,,CWD-unknown,,AR,,,,,,,replicate_NE012,,,female,,,,muscle
+SAMN17270781,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-unknown,,AR,,,,,,,replicate_NE013,,,male,,,,muscle
+SAMN17270782,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_OU001,,,female,,,,muscle
+SAMN17270783,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,0,,,,,CWD-negative,,AR,,,,,,,replicate_OU002,,,female,,,,muscle
+SAMN17904107,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,1,46.36707216 N 81.58503367 W,,male,,minus 80,,Ear punch
+SAMN17904109,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,3,46.36707216 N 81.58503367 W,,male,,minus 80,,Ear punch
+SAMN17904111,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,5,46.36707216 N 81.58503367 W,,male,,minus 80,,Ear punch
+SAMN17904113,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,7,46.45765725 N 81.45577996 W,,male,,minus 80,,Ear punch
+SAMN17904115,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,9,46.24130474 N 84.08146983 W,,male,,minus 80,,Ear punch
+SAMN17904117,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,11,46.24130474 N 84.08146983 W,,female,,minus 80,,Ear punch
+SAMN17904119,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,13,46.24130474 N 84.08146983 W,,female,,minus 80,,Ear punch
+SAMN17904121,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,15,46.09328008 N 82.09958485 W,,male,,minus 80,,Ear punch
+SAMN17904123,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,17,46.00635888 N 81.71037991 W,,male,,minus 80,,Ear punch
+SAMN17904125,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,19,46.09328008 N 82.09958485 W,,female,,minus 80,,Ear punch
+SAMN17904127,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,21,46.09328008 N 82.09958485 W,,female,,minus 80,,Ear punch
+SAMN17904129,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,23,45.89876240 N 83.12703181 W,,male,,minus 80,,Ear punch
+SAMN17904131,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,25,45.89876240 N 83.12703181 W,,male,,minus 80,,Ear punch
+SAMN17904133,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,27,45.89876240 N 83.12703181 W,,female,,minus 80,,Ear punch
+SAMN17904135,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,29,45.89876240 N 83.12703181 W,,female,,minus 80,,Ear punch
+SAMN17904137,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,31,45.89367464 N 83.38464082 W,,male,,minus 80,,Ear punch
+SAMN17904139,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,33,45.89367464 N 83.38464082 W,,male,,minus 80,,Ear punch
+SAMN17904141,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,35,45.89367464 N 83.38464082 W,,female,,minus 80,,Ear punch
+SAMN17904143,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,37,45.89367464 N 83.38464082 W,,female,,minus 80,,Ear punch
+SAMN17904145,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,39,48.70640222 N 92.38834849 W,,male,,minus 80,,Ear punch
+SAMN17904147,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,41,n/a,,male,,minus 80,,Ear punch
+SAMN17904149,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,43,n/a,,female,,minus 80,,Ear punch
+SAMN17904151,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,45,48.70351651 N 91.98063439 W,,female,,minus 80,,Ear punch
+SAMN17904153,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,47,48.58769362 N 89.64438744 W,,male,,minus 80,,Ear punch
+SAMN17904155,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,49,48.58450073 N 89.77983501 W,,male,,minus 80,,Ear punch
+SAMN17904157,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,51,48.49464354 N 89.77491547 W,,female,,minus 80,,Ear punch
+SAMN17904159,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,53,48.58450073 N 89.77983501 W,,female,,minus 80,,Ear punch
+SAMN17904161,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,55,50.05675347 N 93.34924697 W,,male,,minus 80,,Ear punch
+SAMN17904163,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,57,50.05624876 N 93.48894122 W,,male,,minus 80,,Ear punch
+SAMN17904165,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,59,n/a,,female,,minus 80,,Ear punch
+SAMN17904167,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Yearling,No CWD,,,,,,Canada: Ontario,,,61,49.95424854 N 94.74256923 W,,male,,minus 80,,Ear punch
+SAMN17904169,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,63,50.05255005 N 94.04765855 W,,female,,minus 80,,Ear punch
+SAMN17904171,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,65,50.04196272 N 94.88541161 W,,female,,minus 80,,Ear punch
+SAMN17904173,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,67,49.77644342 N 94.59728257 W,,male,,minus 80,,Ear punch
+SAMN17904175,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,69,49.68238583 N 94.87146435 W,,female,,minus 80,,Ear punch
+SAMN17904177,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,71,49.87570484 N 93.62629283 W,,female,,minus 80,,Ear punch
+SAMN17904179,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,73,49.77228264 N 94.87492547 W,,male,,minus 80,,Ear punch
+SAMN17904181,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,75,49.78743226 N 92.93053862 W,,male,,minus 80,,Ear punch
+SAMN17904183,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,77,49.78743226 N 93.06946137 W,,female,,minus 80,,Ear punch
+SAMN17904185,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,79,49.78743226 N 93.06946137 W,,female,,minus 80,,Ear punch
+SAMN17904187,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,81,49.60654868 N 92.51557082 W,,male,,minus 80,,Ear punch
+SAMN17904189,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,83,49.60654868 N 92.51557082 W,,male,,minus 80,,Ear punch
+SAMN17904191,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,85,49.60654868 N 92.51557082 W,,male,,minus 80,,Ear punch
+SAMN17904193,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,87,49.60654868 N 92.51557082 W,,male,,minus 80,,Ear punch
+SAMN17904195,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,89,48.79635734 N 93.61274465 W,,male,,minus 80,,Ear punch
+SAMN17904197,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,91,48.79635734 N 93.61274465 W,,male,,minus 80,,Ear punch
+SAMN17904199,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,93,48.88550392 N 93.75024167 W,,female,,minus 80,,Ear punch
+SAMN17904201,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,95,48.88550392 N 93.75024167 W,,female,,minus 80,,Ear punch
+SAMN17904203,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,97,48.70463898 N 93.88346837 W,,female,,minus 80,,Ear punch
+SAMN17904205,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,99,48.70640222 N 93.61165150 W,,female,,minus 80,,Ear punch
+SAMN17904207,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,101,48.70351651 N 94.01936560 W,,male,,minus 80,,Ear punch
+SAMN17904209,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,103,48.70784522 N 92.79611075 W,,female,,minus 80,,Ear punch
+SAMN17904211,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,105,48.70784522 N 92.79611075 W,,female,,minus 80,,Ear punch
+SAMN17904213,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Yearling,No CWD,,,,,,Canada: Ontario,,,107,48.70784522 N 92.79611075 W,,male,,minus 80,,Ear punch
+SAMN17904215,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Yearling,No CWD,,,,,,Canada: Ontario,,,109,48.70784522 N 92.79611075 W,,male,,minus 80,,Ear punch
+SAMN17904217,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2016,2016,Adult,No CWD,,,,,,Canada: Ontario,,,111,46.42106575 N 83.92811602 W,,male,,minus 80,,Ear punch
+SAMN17904219,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2016,2016,Adult,No CWD,,,,,,Canada: Ontario,,,113,46.33118604 N 83.92331114 W,,female,,minus 80,,Ear punch
+SAMN17904221,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2016,2016,Adult,No CWD,,,,,,Canada: Ontario,,,115,46.42106575 N 83.92811602 W,,female,,minus 80,,Ear punch
+SAMN17904223,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2016,2016,Adult,No CWD,,,,,,Canada: Ontario,,,117,46.24130474 N 84.08146983 W,,male,,minus 80,,Ear punch
+SAMN17904225,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,119,45.28335237 N 76.08382704 W,,male,,minus 80,,Ear punch
+SAMN17904227,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,121,45.01546460 N 75.82493506 W,,male,,minus 80,,Ear punch
+SAMN17904229,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,123,45.01546460 N 75.82493506 W,,female,,minus 80,,Ear punch
+SAMN17904231,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,125,45.01546460 N 75.82493506 W,,female,,minus 80,,Ear punch
+SAMN17904233,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Yearling,No CWD,,,,,,Canada: Ontario,,,127,45.09910849 N 76.46162977 W,,male,,minus 80,,Ear punch
+SAMN17904235,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,129,45.10703029 N 75.57202124 W,,male,,minus 80,,Ear punch
+SAMN17904237,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,131,45.10802067 N 75.31779519 W,,female,,minus 80,,Ear punch
+SAMN17904239,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,133,46.36707216 N 81.58503367 W,,male,,minus 80,,Ear punch
+SAMN17904241,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,135,45.16867725 N 77.60868781 W,,male,,minus 80,,Ear punch
+SAMN17904243,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,137,45.06961505 N 77.96090561 W,,male,,minus 80,,Ear punch
+SAMN17904245,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,139,45.06961505 N 77.96090561 W,,female,,minus 80,,Ear punch
+SAMN17904247,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,141,45.06961505 N 77.96090561 W,,female,,minus 80,,Ear punch
+SAMN17904249,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,143,45.26414441 N 77.35812578 W,,male,,minus 80,,Ear punch
+SAMN17904251,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,145,45.26414441 N 77.35812578 W,,male,,minus 80,,Ear punch
+SAMN17904253,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,147,45.26414441 N 77.35812578 W,,female,,minus 80,,Ear punch
+SAMN17904255,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,149,45.26414441 N 77.35812578 W,,female,,minus 80,,Ear punch
+SAMN17904257,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,151,45.10335196 N 79.91958475 W,,female,,minus 80,,Ear punch
+SAMN17904259,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,153,45.10335196 N 79.91958475 W,,female,,minus 80,,Ear punch
+SAMN17904261,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,155,45.64708235 N 80.42250775 W,,male,,minus 80,,Ear punch
+SAMN17904263,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Yearling,No CWD,,,,,,Canada: Ontario,,,157,45.64765941 N 80.55083470 W,,male,,minus 80,,Ear punch
+SAMN17904265,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,159,45.91636160 N 80.29076974 W,,male,,minus 80,,Ear punch
+SAMN17904267,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,161,45.82636270 N 80.29191298 W,,male,,minus 80,,Ear punch
+SAMN17904269,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,163,45.91636160 N 80.29076974 W,,female,,minus 80,,Ear punch
+SAMN17904271,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,165,45.82636270 N 80.29191298 W,,female,,minus 80,,Ear punch
+SAMN17904273,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,167,45.64448785 N 80.03755622 W,,male,,minus 80,,Ear punch
+SAMN17904275,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,169,45.55449070 N 80.03909401 W,,male,,minus 80,,Ear punch
+SAMN17904277,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,171,45.64448785 N 80.03755622 W,,female,,minus 80,,Ear punch
+SAMN17904279,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,173,45.27552496 N 79.27886336 W,,female,,minus 80,,Ear punch
+SAMN17904281,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,175,45.27552496 N 79.27886336 W,,female,,minus 80,,Ear punch
+SAMN17904283,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,177,45.00742748 N 79.41380907 W,,male,,minus 80,,Ear punch
+SAMN17904285,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,179,45.09359387 N 79.15725243 W,,male,,minus 80,,Ear punch
+SAMN17904287,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,181,45.00742748 N 79.41380907 W,,female,,minus 80,,Ear punch
+SAMN17904289,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,183,45.27353285 N 79.15143573 W,,female,,minus 80,,Ear punch
+SAMN17904291,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,185,45.17151202 N 78.51844249 W,,male,,minus 80,,Ear punch
+SAMN17904293,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,187,45.17151202 N 78.51844249 W,,male,,minus 80,,Ear punch
+SAMN17904295,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,189,44.90690454 N 78.78320789 W,,male,,minus 80,,Ear punch
+SAMN17904297,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,191,44.99925273 N 78.90652516 W,,male,,minus 80,,Ear punch
+SAMN17904299,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,193,44.99925273 N 78.90652516 W,,female,,minus 80,,Ear punch
+SAMN17904301,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2008,2008,Adult,No CWD,,,,,,Canada: Ontario,,,195,44.99925273 N 78.90652516 W,,female,,minus 80,,Ear punch
+SAMN17904303,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,197,44.74445166 N 80.05261046 W,,male,,minus 80,,Ear punch
+SAMN17904305,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,199,44.83446201 N 80.05113684 W,,male,,minus 80,,Ear punch
+SAMN17904307,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,201,44.83446201 N 80.05113684 W,,female,,minus 80,,Ear punch
+SAMN17904309,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,203,44.47330490 N 79.93127634 W,,female,,minus 80,,Ear punch
+SAMN17904311,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,205,44.10914517 N 79.56298912 W,,female,,minus 80,,Ear punch
+SAMN17904313,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,207,44.10750523 N 79.43807656 W,,female,,minus 80,,Ear punch
+SAMN17904315,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,209,44.10750523 N 79.43807656 W,,male,,minus 80,,Ear punch
+SAMN17904317,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,211,44.10750523 N 79.43807656 W,,male,,minus 80,,Ear punch
+SAMN17904319,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,213,44.61990874 N 77.94958014 W,,female,,minus 80,,Ear punch
+SAMN17904321,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,215,44.61990874 N 78.05041985 W,,female,,minus 80,,Ear punch
+SAMN17904323,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,217,44.80295190 N 78.15496802 W,,male,,minus 80,,Ear punch
+SAMN17904325,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,219,44.26345288 N 77.81886526 W,,male,,minus 80,,Ear punch
+SAMN17904327,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,221,44.17353059 N 77.81457495 W,,female,,minus 80,,Ear punch
+SAMN17904329,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,223,44.17013304 N 78.06148912 W,,female,,minus 80,,Ear punch
+SAMN17904331,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,225,43.99367992 N 78.19394615 W,,male,,minus 80,,Ear punch
+SAMN17904333,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,227,45.07578641 N 78.26849844 W,,female,,minus 80,,Ear punch
+SAMN17904335,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,229,44.27210806 N 78.55661767 W,,female,,minus 80,,Ear punch
+SAMN17904337,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,231,44.27210806 N 78.55661767 W,,female,,minus 80,,Ear punch
+SAMN17904339,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,233,44.08660937 N 78.31445892 W,,male,,minus 80,,Ear punch
+SAMN17904341,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,235,44.26936007 N 78.43143855 W,,male,,minus 80,,Ear punch
+SAMN17904343,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,237,44.44329317 N 78.17249440 W,,female,,minus 80,,Ear punch
+SAMN17904345,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,239,44.35337399 N 78.17682456 W,,female,,minus 80,,Ear punch
+SAMN17904347,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,241,44.55748511 N 76.57391590 W,,male,,minus 80,,Ear punch
+SAMN17904349,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,243,44.55748511 N 76.57391590 W,,male,,minus 80,,Ear punch
+SAMN17904351,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,245,44.55748511 N 76.57391590 W,,female,,minus 80,,Ear punch
+SAMN17904353,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,247,44.55748511 N 76.57391590 W,,female,,minus 80,,Ear punch
+SAMN17904355,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2004,2004,Adult,No CWD,,,,,,Canada: Ontario,,,249,n/a,,male,,minus 80,,Ear punch
+SAMN17904357,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,251,46.06782177 N 77.65074827 W,,male,,minus 80,,Ear punch
+SAMN17904359,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,253,n/a,,male,,minus 80,,Ear punch
+SAMN17904361,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,255,45.80374714 N 77.38079870 W,,female,,minus 80,,Ear punch
+SAMN17904363,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,257,45.43543431 N 78.25118827 W,,male,,minus 80,,Ear punch
+SAMN17904365,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,259,45.71381721 N 77.37697520 W,,male,,minus 80,,Ear punch
+SAMN17904367,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,261,45.53395321 N 77.36938152 W,,female,,minus 80,,Ear punch
+SAMN17904369,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,263,45.71107305 N 77.50533960 W,,female,,minus 80,,Ear punch
+SAMN17904371,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,265,45.18555012 N 76.71842224 W,,female,,minus 80,,Ear punch
+SAMN17904373,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,267,45.09359387 N 76.84274756 W,,female,,minus 80,,Ear punch
+SAMN17904375,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,269,45.18555012 N 76.71842224 W,,male,,minus 80,,Ear punch
+SAMN17904377,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,271,45.00911933 N 76.45933929 W,,male,,minus 80,,Ear punch
+SAMN17904379,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,273,45.00911933 N 76.45933929 W,,male,,minus 80,,Ear punch
+SAMN17904381,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,275,45.00911933 N 76.45933929 W,,female,,minus 80,,Ear punch
+SAMN17904383,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2013,2013,Adult,No CWD,,,,,,Canada: Ontario,,,277,45.00911933 N 76.45933929 W,,female,,minus 80,,Ear punch
+SAMN17904385,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,279,45.10448338 N 75.95332636 W,,female,,minus 80,,Ear punch
+SAMN17904387,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,281,44.92334585 N 76.07703494 W,,female,,minus 80,,Ear punch
+SAMN17904389,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,283,44.83796521 N 75.31630766 W,,male,,minus 80,,Ear punch
+SAMN17904391,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,285,45.10802067 N 75.31779519 W,,female,,minus 80,,Ear punch
+SAMN17904393,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,287,44.65541472 N 75.81981363 W,,female,,minus 80,,Ear punch
+SAMN17904395,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,289,44.92629797 N 75.69694146 W,,female,,minus 80,,Ear punch
+SAMN17904397,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,291,44.83628390 N 75.69585546 W,,male,,minus 80,,Ear punch
+SAMN17904399,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2017,2017,Adult,No CWD,,,,,,Canada: Ontario,,,293,44.83628390 N 75.69585546 W,,male,,minus 80,,Ear punch
+SAMN17904401,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2015,2015,Adult,No CWD,,,,,,Canada: Ontario,,,295,45.64448785 N 80.03755622 W,,female,,minus 80,,Ear punch
+SAMN17904403,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2015,2015,Adult,No CWD,,,,,,Canada: Ontario,,,297,45.63728192 N 79.39613030 W,,male,,minus 80,,Ear punch
+SAMN17904405,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2015,2015,Adult,No CWD,,,,,,Canada: Ontario,,,299,45.54544024 N 79.27064390 W,,male,,minus 80,,Ear punch
+SAMN17904407,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,301,42.76033527 N 82.28322696 W,,male,,minus 80,,Ear punch
+SAMN17904409,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,303,42.76033527 N 82.28322696 W,,male,,minus 80,,Ear punch
+SAMN17904411,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,305,42.76033527 N 82.28322696 W,,female,,minus 80,,Ear punch
+SAMN17904413,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2007,2007,Adult,No CWD,,,,,,Canada: Ontario,,,307,42.76033527 N 82.28322696 W,,female,,minus 80,,Ear punch
+SAMN17904415,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Yearling,No CWD,,,,,,Canada: Ontario,,,309,44.02608826 N 80.31369296 W,,female,,minus 80,,Ear punch
+SAMN17904417,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,311,43.93605928 N 80.31472966 W,,female,,minus 80,,Ear punch
+SAMN17904419,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,313,44.02608826 N 80.31369296 W,,male,,minus 80,,Ear punch
+SAMN17904421,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2009,2009,Adult,No CWD,,,,,,Canada: Ontario,,,315,44.02608826 N 80.31369296 W,,male,,minus 80,,Ear punch
+SAMN17904423,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,317,45.10759629 N 81.44490953 W,,female,,minus 80,,Ear punch
+SAMN17904425,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,319,45.10759629 N 81.44490953 W,,female,,minus 80,,Ear punch
+SAMN17904427,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,321,45.10759629 N 81.44490953 W,,male,,minus 80,,Ear punch
+SAMN17904429,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2006,2006,Adult,No CWD,,,,,,Canada: Ontario,,,323,45.10759629 N 81.44490953 W,,male,,minus 80,,Ear punch
+SAMN17904431,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2002,2002,Adult,No CWD,,,,,,Canada: Ontario,,,325,44.38812107 N 80.81167522 W,,male,,minus 80,,Ear punch
+SAMN17904433,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2002,2002,Adult,No CWD,,,,,,Canada: Ontario,,,327,44.38784522 N 80.68612657 W,,female,,minus 80,,Ear punch
+SAMN17904435,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2002,2002,Adult,No CWD,,,,,,Canada: Ontario,,,329,44.38825899 N 80.93722486 W,,female,,minus 80,,Ear punch
+SAMN17904437,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,331,43.75721248 N 81.43478028 W,,female,,minus 80,,Ear punch
+SAMN17904439,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,333,43.75721248 N 81.43478028 W,,female,,minus 80,,Ear punch
+SAMN17904441,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,335,42.93186847 N 79.10047768 W,,male,,minus 80,,Ear punch
+SAMN17904443,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,337,42.93186847 N 79.10047768 W,,male,,minus 80,,Ear punch
+SAMN17904445,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,339,42.93186847 N 79.10047768 W,,female,,minus 80,,Ear punch
+SAMN17904447,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Yearling,No CWD,,,,,,Canada: Ontario,,,341,42.84186557 N 79.10323807 W,,female,,minus 80,,Ear punch
+SAMN17904449,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,343,42.85625352 N 80.44919256 W,,female,,minus 80,,Ear punch
+SAMN17904451,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,345,42.85625352 N 80.44919256 W,,female,,minus 80,,Ear punch
+SAMN17904453,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,347,42.85625352 N 80.44919256 W,,male,,minus 80,,Ear punch
+SAMN17904455,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,349,42.67732316 N 80.81692520 W,,female,,minus 80,,Ear punch
+SAMN17904457,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,351,42.67732316 N 80.81692520 W,,male,,minus 80,,Ear punch
+SAMN17904459,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005,2005,Adult,No CWD,,,,,,Canada: Ontario,,,353,42.67732316 N 80.81692520 W,,male,,minus 80,,Ear punch
+SAMN17904461,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2012,2012,Adult,No CWD,,,,,,Canada: Ontario,,,355,43.21577602 N 81.67715100 W,,female,,minus 80,,Ear punch
+SAMN17904463,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2012,2012,Adult,No CWD,,,,,,Canada: Ontario,,,357,43.21577602 N 81.67715100 W,,female,,minus 80,,Ear punch
+SAMN17904465,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2012,2012,Adult,No CWD,,,,,,Canada: Ontario,,,359,43.12573438 N 81.67615652 W,,male,,minus 80,,Ear punch
+SAMN17904467,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,361,44.56831424 N 81.06296850 W,,male,,minus 80,,Ear punch
+SAMN17904469,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,363,44.56831424 N 81.06296850 W,,male,,minus 80,,Ear punch
+SAMN17904471,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,365,44.47828726 N 81.06287125 W,,female,,minus 80,,Ear punch
+SAMN17904473,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,367,44.47828726 N 81.06287125 W,,female,,minus 80,,Ear punch
+SAMN17904475,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,369,44.11775575 N 81.31244053 W,,female,,minus 80,,Ear punch
+SAMN17904477,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,371,44.20778701 N 81.31291570 W,,female,,minus 80,,Ear punch
+SAMN17904479,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,373,44.02772334 N 81.31196698 W,,male,,minus 80,,Ear punch
+SAMN17904481,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,375,44.02772334 N 81.31196698 W,,male,,minus 80,,Ear punch
+SAMN17904483,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,377,43.93673925 N 81.56068227 W,,male,,minus 80,,Ear punch
+SAMN17904485,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2014,2014,Adult,No CWD,,,,,,Canada: Ontario,,,379,43.93673925 N 81.56068227 W,,male,,minus 80,,Ear punch
+SAMN20926671,Odocoileus virginianus,clinical sample 1,,White-tailed deer,,,adult,Chronic wasting disease,clinical,,,,,,clinical,,clinical sample 1,,tissue sample,female,,,,brain
+SAMN20926672,Odocoileus virginianus,clinical sample 2,,White-tailed deer,,,adult,Chronic wasting disease,clinical,,,,,,clinical,,clinical sample 2,,tissue sample,female,,,,brain
+SAMN20926673,Odocoileus virginianus,clinical sample 3,,White-tailed deer,,,adult,Chronic wasting disease,clinical,,,,,,clinical,,clinical sample 3,,tissue sample,male,,,,brain
+SAMN20926674,Odocoileus virginianus,healthy sample 1,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 1,,tissue sample,male,,,,brain
+SAMN20926675,Odocoileus virginianus,healthy sample 2,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 2,,tissue sample,male,,,,brain
+SAMN20926676,Odocoileus virginianus,healthy sample 3,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 3,,tissue sample,male,,,,brain
+SAMN20926677,Odocoileus virginianus,healthy sample 4,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 4,,tissue sample,male,,,,brain
+SAMN20926678,Odocoileus virginianus,healthy sample 5,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 5,,tissue sample,male,,,,brain
+SAMN20926679,Odocoileus virginianus,healthy sample 6,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 6,,tissue sample,female,,,,brain
+SAMN20926680,Odocoileus virginianus,healthy sample 7,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 7,,tissue sample,female,,,,brain
+SAMN20926681,Odocoileus virginianus,healthy sample 8,,White-tailed deer,,,adult,Chronic wasting disease,healthy,,,,,,healthy,,healthy sample 8,,tissue sample,female,,,,brain
+SAMN20926682,Odocoileus virginianus,subclinical sample 1,,White-tailed deer,,,adult,Chronic wasting disease,subclinical,,,,,,subclinical,,subclinical sample 1,,tissue sample,female,,,,brain
+SAMN23390018,Odocoileus virginianus,Tongue Muscle sample from Odocoileus virginianus,Yearling,,,,,,,Illinois,,,,,,,20LAN1187,,,male,,,,tongue muscle
+SAMN27729491,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada: Alberta,,Not applicable,,52.78002000 N 111.01483000 W,,,,,not applicable,
+SAMN27729492,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA: Alabama,,Not applicable,,32.38232399 N 85.68582600 W,,,,,not applicable,
+SAMN27729493,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-03-05,,,,,,Not collected,Not collected,Not collected,USA: Kansas,,Not applicable,,38.6900 N 100.81579999 W,,,,,not applicable,
+SAMN27729494,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA: Montana,,Not applicable,,47.5275 N 113.71099999 W,,,,,not applicable,
+SAMN27729495,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Mexico,,Not applicable,,30.72951000 N 108.73480999 W,,,,,not applicable,
+SAMN27729496,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2007-12-05,,,,,,Not collected,Not collected,Not collected,Canada: Ontario,,Not applicable,,42.4800 N 82.0000 W,,,,,not applicable,
+SAMN27729497,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2016-11-10,,,,,,Not collected,Not collected,Not collected,Canada: Ontario,,Not applicable,,46.3600 N 84.0000 W,,,,,not applicable,
+SAMN27729498,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2018-12-19,,,,,,Not collected,Not collected,Not collected,Canada: Ontario,,Not applicable,,44.5300 N 78.0500 W,,,,,not applicable,
+SAMN27729499,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA: Pennsylvania,,Not applicable,,39.89439999 N 80.08700000 W,,,,,not applicable,
+SAMN27729500,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA: South Carolina,,Not applicable,,33.41479999 N 80.41049999 W,,,,,not applicable,
+SAMN27729501,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-02-06,,,,,,Not collected,Not collected,Not collected,USA: South Dakota,,Not applicable,,44.44149999 N 102.68550000 W,,,,,not applicable,
+SAMN27729502,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2016-12-19,,,,,,Not collected,Not collected,Not collected,Canada: Saskatchewan,,Not applicable,,52.8600 N 102.3600 W,,,,,not applicable,
+SAMN27729503,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2016-12-11,,,,,,Not collected,Not collected,Not collected,Canada: Saskatchewan,,Not applicable,,53.63300000 N 109.2000 W,,,,,not applicable,
+SAMN27729504,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA: Virginia,,Not applicable,,38.1300 N 78.1600 W,,,,,not applicable,
+SAMN30349604,Odocoileus virginianus,Deer 1,NA,,,,NA,,,Iowa-1,,,,,,,,,,male,,,,lymph node
+SAMN30349605,Odocoileus virginianus,Deer 2,NA,,,,NA,,,Iowa-2,,,,,,,,,,male,,,,lymph node
+SAMN30349606,Odocoileus virginianus,Deer 3,NA,,,,NA,,,Iowa-3,,,,,,,,,,male,,,,lymph node
+SAMN30349607,Odocoileus virginianus,Deer 4,NA,,,,NA,,,Texas-1,,,,,,,,,,male,,,,Ear
+SAMN30349608,Odocoileus virginianus,Deer 5,NA,,,,NA,,,Texas-2,,,,,,,,,,male,,,,Ear
+SAMN30349609,Odocoileus virginianus,Deer 6,NA,,,,NA,,,North Carolina-1,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349610,Odocoileus virginianus,Deer 7,NA,,,,NA,,,Iowa-4,,,,,,,,,,male,,,,lymph node
+SAMN30349611,Odocoileus virginianus,Deer 8,NA,,,,NA,,,Iowa-5,,,,,,,,,,male,,,,lymph node
+SAMN30349612,Odocoileus virginianus,Deer 9,NA,,,,NA,,,Texas-3,,,,,,,,,,male,,,,Ear
+SAMN30349613,Odocoileus virginianus,Deer 10,NA,,,,NA,,,Texas-4,,,,,,,,,,male,,,,Ear
+SAMN30349614,Odocoileus virginianus,Deer 11,NA,,,,NA,,,North Carolina-2,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349615,Odocoileus virginianus,Deer 12,NA,,,,NA,,,North Carolina-3,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349616,Odocoileus virginianus,Deer 13,NA,,,,NA,,,Iowa-6,,,,,,,,,,male,,,,lymph node
+SAMN30349617,Odocoileus virginianus,Deer 14,NA,,,,NA,,,Iowa-7,,,,,,,,,,male,,,,lymph node
+SAMN30349618,Odocoileus virginianus,Deer 15,NA,,,,NA,,,Texas-5,,,,,,,,,,male,,,,Ear
+SAMN30349619,Odocoileus virginianus,Deer 16,NA,,,,NA,,,Texas-6,,,,,,,,,,male,,,,Ear
+SAMN30349620,Odocoileus virginianus,Deer 17,NA,,,,NA,,,North Carolina-4,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349621,Odocoileus virginianus,Deer 18,NA,,,,NA,,,North Carolina-5,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349622,Odocoileus virginianus,Deer 19,NA,,,,NA,,,Iowa-8,,,,,,,,,,male,,,,lymph node
+SAMN30349623,Odocoileus virginianus,Deer 20,NA,,,,NA,,,Iowa-9,,,,,,,,,,male,,,,lymph node
+SAMN30349624,Odocoileus virginianus,Deer 21,NA,,,,NA,,,Texas-7,,,,,,,,,,male,,,,Ear
+SAMN30349625,Odocoileus virginianus,Deer 22,NA,,,,NA,,,Texas-8,,,,,,,,,,male,,,,Ear
+SAMN30349626,Odocoileus virginianus,Deer 23,NA,,,,NA,,,North Carolina-6,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349627,Odocoileus virginianus,Deer 24,NA,,,,NA,,,North Carolina-7,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349628,Odocoileus virginianus,Deer 25,NA,,,,NA,,,Iowa-10,,,,,,,,,,male,,,,lymph node
+SAMN30349629,Odocoileus virginianus,Deer 26,NA,,,,NA,,,Iowa-11,,,,,,,,,,male,,,,lymph node
+SAMN30349630,Odocoileus virginianus,Deer 27,NA,,,,NA,,,Texas-9,,,,,,,,,,male,,,,Ear
+SAMN30349631,Odocoileus virginianus,Deer 28,NA,,,,NA,,,Texas-10,,,,,,,,,,male,,,,Ear
+SAMN30349632,Odocoileus virginianus,Deer 29,NA,,,,NA,,,North Carolina-8,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349633,Odocoileus virginianus,Deer 30,NA,,,,NA,,,North Carolina-9,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349634,Odocoileus virginianus,Deer 31,NA,,,,NA,,,Iowa-12,,,,,,,,,,male,,,,lymph node
+SAMN30349635,Odocoileus virginianus,Deer 32,NA,,,,NA,,,Iowa-13,,,,,,,,,,male,,,,lymph node
+SAMN30349636,Odocoileus virginianus,Deer 33,NA,,,,NA,,,Texas-11,,,,,,,,,,male,,,,Ear
+SAMN30349637,Odocoileus virginianus,Deer 34,NA,,,,NA,,,Texas-12,,,,,,,,,,male,,,,Ear
+SAMN30349638,Odocoileus virginianus,Deer 35,NA,,,,NA,,,North Carolina-10,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349639,Odocoileus virginianus,Deer 36,NA,,,,NA,,,Iowa-14,,,,,,,,,,male,,,,lymph node
+SAMN30349640,Odocoileus virginianus,Deer 37,NA,,,,NA,,,Iowa-15,,,,,,,,,,male,,,,lymph node
+SAMN30349641,Odocoileus virginianus,Deer 38,NA,,,,NA,,,Texas-13,,,,,,,,,,male,,,,Ear
+SAMN30349642,Odocoileus virginianus,Deer 39,NA,,,,NA,,,Texas-14,,,,,,,,,,male,,,,Ear
+SAMN30349643,Odocoileus virginianus,Deer 40,NA,,,,NA,,,North Carolina-11,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN30349644,Odocoileus virginianus,Deer 41,NA,,,,NA,,,Iowa-16,,,,,,,,,,male,,,,lymph node
+SAMN30349645,Odocoileus virginianus,Deer 42,NA,,,,NA,,,Iowa-17,,,,,,,,,,male,,,,lymph node
+SAMN30349646,Odocoileus virginianus,Deer 43,NA,,,,NA,,,Texas-15,,,,,,,,,,male,,,,Ear
+SAMN30349647,Odocoileus virginianus,Deer 44,NA,,,,NA,,,Texas-16,,,,,,,,,,male,,,,Ear
+SAMN30349648,Odocoileus virginianus,Deer 45,NA,,,,NA,,,North Carolina-12,,,,,,,,,,male,,,,Muscle (tongue)
+SAMN32798419,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:British Colombia,,Not applicable,,49.30 N 115.46 W,,,,,Not applicable,
+SAMN32798420,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Indiana,,Not applicable,,41.15 N 87.13 W,,,,,Not applicable,
+SAMN32798421,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Indiana,,Not applicable,,39.15 N 85.02 W,,,,,Not applicable,
+SAMN32798422,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Florida,,Not applicable,,24.41 N 81.12 W,,,,,Not applicable,
+SAMN32798423,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Florida,,Not applicable,,24.41 N 81.11 W,,,,,Not applicable,
+SAMN32798424,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Florida,,Not applicable,,24.42 N 81.11 W,,,,,Not applicable,
+SAMN32798425,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Florida,,Not applicable,,24.41 N 81.13 W,,,,,Not applicable,
+SAMN32798426,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-03-17,,,,,,Not collected,Not collected,Not collected,USA:Kansas,,Not applicable,,38.25 N 96.10 W,,,,,Not applicable,
+SAMN32798427,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Manitoba,,Not applicable,,51.31 N 100.23 W,,,,,Not applicable,
+SAMN32798428,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Manitoba,,Not applicable,,50.37 N 97.33 W,,,,,Not applicable,
+SAMN32798429,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Maryland,,Not applicable,,39.37 N 78.36 W,,,,,Not applicable,
+SAMN32798430,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Maine,,Not applicable,,43.30 N 70.08 W,,,,,Not applicable,
+SAMN32798431,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2019-11-25,,,,,,Not collected,Not collected,Not collected,USA:Minnesota,,Not applicable,,46.21 N 94.12 W,,,,,Not applicable,
+SAMN32798432,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2019-02-11,,,,,,Not collected,Not collected,Not collected,USA:Minnesota,,Not applicable,,43.40 N 92.05 W,,,,,Not applicable,
+SAMN32798433,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Missouri,,Not applicable,,38.23 N 91.54 W,,,,,Not applicable,
+SAMN32798434,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Mexico:Chihuahua,,Not applicable,,30.43 N 108.44 W,,,,,Not applicable,
+SAMN32798435,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2018-11-01,,,,,,Not collected,Not collected,Not collected,Canada:New Brunswick,,Not applicable,,45.40 N 66.41 W,,,,,Not applicable,
+SAMN32798436,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-11-11,,,,,,Not collected,Not collected,Not collected,USA:North Carolina,,Not applicable,,34.39 N 77.28 W,,,,,Not applicable,
+SAMN32798437,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Nova Scotia,,Not applicable,,45.02 N 63.09 W,,,,,Not applicable,
+SAMN32798438,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:New York,,Not applicable,,42.38 N 73.44 W,,,,,Not applicable,
+SAMN32798439,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:New York,,Not applicable,,43.01 N 76.10 W,,,,,Not applicable,
+SAMN32798440,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,44.35 N 78.04 W,,,,,Not applicable,
+SAMN32798441,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,44.35 N 78.05 W,,,,,Not applicable,
+SAMN32798442,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,44.35 N 78.15 W,,,,,Not applicable,
+SAMN32798443,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,44.37 N 78.08 W,,,,,Not applicable,
+SAMN32798444,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2009-11-01,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,48.14 N 89.07 W,,,,,Not applicable,
+SAMN32798445,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2017-11-07,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,45.07 N 75.00 W,,,,,Not applicable,
+SAMN32798446,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2008-11-04,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,44.55 N 83.24 W,,,,,Not applicable,
+SAMN32798447,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,Canada:Ontario,,Not applicable,,49.46 N 94.29 W,,,,,Not applicable,
+SAMN32798448,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Pennsylvania,,Not applicable,,39.57 N 76.43 W,,,,,Not applicable,
+SAMN32798449,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2013-11-04,,,,,,Not collected,Not collected,Not collected,Canada:Quebec,,Not applicable,,46.53 N 70.25 W,,,,,Not applicable,
+SAMN32798450,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2019-11-19,,,,,,Not collected,Not collected,Not collected,Canada:Quebec,,Not applicable,,45.24 N 71.53 W,,,,,Not applicable,
+SAMN32798451,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-10-10,,,,,,Not collected,Not collected,Not collected,France:ST-Pierre et Miquelon,,Not applicable,,46.52 N 56.14 W,,,,,Not applicable,
+SAMN32798452,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-02-10,,,,,,Not collected,Not collected,Not collected,USA:Texas,,Not applicable,,30.42 N 94.48 W,,,,,Not applicable,
+SAMN32798453,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-02-19,,,,,,Not collected,Not collected,Not collected,USA:Texas,,Not applicable,,33.10 N 99.16 W,,,,,Not applicable,
+SAMN32798454,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,Missing,,,,,,Not collected,Not collected,Not collected,USA:Texas,,Not applicable,,31.46 N 101.04 W,,,,,Not applicable,
+SAMN32798455,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2020-01-20,,,,,,Not collected,Not collected,Not collected,USA:Texas,,Not applicable,,29.17 N 99.00 W,,,,,Not applicable,
+SAMN32798456,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2005-10-23,,,,,,Not collected,Not collected,Not collected,Canada:Quebec-Anticosti Island,,Not applicable,,49.28 N 63.05 W,,,,,Not applicable,
+SAMN32798457,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,2019-12-11,,,,,,Not collected,Not collected,Not collected,USA:Idaho,,Not applicable,,48.41 N 116.21 W,,,,,Not applicable,
+SAMN32898655,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,,,adult,,,,,,,,,,commercial,,,Unknown,,,,Muscle
+SAMN36798234,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2012-11-13,,Adult,,,,,,,Canada: Anticosti Island,,,,49.55 N 62.96 W,,male,,,20LAN1187,not collected
+SAMN36798235,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2003-11-09,,Adult,,,,,,,Canada: Anticosti Island,,,,49.55 N 62.96 W,,male,,,20LAN1187,not collected
+SAMN36798236,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2005-11-06,,Adult,,,,,,,Canada: Anticosti Island,,,,49.55 N 62.96 W,,male,,,20LAN1187,not collected
+SAMN36798237,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2002-11-12,,Adult,,,,,,,Canada: Anticosti Island,,,,49.55 N 62.96 W,,male,,,20LAN1187,not collected
+SAMN36798238,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-04-11,,Juvenile,,,,,,,USA: Florida,,,,24.68 N 81.37 W,,male,,,20LAN1187,not collected
+SAMN36798239,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-09-15,,Adult,,,,,,,USA: Florida,,,,24.68 N 81.37 W,,male,,,20LAN1187,not collected
+SAMN36798240,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-01-24,,Juvenile,,,,,,,USA: Florida,,,,24.68 N 81.37 W,,male,,,20LAN1187,not collected
+SAMN36798241,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-02-04,,Adult,,,,,,,USA: Florida,,,,24.68 N 81.37 W,,female,,,20LAN1187,not collected
+SAMN36798242,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-01-10,,Adult,,,,,,,USA: Florida,,,,24.68 N 81.37 W,,male,,,20LAN1187,not collected
+SAMN36798243,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2011-01-24,,yearling,,,,,,,USA: Florida,,,,24.69 N 81.36 W,,male,,,20LAN1187,not collected
+SAMN36798244,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-11,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,47.12 N 56.38 W,,male,,,20LAN1187,not collected
+SAMN36798245,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-02,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,47.04 N 56.34 W,,female,,,20LAN1187,not collected
+SAMN36798246,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-31,,Juvenile,,,,,,,France: ST-Pierre et Miquelon,,,,47.04 N 56.34 W,,female,,,20LAN1187,not collected
+SAMN36798247,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-31,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,47.05 N 56.35 W,,female,,,20LAN1187,not collected
+SAMN36798248,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-02,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,47.03 N 56.33 W,,female,,,20LAN1187,not collected
+SAMN36798249,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-09,,Juvenile,,,,,,,France: ST-Pierre et Miquelon,,,,47.04 N 56.34 W,,male,,,20LAN1187,not collected
+SAMN36798250,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-16,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN36798251,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-09,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,female,,,20LAN1187,not collected
+SAMN36798252,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-14,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN36798253,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-05,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,47.04 N 56.34 W,,male,,,20LAN1187,not collected
+SAMN36798254,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-24,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN36798255,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-07,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN36798256,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-23,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,female,,,20LAN1187,not collected
+SAMN36798257,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-06,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN36798258,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021-10-02,,Adult,,,,,,,France: ST-Pierre et Miquelon,,,,46.85 N 56.31 W,,male,,,20LAN1187,not collected
+SAMN37769274,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,not collected,not applicable,2019-03-25,,,,,,,,,"USA: Minnesota, Olmstead County",,,,,,not collected,,,,Feces
+SAMN38057454,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057455,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057456,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057457,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057458,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057459,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057460,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057461,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057462,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057463,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057464,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057465,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057466,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057467,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057468,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057469,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057470,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057471,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057472,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057473,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057474,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057475,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057476,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,2 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057477,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057478,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057479,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057480,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057481,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,24 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057482,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057483,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057484,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057485,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057486,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,12 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057487,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,48 hours,,,,,,,USA:IOWA,,,Replicate1,,,NA,,,SARSCoV2,Respiratory epithelial cell
+SAMN38057488,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,6 hours,,,,,,,USA:IOWA,,,Replicate 3,,,NA,,,Mock,Respiratory epithelial cell
+SAMN38057489,Odocoileus virginianus,Model organism or animal sample from Odocoileus virginianus,,,2021,,36 hours,,,,,,,USA:IOWA,,,Replicate2,,,NA,,,Mock,Respiratory epithelial cell
+SAMN43054002,Odocoileus virginianus,UCEs of Odocoileus virginianus,missing,,2010,,,,,,,,,Mexico:Oaxaca,,,museum specimen,17.78 N 96.8 W,,missing,MZFC:4655,,,Bone
+SAMN44771594,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,not collected,,,,,,not collected,not collected,not collected,USA: Florida,,not applicable,4940-011620-02,not applicable,,,,,,
+SAMN44771599,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,not collected,,,,,,not collected,not collected,not collected,USA: Florida,,not applicable,2210-121919-15,not applicable,,,,,,
+SAMN44771609,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,not collected,,,,,,not collected,not collected,not collected,USA: Florida,,not applicable,1025-050520-02,not applicable,,,,,,
+SAMN44771614,Odocoileus virginianus,MIGS Eukaryotic sample from Odocoileus virginianus,,,not collected,,,,,,not collected,not collected,not collected,USA: Florida,,not applicable,1317-052920-01,not applicable,,,,,,

@@ -1,0 +1,86 @@
+accession,taxonomy_name,title,age,attribute,biomaterial_provider,biome,collected date,collected_by,collection_date,cultivar,dev_stage,ecotype,estimated_size,feature,geo_lac_name,geo_loc_name,host,isol_growth_condt,isolate,isolation_source,lat_lon,material,num_replicons,ploidy,propagation,ref_biomaterial,replicate,sampleid,tissue
+SAMN02598596,Picea mariana,Sample from Picea mariana,28,high quality,,,2009,,,,,,,,New-Brunswick,,,,,,,,,,,,,,
+SAMN02598597,Picea mariana,Sample from Picea mariana,28,low quality,,,2009,,,,,,,,New-Brunswick,,,,,,,,,,,,,,
+SAMN02598598,Picea mariana,Sample from Picea mariana,8,faible croissance,,,2009,,,,,,,,Quebec,,,,,,,,,,,,,,
+SAMN02598599,Picea mariana,Sample from Picea mariana,8,forte croissance,,,2009,,,,,,,,Quebec,,,,,,,,,,,,,,
+SAMN08646878,Picea mariana,Mixed tissues from Picea mariana,,,,,,,,,mixed,not applicable,,,,Canada,,,,,,,,,,,,,mixed
+SAMN09062728,Picea mariana,Picea mariana DNR Transcriptome - PmariDNR,,,,missing,,,missing,DNR,,,missing,missing,,missing,not applicable,missing,,missing,missing,missing,missing,missing,missing,missing,,,
+SAMN12138957,Picea mariana,Plant sample from Picea mariana,missing,,,,,,,,missing,missing,,,,USA: Maine,,,Picea_mariana_SE089,,,,,,,,,,needles
+SAMN12138958,Picea mariana,Plant sample from Picea mariana,missing,,,,,,,,missing,missing,,,,USA: Maine,,,Picea_mariana_SN080,,,,,,,,,,needles
+SAMN14324163,Picea mariana,Needles sample from Picea mariana,,,"Ontario Ministry of Natural Resources Northwest Biodiversity and Monitoring Unit, 173 25th Sideroad, Rosslyn, ON P7K 0B9",,,,2019-06,,Newly flushed needles,,,,,Canada:Ontario,,,40-10-1,"Provenance number 40, rep 10, block 1",50.9611 N 90.4556 W,,,,,,,,Newly flushed needles
+SAMN15719464,Picea mariana,SH1,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-1,fine roots
+SAMN15719465,Picea mariana,SH10,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-10,fine roots
+SAMN15719466,Picea mariana,SH11,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-11,fine roots
+SAMN15719467,Picea mariana,SH12,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-12,fine roots
+SAMN15719468,Picea mariana,SH13,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-1,fine roots
+SAMN15719469,Picea mariana,SH15,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-2,fine roots
+SAMN15719470,Picea mariana,SH16,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-3,fine roots
+SAMN15719471,Picea mariana,SH17,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-4,fine roots
+SAMN15719472,Picea mariana,SH18,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-5,fine roots
+SAMN15719473,Picea mariana,SH19,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-6,fine roots
+SAMN15719474,Picea mariana,SH2,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-2,fine roots
+SAMN15719475,Picea mariana,SH20,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-7,fine roots
+SAMN15719476,Picea mariana,SH21,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-8,fine roots
+SAMN15719477,Picea mariana,SH22,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-9,fine roots
+SAMN15719478,Picea mariana,SH23,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-10,fine roots
+SAMN15719479,Picea mariana,SH24,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-11,fine roots
+SAMN15719480,Picea mariana,SH25,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,2-12,fine roots
+SAMN15719481,Picea mariana,SH26,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-1,fine roots
+SAMN15719482,Picea mariana,SH27,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-2,fine roots
+SAMN15719483,Picea mariana,SH28,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-3,fine roots
+SAMN15719484,Picea mariana,SH29,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-4,fine roots
+SAMN15719485,Picea mariana,SH3,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-3,fine roots
+SAMN15719486,Picea mariana,SH30,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-5,fine roots
+SAMN15719487,Picea mariana,SH31,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-6,fine roots
+SAMN15719488,Picea mariana,SH32,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-7,fine roots
+SAMN15719489,Picea mariana,SH33,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-8,fine roots
+SAMN15719490,Picea mariana,SH34,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-9,fine roots
+SAMN15719491,Picea mariana,SH35,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-10,fine roots
+SAMN15719492,Picea mariana,SH36,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-11,fine roots
+SAMN15719493,Picea mariana,SH37,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,3-12b,fine roots
+SAMN15719494,Picea mariana,SH4,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-4,fine roots
+SAMN15719495,Picea mariana,SH5,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-5,fine roots
+SAMN15719496,Picea mariana,SH6,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-6,fine roots
+SAMN15719497,Picea mariana,SH7,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-7,fine roots
+SAMN15719498,Picea mariana,SH8,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-8,fine roots
+SAMN15719499,Picea mariana,SH9,,,,,,Stefan Hupperts,2018-08,,seedling,,,,,"USA: Meadowlands, Minnesota",,,not applicable,,,,,,,,,1-9,fine roots
+SAMN15938126,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene matK,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938127,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene matK,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938128,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene matK,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938129,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene matK,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938130,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene matK,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15938291,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene atpA,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938292,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene atpA,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938293,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene atpA,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938294,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene atpA,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938295,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene atpA,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15938456,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene chlB,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938457,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene chlB,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938458,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene chlB,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938459,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene chlB,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938460,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene chlB,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15938621,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene pbsC,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938622,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene pbsC,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938623,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene pbsC,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938624,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene pbsC,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938625,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene pbsC,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15938786,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene rbcL,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938787,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene rbcL,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938788,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene rbcL,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938789,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene rbcL,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938790,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene rbcL,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15938951,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene trnT-trnF,,,,,,,,replicate = biological replicate 1,,needles
+SAMN15938952,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene trnT-trnF,,,,,,,,replicate = biological replicate 2,,needles
+SAMN15938953,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene trnT-trnF,,,,,,,,replicate = biological replicate 3,,needles
+SAMN15938954,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene trnT-trnF,,,,,,,,replicate = biological replicate 4,,needles
+SAMN15938955,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene trnT-trnF,,,,,,,,replicate = biological replicate 5,,needles
+SAMN15939405,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad5,,,,,,,,replicate=biological replicate1,,needles
+SAMN15939406,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad5,,,,,,,,replicate=biological replicate2,,needles
+SAMN15939407,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad5,,,,,,,,replicate=biological replicate3,,needles
+SAMN15939408,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad5,,,,,,,,replicate=biological replicate4,,needles
+SAMN15939409,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad5,,,,,,,,replicate=biological replicate5,,needles
+SAMN15939570,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad7,,,,,,,,replicate=biological replicate1,,needles
+SAMN15939571,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad7,,,,,,,,replicate=biological replicate2,,needles
+SAMN15939572,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad7,,,,,,,,replicate=biological replicate3,,needles
+SAMN15939573,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad7,,,,,,,,replicate=biological replicate4,,needles
+SAMN15939574,Picea mariana,Plant sample from Picea mariana,not application,,,,,,,missing,not application,America,,,,China: Xiaolongshan,,,gene nad7,,,,,,,,replicate=biological replicate5,,needles

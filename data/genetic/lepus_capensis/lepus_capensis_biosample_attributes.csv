@@ -1,0 +1,20 @@
+accession,taxonomy_name,title,age,breed,collected_by,collection_date,cultivar,dev_stage,ecotype,geo_loc_name,isolate,isolation_source,sample_type,sex,strain,time of collection,tissue
+SAMN08226442,Lepus capensis,Model organism or animal sample from Lepus capensis,,,,,,missing,,,USNM:MAMM:602254,,,missing,,,missing
+SAMN08226443,Lepus capensis,Model organism or animal sample from Lepus capensis,,,,,,missing,,,USNM:MAMM:602255,,,missing,,,missing
+SAMN15224418,Lepus capensis,Model organism or animal sample from Lepus capensis,> 1 year,not applicable,C. Matthee,2004,not applicable,adult,not applicable,South Africa,not applicable,,ear tissue,not determined,not applicable,,ear tissue
+SAMN15224419,Lepus capensis,Model organism or animal sample from Lepus capensis,> 1 year,not applicable,J. C. Brito,2011-10-20,not applicable,adult,not applicable,Morocco: Tan-Tan,not applicable,,,not determined,not applicable,,not determined
+SAMN19037331,Lepus capensis,Model organism or animal sample from Lepus capensis,> 1 year,not applicable,missing,missing,not applicable,adult,not applicable,South Africa,not applicable,CIBIO-InBIO,,not determined,not applicable,,ear tissue
+SAMN22841688,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Scat,,,not applicable,,,plant
+SAMN22841689,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Scat,,,not applicable,,,plants
+SAMN22841690,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Fece,,,not applicable,,,plant
+SAMN22841691,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Fece,,,not applicable,,,plants
+SAMN22841692,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Feces,,,not applicable,,,plant
+SAMN22841693,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Feces,,,not applicable,,,plants
+SAMN22841694,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Poop,,,not applicable,,,plant
+SAMN22841695,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Poop,,,not applicable,,,plants
+SAMN22841696,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Droppings,,,not applicable,,,plant
+SAMN22841697,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Droppings,,,not applicable,,,plants
+SAMN22841698,Lepus capensis,Model organism or animal sample from Lepus capensis,not applicable,,,,,,,,Dropping,,,not applicable,,,plants
+SAMN43487480,Lepus capensis,blood from a male Lepus capensis,1 year,Cape hare,,2022-09,not collected,adult,not collected,not collected,XD-2024,,,male,not collected,09:10:00,blood
+SAMN43487481,Lepus capensis,skin tissue from a male Lepus capensis,1 year,Cape hare,,2022-09,not collected,adult,not collected,not collected,not collected,,,male,not collected,09:20:00,skin
+SAMN43487482,Lepus capensis,muscle tissue from a male Lepus capensis,1 year,Cape hare,,2022-09,not collected,adult,not collected,not collected,not collected,,,male,not collected,09:30:00,muscle

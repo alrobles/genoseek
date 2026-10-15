@@ -1,0 +1,81 @@
+accession,taxonomy_name,title,age,collection_date,dev_stage,ecotype,genotype,geo_loc_name,isolate,lat_lon,sample,tissue,treatment
+SAMN33582925,Picea glauca,Plant sample from Picea glauca,,,Mature,Slave Lake Forest,,"Canada:Alberta,Slave Lake Forest",,55.27221347 N 114.7801008 W,R4,Foliage,
+SAMN33582926,Picea glauca,Plant sample from Picea glauca,,,Mature,Upper Green River,,"Canada:New Brunswick,Upper Green River",,47.53863055 N 68.2138716 W,R1,Foliage,
+SAMN33582927,Picea glauca,Plant sample from Picea glauca,,,Mature,Upper Green River,,"Canada:New Brunswick,Upper Green River",,47.53863055 N 68.2138716 W,R2,Foliage,
+SAMN33582929,Picea glauca,Plant sample from Picea glauca,,,Mature,Upper Green River,,"Canada:New Brunswick,Upper Green River",,47.53863055 N 68.2138716 W,R4,Foliage,
+SAMN33582930,Picea glauca,Plant sample from Picea glauca,,,Mature,Upper Green River,,"Canada:New Brunswick,Upper Green River",,47.53863055 N 68.2138716 W,R5,Foliage,
+SAMN33582931,Picea glauca,Plant sample from Picea glauca,,,Mature,Dasserat Twp,,"Canada:Quebec,Dasserat Twp",,48.16792788 N 79.41521103 W,R1,Foliage,
+SAMN33582932,Picea glauca,Plant sample from Picea glauca,,,Mature,Dasserat Twp,,"Canada:Quebec,Dasserat Twp",,48.16792788 N 79.41521103 W,R2,Foliage,
+SAMN33582950,Picea glauca,Plant sample from Picea glauca,,,Mature,Fox Creek,,"Canada:Alberta,Fox Creek",,54.39878644 N 116.8077494 W,R1,Foliage,
+SAMN33582951,Picea glauca,Plant sample from Picea glauca,,,Mature,Fox Creek,,"Canada:Alberta,Fox Creek",,54.39878644 N 116.8077494 W,R2,Foliage,
+SAMN33582952,Picea glauca,Plant sample from Picea glauca,,,Mature,Fox Creek,,"Canada:Alberta,Fox Creek",,54.39878644 N 116.8077494 W,R3,Foliage,
+SAMN33582953,Picea glauca,Plant sample from Picea glauca,,,Mature,Fox Creek,,"Canada:Alberta,Fox Creek",,54.39878644 N 116.8077494 W,R4,Foliage,
+SAMN33582954,Picea glauca,Plant sample from Picea glauca,,,Mature,Woodlands County,,"Canada:Alberta,Woodlands County",,54.19957764 N 115.6376323 W,R1,Foliage,
+SAMN33582955,Picea glauca,Plant sample from Picea glauca,,,Mature,Woodlands County,,"Canada:Alberta,Woodlands County",,54.19957764 N 115.6376323 W,R2,Foliage,
+SAMN33582956,Picea glauca,Plant sample from Picea glauca,,,Mature,Woodlands County,,"Canada:Alberta,Woodlands County",,54.19957764 N 115.6376323 W,R3,Foliage,
+SAMN33582957,Picea glauca,Plant sample from Picea glauca,,,Mature,Woodlands County,,"Canada:Alberta,Woodlands County",,54.19957764 N 115.6376323 W,R4,Foliage,
+SAMN33582958,Picea glauca,Plant sample from Picea glauca,,,Mature,Lesser Slave River No. 124,,"Canada:Alberta,Lesser Slave River No. 124",,55.30457566 N 114.835769 W,R1,Foliage,
+SAMN33582959,Picea glauca,Plant sample from Picea glauca,,,Mature,Lesser Slave River No. 124,,"Canada:Alberta,Lesser Slave River No. 124",,55.30457566 N 114.835769 W,R2,Foliage,
+SAMN33582960,Picea glauca,Plant sample from Picea glauca,,,Mature,Lesser Slave River No. 124,,"Canada:Alberta,Lesser Slave River No. 124",,55.30457566 N 114.835769 W,R3,Foliage,
+SAMN33582961,Picea glauca,Plant sample from Picea glauca,,,Mature,Lesser Slave River No. 124,,"Canada:Alberta,Lesser Slave River No. 124",,55.30457566 N 114.835769 W,R4,Foliage,
+SAMN45894516,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,95,Canada: Qubec,1,,,needles,StressHydric
+SAMN45894517,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,95,Canada: Qubec,2,,,needles,Control
+SAMN45894518,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,95,Canada: Qubec,3,,,needles,StressHydric
+SAMN45894519,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,95,Canada: Qubec,4,,,needles,Control
+SAMN45894520,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,95,Canada: Qubec,5,,,needles,Control
+SAMN45894521,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,95,Canada: Qubec,6,,,needles,Control
+SAMN45894522,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,95,Canada: Qubec,7,,,needles,Control
+SAMN45894523,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,95,Canada: Qubec,8,,,needles,Control
+SAMN45894524,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,95,Canada: Qubec,9,,,needles,StressHydric
+SAMN45894525,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,95,Canada: Qubec,10,,,needles,StressHydric
+SAMN45894526,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,95,Canada: Qubec,11,,,needles,Control
+SAMN45894527,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,95,Canada: Qubec,12,,,needles,StressHydric
+SAMN45894528,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,8,Canada: Qubec,13,,,needles,StressHydric
+SAMN45894529,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,95,Canada: Qubec,14,,,needles,StressHydric
+SAMN45894530,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,95,Canada: Qubec,15,,,needles,StressHydric
+SAMN45894531,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,95,Canada: Qubec,16,,,needles,Control
+SAMN45894532,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,95,Canada: Qubec,17,,,needles,Control
+SAMN45894533,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,8,Canada: Qubec,18,,,needles,StressHydric
+SAMN45894534,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,8,Canada: Qubec,19,,,needles,StressHydric
+SAMN45894535,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,95,Canada: Qubec,20,,,needles,StressHydric
+SAMN45894536,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,95,Canada: Qubec,21,,,needles,StressHydric
+SAMN45894537,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,95,Canada: Qubec,22,,,needles,Control
+SAMN45894538,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,95,Canada: Qubec,23,,,needles,StressHydric
+SAMN45894539,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,11,Canada: Qubec,24,,,needles,Control
+SAMN45894540,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,11,Canada: Qubec,25,,,needles,Control
+SAMN45894541,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,8,Canada: Qubec,26,,,needles,StressHydric
+SAMN45894542,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,11,Canada: Qubec,27,,,needles,Control
+SAMN45894543,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,11,Canada: Qubec,28,,,needles,StressHydric
+SAMN45894544,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,11,Canada: Qubec,29,,,needles,StressHydric
+SAMN45894545,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,11,Canada: Qubec,30,,,needles,Control
+SAMN45894546,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,8,Canada: Qubec,31,,,needles,Control
+SAMN45894547,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,11,Canada: Qubec,32,,,needles,StressHydric
+SAMN45894548,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,11,Canada: Qubec,33,,,needles,StressHydric
+SAMN45894549,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,11,Canada: Qubec,34,,,needles,StressHydric
+SAMN45894550,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,11,Canada: Qubec,35,,,needles,StressHydric
+SAMN45894551,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,11,Canada: Qubec,36,,,needles,Control
+SAMN45894552,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,11,Canada: Qubec,37,,,needles,Control
+SAMN45894553,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,11,Canada: Qubec,38,,,needles,Control
+SAMN45894554,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,11,Canada: Qubec,39,,,needles,StressHydric
+SAMN45894555,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,11,Canada: Qubec,40,,,needles,StressHydric
+SAMN45894556,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,11,Canada: Qubec,41,,,needles,Control
+SAMN45894557,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,11,Canada: Qubec,42,,,needles,Control
+SAMN45894558,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,11,Canada: Qubec,43,,,needles,StressHydric
+SAMN45894559,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,11,Canada: Qubec,44,,,needles,StressHydric
+SAMN45894560,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,8,Canada: Qubec,45,,,needles,StressHydric
+SAMN45894561,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,11,Canada: Qubec,46,,,needles,Control
+SAMN45894562,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,8,Canada: Qubec,47,,,needles,Control
+SAMN45894563,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,8,Canada: Qubec,48,,,needles,StressHydric
+SAMN45894564,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,8,Canada: Qubec,49,,,needles,Control
+SAMN45894565,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,8,Canada: Qubec,50,,,needles,StressHydric
+SAMN45894566,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,8,Canada: Qubec,51,,,needles,Control
+SAMN45894567,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,8,Canada: Qubec,52,,,needles,Control
+SAMN45894568,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,8,Canada: Qubec,53,,,needles,Control
+SAMN45894569,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-12,seeding,,8,Canada: Qubec,54,,,needles,StressHydric
+SAMN45894570,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-19,seeding,,8,Canada: Qubec,55,,,needles,StressHydric
+SAMN45894571,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-23,seeding,,8,Canada: Qubec,56,,,needles,Control
+SAMN45894572,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-27,seeding,,8,Canada: Qubec,57,,,needles,Control
+SAMN45894573,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,8,Canada: Qubec,58,,,needles,StressHydric
+SAMN45894574,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,8,Canada: Qubec,59,,,needles,Control
+SAMN45894607,Picea glauca,Plant sample from Picea glauca,2 years,2015-03-05,seeding,,8,Canada: Qubec,60,,,needles,Control
+SAMN51793510,Picea glauca,Plant sample from Picea glauca,Six year,2022-09-12,,Estonia,,Estonia: Rohu,E-12,,,leaves,

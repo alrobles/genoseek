@@ -1,0 +1,295 @@
+accession,taxonomy_name,title,GameManagementUnit,GeneralLocation,SampleNumber,Sex,age,biomaterial_provider,birth_date,breed,collected_by,collection_date,cultivar,death_date,dev_stage,ecotype,env_broad_scale,env_local_scale,env_medium,genotype,geo_loc_name,health_state,isol_growth_condt,isolate,lat_lon,phenotype,sex,source_name,specimen_voucher,strain,tissue,uniqueID
+SAMN29046565,Ursus americanus,Blood sample from adult male Ursus americanus,,,,,adult,California Department of Fish and Wildlife,,,,2020-09-05,,2021-08,,,,,,,USA:California,,,L20-20,39.2377 N 120.0266 W,,male,,,,whole blood,
+SAMN30214201,Ursus americanus,AK17023,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,57.46 N 133.35 W,,male,,,,Skin,
+SAMN30214202,Ursus americanus,AK17047,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,58.13 N 134.06 W,,male,,,,Skin,
+SAMN30214203,Ursus americanus,AK17117,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.49 N 136.07 W,,female,,,,Skin,
+SAMN30214204,Ursus americanus,AZ12,,,,,Unknown,,,,,,,,Unknown,altifrontalis,,,,,,,,,34.35 N 111.03 W,,missing,,,,Skin,
+SAMN30214217,Ursus americanus,HA2,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.58 N 136.22 W,,female,,,,Skin,
+SAMN30214218,Ursus americanus,HA3,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,58.31 N 135.07 W,,male,,,,Skin,
+SAMN30214219,Ursus americanus,HA4,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,58.49 N 134.77 W,,female,,,,Skin,
+SAMN30214220,Ursus americanus,HA5,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.44 N 138.89 W,,male,,,,Skin,
+SAMN30214221,Ursus americanus,HA6,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.5 N 139.53 W,,male,,,,Skin,
+SAMN30214222,Ursus americanus,HA7,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.19 N 138.44 W,,female,,,,Skin,
+SAMN30214223,Ursus americanus,HA8,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.49 N 135.34 W,,female,,,,Skin,
+SAMN30214224,Ursus americanus,HA9,,,,,Unknown,,,,,,,,Unknown,emmonsii,,,,,,,,,59.46 N 139.56 W,,male,,,,Skin,
+SAMN32898650,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,,,,,,,,,adult,,,,,,,,,lab,,,Unknown,,,,Muscle,
+SAMN33760420,Ursus americanus,"Liver, bear, rep 1",,,,male,adult,,,,,missing,,,,,,,,wild type,missing,,,,,,,Liver,,,Liver,
+SAMN33760421,Ursus americanus,"Kidney, bear, rep 1",,,,male,adult,,,,,missing,,,,,,,,wild type,missing,,,,,,,Kidney,,,Kidney,
+SAMN37319986,Ursus americanus,American black bear,,,,,not collected,T.C. Hsu Cryo-Zoo at the University of Texas MD Anderson Cancer Center,not collected,,,1976-12-22,,,,,,,,,missing,N/A,,not collected,,,male,,,,primary fibroblast CL,
+SAMN38813048,Ursus americanus,AK17001,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17001
+SAMN38813049,Ursus americanus,AK17003,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17003
+SAMN38813050,Ursus americanus,AK17005,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17005
+SAMN38813051,Ursus americanus,AK17007,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17007
+SAMN38813052,Ursus americanus,AK17009,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17009
+SAMN38813053,Ursus americanus,AK17011,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17011
+SAMN38813054,Ursus americanus,AK17013,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17013
+SAMN38813055,Ursus americanus,AK17015,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17015
+SAMN38813056,Ursus americanus,AK17017,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17017
+SAMN38813057,Ursus americanus,AK17019,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17019
+SAMN38813058,Ursus americanus,AK17021,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17021
+SAMN38813059,Ursus americanus,AK17025,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17025
+SAMN38813060,Ursus americanus,AK17027,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17027
+SAMN38813061,Ursus americanus,AK17029,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17029
+SAMN38813062,Ursus americanus,AK17031,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17031
+SAMN38813063,Ursus americanus,AK17033,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17033
+SAMN38813064,Ursus americanus,AK17035,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17035
+SAMN38813065,Ursus americanus,AK17039,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17039
+SAMN38813066,Ursus americanus,AK17045,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17045
+SAMN38813067,Ursus americanus,AK17051,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17051
+SAMN38813068,Ursus americanus,AK17053,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17053
+SAMN38813069,Ursus americanus,AK17057,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17057
+SAMN38813070,Ursus americanus,AK17059,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17059
+SAMN38813071,Ursus americanus,AK17063,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17063
+SAMN38813072,Ursus americanus,AK17065,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17065
+SAMN38813073,Ursus americanus,AK17067,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17067
+SAMN38813074,Ursus americanus,AK17069,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17069
+SAMN38813075,Ursus americanus,AK17071,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17071
+SAMN38813076,Ursus americanus,AK17079,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17079
+SAMN38813077,Ursus americanus,AK17081,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17081
+SAMN38813078,Ursus americanus,AK17083,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17083
+SAMN38813079,Ursus americanus,AK17087,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17087
+SAMN38813080,Ursus americanus,AK17089,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17089
+SAMN38813081,Ursus americanus,AK17091,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17091
+SAMN38813082,Ursus americanus,AK17093,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17093
+SAMN38813083,Ursus americanus,AK17095,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17095
+SAMN38813084,Ursus americanus,AK17097,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17097
+SAMN38813085,Ursus americanus,AK17099,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17099
+SAMN38813086,Ursus americanus,AK17101,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17101
+SAMN38813087,Ursus americanus,AK17103,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17103
+SAMN38813088,Ursus americanus,AK17107,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17107
+SAMN38813089,Ursus americanus,AK17109,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17109
+SAMN38813090,Ursus americanus,AK17111,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17111
+SAMN38813091,Ursus americanus,AK17113,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17113
+SAMN38813092,Ursus americanus,AK17115,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17115
+SAMN38813093,Ursus americanus,AK17119,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17119
+SAMN38813094,Ursus americanus,AK17121,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17121
+SAMN38813095,Ursus americanus,AK17123,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17123
+SAMN38813096,Ursus americanus,AK17125,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17125
+SAMN38813097,Ursus americanus,AK17127,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17127
+SAMN38813098,Ursus americanus,AK17129,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK17129
+SAMN38813099,Ursus americanus,AK17131,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17131
+SAMN38813100,Ursus americanus,AK17133,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17133
+SAMN38813101,Ursus americanus,AK17135,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17135
+SAMN38813102,Ursus americanus,AK17137,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17137
+SAMN38813103,Ursus americanus,AK17139,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17139
+SAMN38813104,Ursus americanus,AK17141,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17141
+SAMN38813105,Ursus americanus,AK17143,,,,,Unknown,,,,,2017,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK17143
+SAMN38813106,Ursus americanus,AK18015,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18015
+SAMN38813107,Ursus americanus,AK18022,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18022
+SAMN38813108,Ursus americanus,AK18024,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18024
+SAMN38813109,Ursus americanus,AK18060,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18060
+SAMN38813110,Ursus americanus,AK18064,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18064
+SAMN38813111,Ursus americanus,AK18087,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18087
+SAMN38813112,Ursus americanus,AK18102,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18102
+SAMN38813113,Ursus americanus,AK18110,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18110
+SAMN38813114,Ursus americanus,AK18137,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18137
+SAMN38813115,Ursus americanus,AK18139,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18139
+SAMN38813116,Ursus americanus,AK18141,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18141
+SAMN38813117,Ursus americanus,AK18143,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18143
+SAMN38813118,Ursus americanus,AK18151,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18151
+SAMN38813119,Ursus americanus,AK18153,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18153
+SAMN38813120,Ursus americanus,AK18157,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18157
+SAMN38813121,Ursus americanus,AK18161,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18161
+SAMN38813122,Ursus americanus,AK18165,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18165
+SAMN38813123,Ursus americanus,AK18167,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18167
+SAMN38813124,Ursus americanus,AK18175,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,male,,,,Skin,AK18175
+SAMN38813125,Ursus americanus,AK18181,,,,,Unknown,,,,,2018,,,Unknown,emmonsii,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18181
+SAMN38813126,Ursus americanus,CA3797,,,,,Unknown,,,,,2018,,,Unknown,californiensis,,,,,USA: California,,,,,,missing,,,,Skin,CA3797
+SAMN38813127,Ursus americanus,FL012,,,,,Unknown,,,,,2016,,,Unknown,floridanus,,,,,USA: Florida,,,,,,missing,,,,Skin,FL012
+SAMN38813128,Ursus americanus,FL013,,,,,Unknown,,,,,2016,,,Unknown,floridanus,,,,,USA: Florida,,,,,,missing,,,,Skin,FL013
+SAMN38813129,Ursus americanus,MI331,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI331
+SAMN38813130,Ursus americanus,MI333,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI333
+SAMN38813131,Ursus americanus,MI336,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI336
+SAMN38813132,Ursus americanus,MI337,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI337
+SAMN38813133,Ursus americanus,MI338,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI338
+SAMN38813134,Ursus americanus,MI339,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,female,,,,Skin,MI339
+SAMN38813135,Ursus americanus,MI340,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI340
+SAMN38813136,Ursus americanus,MI341,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI341
+SAMN38813137,Ursus americanus,MI343,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,female,,,,Skin,MI343
+SAMN38813138,Ursus americanus,MI344,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,USA: Michigan,,,,,,male,,,,Skin,MI344
+SAMN38813139,Ursus americanus,NCc1701,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCc1701
+SAMN38813140,Ursus americanus,NCc1702,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1702
+SAMN38813141,Ursus americanus,NCc1703,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1703
+SAMN38813142,Ursus americanus,NCc1705,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCc1705
+SAMN38813143,Ursus americanus,NCc1706,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1706
+SAMN38813144,Ursus americanus,NCc1708,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1708
+SAMN38813145,Ursus americanus,NCc1709,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1709
+SAMN38813146,Ursus americanus,NCc1710,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCc1710
+SAMN38813147,Ursus americanus,NCc1711,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCc1711
+SAMN38813148,Ursus americanus,NCc1712,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCc1712
+SAMN38813149,Ursus americanus,NCmt089,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCmt089
+SAMN38813150,Ursus americanus,NCmt128,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,male,,,,Skin,NCmt128
+SAMN38813151,Ursus americanus,NCmtDprn117,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: NorthCarolina,,,,,,female,,,,Skin,NCmtDprn117
+SAMN38813152,Ursus americanus,NVb100,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVb100
+SAMN38813153,Ursus americanus,NVb29,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVb29
+SAMN38813154,Ursus americanus,NVb2,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVb2
+SAMN38813155,Ursus americanus,NVb4,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb4
+SAMN38813156,Ursus americanus,NVb57,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb57
+SAMN38813157,Ursus americanus,NVb81,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb81
+SAMN38813158,Ursus americanus,NVb82,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb82
+SAMN38813159,Ursus americanus,NVb86,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb86
+SAMN38813160,Ursus americanus,NVb95,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb95
+SAMN38813161,Ursus americanus,NVb97,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb97
+SAMN38813162,Ursus americanus,NVb98,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVb98
+SAMN38813163,Ursus americanus,NVg26,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg26
+SAMN38813164,Ursus americanus,NVc38,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVc38
+SAMN38813165,Ursus americanus,NVg10,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg10
+SAMN38813166,Ursus americanus,NVg12,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg12
+SAMN38813167,Ursus americanus,NVg13,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,missing,,,,Skin,NVg13
+SAMN38813168,Ursus americanus,NVg15,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg15
+SAMN38813169,Ursus americanus,NVg1,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg1
+SAMN38813170,Ursus americanus,NVg22,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg22
+SAMN38813171,Ursus americanus,NVg24,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg24
+SAMN38813172,Ursus americanus,NVg25,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,missing,,,,Skin,NVg25
+SAMN38813173,Ursus americanus,NVg2,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg2
+SAMN38813174,Ursus americanus,NVg36,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg36
+SAMN38813175,Ursus americanus,NVg37,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg37
+SAMN38813176,Ursus americanus,NVg3,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg3
+SAMN38813177,Ursus americanus,NVg40,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg40
+SAMN38813178,Ursus americanus,NVg48,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg48
+SAMN38813179,Ursus americanus,NVg6,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg6
+SAMN38813180,Ursus americanus,NVg8,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVg8
+SAMN38813181,Ursus americanus,NVg9,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVg9
+SAMN38813182,Ursus americanus,NVp59,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVp59
+SAMN38813183,Ursus americanus,NVs710,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,missing,,,,Skin,NVs710
+SAMN38813184,Ursus americanus,NVw26,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVw26
+SAMN38813185,Ursus americanus,NVy36,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVy36
+SAMN38813186,Ursus americanus,NVy86,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,female,,,,Skin,NVy86
+SAMN38813187,Ursus americanus,VAR31,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR31
+SAMN38813188,Ursus americanus,VAR32,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR32
+SAMN38813189,Ursus americanus,VAR41,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR41
+SAMN38813190,Ursus americanus,VAR44,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR44
+SAMN38813191,Ursus americanus,VAR45,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR45
+SAMN38813192,Ursus americanus,VAR47,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR47
+SAMN38813193,Ursus americanus,VAR48,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR48
+SAMN38813194,Ursus americanus,VAR49,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: Virginia,,,,,,male,,,,Skin,VAR49
+SAMN38813195,Ursus americanus,WV1703,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1703
+SAMN38813196,Ursus americanus,WV1705,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,female,,,,Skin,WV1705
+SAMN38813197,Ursus americanus,WV1709,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,female,,,,Skin,WV1709
+SAMN38813198,Ursus americanus,WV1710,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1710
+SAMN38813199,Ursus americanus,WV1711,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1711
+SAMN38813200,Ursus americanus,WV1712,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1712
+SAMN38813201,Ursus americanus,WV1713,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,female,,,,Skin,WV1713
+SAMN38813202,Ursus americanus,WV1714,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1714
+SAMN38813203,Ursus americanus,WV1715,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,female,,,,Skin,WV1715
+SAMN38813204,Ursus americanus,WV1717,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1717
+SAMN38813205,Ursus americanus,WV1718,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1718
+SAMN38813206,Ursus americanus,WV1727,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,female,,,,Skin,WV1727
+SAMN38813207,Ursus americanus,WV1728,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1728
+SAMN38813208,Ursus americanus,WV1729,,,,,Unknown,,,,,2017,,,Unknown,americanus,,,,,USA: WestVirginia,,,,,,male,,,,Skin,WV1729
+SAMN40863808,Ursus americanus,Ursus americanus heart,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-20,,,not collected,,,,,,USA:California,,,bear heart 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,heart,
+SAMN40863809,Ursus americanus,Ursus americanus kidney,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-04-01,,,not collected,,,,,,USA:California,,,bear kidney 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,kidney,
+SAMN40863810,Ursus americanus,Ursus americanus liver,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-16,,,not collected,,,,,,USA:California,,,bear liver 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,liver,
+SAMN40863811,Ursus americanus,Ursus americanus lung,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-07,,,not collected,,,,,,USA:California,,,bear lung 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,lung,
+SAMN40863812,Ursus americanus,Ursus americanus ovary,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-23,,,not collected,,,,,,USA:California,,,bear ovary 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,ovary,
+SAMN40863813,Ursus americanus,Ursus americanus pancreas,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-03,,,not collected,,,,,,USA:California,,,Bear pancreas 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,pancreas,
+SAMN40863814,Ursus americanus,Ursus americanus spleen,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-11,,,not collected,,,,,,USA:California,,,bear spleen 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,spleen,
+SAMN40863815,Ursus americanus,Ursus americanus stomach,,,,,not collected,"Beth Shapiro, beth.shapiro@gmail.com",,,"Michael Buchalski, michael.buchalski@wildlife.ca.gov",2021-03-28,,,not collected,,,,,,USA:California,,,bear stomach 3,38.757135 N 120.570677 W,,not collected,,MYYU_CA2020_CCGP,,stomach,
+SAMN45864674,Ursus americanus,Model organism or animal sample from Ursus americanus,6C,Eastern Prince William Sound,sample 01,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864675,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 02,,,,,not applicable,,2012-04-20,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864676,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 03,,,,,not applicable,,2014-06-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864677,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 04,,,,,not applicable,,2014-05-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864678,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 05,,,,,not applicable,,2014-09-24,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864679,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 06,,,,,not applicable,,2014-10-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864680,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 07,,,,,not applicable,,2014-05-13,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864681,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 08,,,,,not applicable,,2014-05-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864682,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 09,,,,,not applicable,,2014-05-18,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864683,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 10,,,,,not applicable,,2014-05-22,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864684,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 11,,,,,not applicable,,2014-05-23,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864685,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 12,,,,,not applicable,,2014-06-05,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864686,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 13,,,,,not applicable,,2015-05-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864687,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 14,,,,,not applicable,,2015-05-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864688,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 15,,,,,not applicable,,2015-06-07,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864689,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 16,,,,,not applicable,,2015-09-09,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864690,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 17,,,,,not applicable,,2015-09-20,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864691,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 18,,,,,not applicable,,2015-09-29,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864692,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 19,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864693,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 20,,,,,not applicable,,2015-05-16,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864694,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 21,,,,,not applicable,,2015-05-19,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864695,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 22,,,,,not applicable,,2015-05-22,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864696,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 23,,,,,not applicable,,2015-05-23,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864697,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Eastern Prince William Sound,sample 24,,,,,not applicable,,2015-05-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864698,Ursus americanus,Model organism or animal sample from Ursus americanus,6D,Kenai Peninsula,sample 25,,,,,not applicable,,2015-05-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864699,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 26,,,,,not applicable,,2010-09-16,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864700,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 27,,,,,not applicable,,2013-08-21,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864701,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 28,,,,,not applicable,,2013-08-30,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864702,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 29,,,,,not applicable,,2013-06-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864703,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 30,,,,,not applicable,,2014-05-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864704,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 31,,,,,not applicable,,2014-06-07,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864705,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 32,,,,,not applicable,,2014-06-23,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864706,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 33,,,,,not applicable,,2014-05-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864707,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 34,,,,,not applicable,,2014-05-13,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864708,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 35,,,,,not applicable,,2014-06-19,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864709,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 36,,,,,not applicable,,2015-05-18,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864710,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 37,,,,,not applicable,,2015-05-19,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864711,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 38,,,,,not applicable,,2015-06-01,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864712,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 39,,,,,not applicable,,2015-05-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864713,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 40,,,,,not applicable,,1990-05-03,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864714,Ursus americanus,Model organism or animal sample from Ursus americanus,7Z,Kenai Peninsula,sample 41,,,,,not applicable,,1990-06-05,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864715,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 42,,,,,not applicable,,2013-07-06,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864716,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 43,,,,,not applicable,,2013-07-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864717,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 44,,,,,not applicable,,2013-08-09,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864718,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 45,,,,,not applicable,,2013-09-09,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864719,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 46,,,,,not applicable,,2013-09-10,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864720,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 47,,,,,not applicable,,2013-05-20,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864721,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 48,,,,,not applicable,,2014-05-19,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864722,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 49,,,,,not applicable,,2014-05-31,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864723,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 50,,,,,not applicable,,2014-06-02,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864724,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 51,,,,,not applicable,,2014-06-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864725,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 52,,,,,not applicable,,2014-06-25,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864726,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 53,,,,,not applicable,,2014-06-23,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864727,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 54,,,,,not applicable,,2014-05-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864728,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 55,,,,,not applicable,,2014-07-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864729,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 56,,,,,not applicable,,2014-08-05,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864730,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 57,,,,,not applicable,,2014-05-18,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864731,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 58,,,,,not applicable,,2014-05-19,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864732,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 59,,,,,not applicable,,2015-05-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864733,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 60,,,,,not applicable,,2015-05-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864734,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 61,,,,,not applicable,,2015-06-05,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864735,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 62,,,,,not applicable,,2015-05-06,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864736,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 63,,,,,not applicable,,2015-06-13,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864737,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 64,,,,,not applicable,,2015-08-15,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864738,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 65,,,,,not applicable,,2015-09-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864739,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 66,,,,,not applicable,,2015-10-07,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864740,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 67,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864741,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 68,,,,,not applicable,,2015-05-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864742,Ursus americanus,Model organism or animal sample from Ursus americanus,14C,Anchorage,sample 69,,,,,not applicable,,2015-05-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864743,Ursus americanus,Model organism or animal sample from Ursus americanus,15A,Kenai Peninsula,sample 70,,,,,not applicable,,2014-05-22,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864744,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 71,,,,,not applicable,,2010-06-02,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864745,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 72,,,,,not applicable,,2013-06-15,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864746,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 73,,,,,not applicable,,2014-07-16,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864747,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 74,,,,,not applicable,,2014-08-29,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864748,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 75,,,,,not applicable,,2014-10-12,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864749,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 76,,,,,not applicable,,2014-05-08,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864750,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 77,,,,,not applicable,,2014-05-18,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864751,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 78,,,,,not applicable,,2014-05-31,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864752,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 79,,,,,not applicable,,2014-05-25,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864753,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 80,,,,,not applicable,,2015-08-27,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864754,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 81,,,,,not applicable,,2015-06-17,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN45864755,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 82,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864756,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 83,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,missing,,,not applicable,premolar tooth,
+SAMN45864757,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 84,,,,,not applicable,,2015-05-14,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,male,,,not applicable,premolar tooth,
+SAMN45864758,Ursus americanus,Model organism or animal sample from Ursus americanus,15C,Kenai Peninsula,sample 85,,,,,not applicable,,2013-09-21,not applicable,,adult,,,,,,USA: southcentral Alaska,,,not applicable,,,female,,,not applicable,premolar tooth,
+SAMN46440786,Ursus americanus,AK18242,,,,,Unknown,,,,,2018,,,Unknown,pugnax,,,,,USA: Alaska,,,,,,female,,,,Skin,AK18242
+SAMN46440787,Ursus americanus,AK20340,,,,,Unknown,,,,,2020,,,Unknown,pugnax,,,,,USA: Alaska,,,,,,male,,,,Skin,AK20340
+SAMN46440788,Ursus americanus,AK20440,,,,,Unknown,,,,,2020,,,Unknown,pugnax,,,,,USA: Alaska,,,,,,female,,,,Skin,AK20440
+SAMN46440789,Ursus americanus,OR05,,,,,Unknown,,,,,2017,,,Unknown,altifrontalis,,,,,USA: Oregon,,,,,,male,,,,Skin,OR05
+SAMN46440790,Ursus americanus,LA366,,,,,Unknown,,,,,2018,,,Unknown,luteolus,,,,,USA: Louisiana,,,,,,male,,,,Skin,LA366
+SAMN46440791,Ursus americanus,LAT593,,,,,Unknown,,,,,2018,,,Unknown,luteolus,,,,,USA: Louisiana,,,,,,female,,,,Skin,LAT593
+SAMN46440792,Ursus americanus,LA371,,,,,Unknown,,,,,2018,,,Unknown,luteolus,,,,,USA: Louisiana,,,,,,male,,,,Skin,LA371
+SAMN46440793,Ursus americanus,YK48293,,,,,Unknown,,,,,2018,,,Unknown,americanus,,,,,Canada: Yukon Terratories,,,,,,male,,,,Skin,YK48293
+SAMN46440794,Ursus americanus,LAT594,,,,,Unknown,,,,,2018,,,Unknown,luteolus,,,,,USA: Louisiana,,,,,,male,,,,Skin,LAT594
+SAMN46479199,Ursus americanus,NVb84,,,,,Unknown,,,,,2017,,,Unknown,californiensis,,,,,USA: Nevada,,,,,,male,,,,Skin,NVb84
+SAMN49077993,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,2 y.o.,,,not collected,,2006-03-01,,,,,,,,,USA: Alaska,,,,,hibernating,male,,,,skeletal muscle,
+SAMN49077994,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,adult,,,not collected,,2004-03-04,,,,,,,,,USA: Alaska,,,,,hibernating,male,,,,skeletal muscle,
+SAMN49077995,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,3 y.o,,,not collected,,2005-03-10,,,,,,,,,USA: Alaska,,,,,hibernating,male,,,,skeletal muscle,
+SAMN49077996,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,adult,,,not collected,,2003-03-11,,,,,,,,,USA: Alaska,,,,,hibernating,male,,,,skeletal muscle,
+SAMN49077997,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,3 y.o.,,,not collected,,2005-03-09,,,,,,,,,USA: Alaska,,,,,hibernating,male,,,,skeletal muscle,
+SAMN49077998,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,adult,,,not collected,,2003-10-02,,,,,,,,,USA: Alaska,,,,,summer active,male,,,,skeletal muscle,
+SAMN49077999,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,adult,,,not collected,,2003-10-03,,,,,,,,,USA: Alaska,,,,,summer active,male,,,,skeletal muscle,
+SAMN49078000,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,adult,,,not collected,,2004-06-07,,,,,,,,,USA: Alaska,,,,,summer active,male,,,,skeletal muscle,
+SAMN49078001,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,4 y.o.,,,not collected,,2005-06-30,,,,,,,,,USA: Alaska,,,,,summer active,male,,,,skeletal muscle,
+SAMN49078002,Ursus americanus,Model organism or animal sample from Ursus americanus,,,,,4 y.o.,,,not collected,,2005-07-01,,,,,,,,,USA: Alaska,,,,,summer active,male,,,,skeletal muscle,
+SAMN55363313,Ursus americanus,PQ049663,,,,,,,,,,not provided,,,,,not provided,not provided,not provided,,"Canada: Rimouski, Quebec",,not applicable,ma-URAM-1,not provided,,,,,,,
+SAMN55363314,Ursus americanus,PX120502,,,,,,,,,,not provided,,,,,not provided,not provided,not provided,,"Canada: Dolbeau-Mistassini, Quebec",,not applicable,ma-URAM-2,not provided,,,,,,,
+SAMN55363315,Ursus americanus,PX120503,,,,,,,,,,not provided,,,,,not provided,not provided,not provided,,Canada: Quebec,,not applicable,ma-URAM-3,not provided,,,,,,,

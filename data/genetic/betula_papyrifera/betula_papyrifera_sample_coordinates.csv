@@ -1,0 +1,18 @@
+sample,biosample,srr,bioproject,library_strategy,library_source,scientific_name,lat,lon,lat_lon_raw,geo_loc_name,collection_date
+Nickel water control,SAMN04497581,SRR3176896,PRJNA312365,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,"Canada: Sudbury, Ontario",
+NGS_WL_61,SAMN07737257,SRR6134137,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+NGS_WL_62,SAMN07737258,SRR6134102,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+NGS_WL_63,SAMN07737259,SRR6134101,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+NGS_WL_64,SAMN07737260,SRR6134104,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+NGS_WL_65,SAMN07737261,SRR6134103,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+NGS_WL_66,SAMN07737262,SRR6134098,PRJNA413418,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: Michigan,
+Betula,SAMN12502770,SRR9912468,PRJNA556994,RAD-Seq,GENOMIC,Betula papyrifera,,,not applicable,not applicable,2017
+Betula_commutata,SAMN16833885,SRR13091119,PRJNA679451,RAD-Seq,GENOMIC,Betula papyrifera var. commutata,,,,Canada,
+B_papyrifera,SAMN16833884,SRR13091118,PRJNA679451,RAD-Seq,GENOMIC,Betula papyrifera,,,,Canada,
+Betula_papyrifera,SAMN25243672,SRR17790408,PRJNA800398,AMPLICON,GENOMIC,Betula papyrifera,47.83819,2.75792,47.83819 N 2.75792 E,France: Nogent-sur-Vernisson,2012-07
+NG15,SAMN31538745,SRR22133647,PRJNA896247,RNA-Seq,TRANSCRIPTOMIC,Betula papyrifera,,,,USA: the University of Notre Dame Environmental Research Center,
+Betula_papyrifera,SAMN37589964,SRR26755261,PRJNA1022141,Targeted-Capture,GENOMIC,Betula papyrifera,,,,missing,missing
+Nickel Nitrate treated,SAMN39676472,SRR27848142,PRJNA1071165,Bisulfite-Seq,GENOMIC,Betula papyrifera,,,,Canada:Sudbury,2021-09
+Potassium Nitrate treated,SAMN39676471,SRR27848143,PRJNA1071165,Bisulfite-Seq,GENOMIC,Betula papyrifera,,,,Canada:Sudbury,2021-09
+Water treated,SAMN39676470,SRR27848144,PRJNA1071165,Bisulfite-Seq,GENOMIC,Betula papyrifera,,,,Canada:Sudbury,2021-09
+D-18,SAMN51793500,SRR35571983,PRJNA1333339,AMPLICON,GENOMIC,Betula papyrifera,,,,Estonia: Rohu,2022-09-12

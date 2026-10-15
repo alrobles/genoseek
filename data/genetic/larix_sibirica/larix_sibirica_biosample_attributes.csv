@@ -1,0 +1,66 @@
+accession,taxonomy_name,title,age,cell_line,collected_by,collection_date,cultivar,dev_stage,ecotype,geo_loc_name,isolate,isolation_source,specimen_voucher,tissue
+SAMN07326255,Larix sibirica,Plant sample from Larix sibirica,50,,,missing,,,Siberia,"Russia: Krasnoyarsk, Arboretum, Forest Institute",KRSK-2023,,,"needles, megametophyte"
+SAMN16631297,Larix sibirica,Transcriptome of  Larix sibirica — autumn buds,50,,N. Oreshkova,2015-09,,,Siberia,"Russia: Krasnoyarsk, Arboretum of the V.N. Sukachev Institute of Forest of the Siberian Branch of the RAS",,,,bud
+SAMN16631298,Larix sibirica,Transcriptome of Larix sibirica — cambium,50,,N. Oreshkova,2016-06,,,Siberia,"Russia: Krasnoyarsk, Arboretum of the V.N. Sukachev Institute of Forest of the Siberian Branch of the RAS",,,,cambium
+SAMN16631299,Larix sibirica,Transcriptome of  Larix sibirica —needles,50,,N. Oreshkova,2016-06,,,Siberia,"Russia: Krasnoyarsk, Arboretum of the V.N. Sukachev Institute of Forest of the Siberian Branch of the RAS",,,,needles
+SAMN16631300,Larix sibirica,Transcriptome of Larix sibirica — 2-year-old shoot,50,,N. Oreshkova,2016-06,,,Siberia,"Russia: Krasnoyarsk, Arboretum of the V.N. Sukachev Institute of Forest of the Siberian Branch of the RAS",,,,2-year-old shoot
+SAMN16631301,Larix sibirica,Transcriptome of Larix sibirica — 2-month-old seedling,50,,N. Oreshkova,2016-06,,,Siberia,"Russia: Krasnoyarsk, Arboretum of the V.N. Sukachev Institute of Forest of the Siberian Branch of the RAS",,,,2-month-year seedling
+SAMN19066195,Larix sibirica,Non-embryogenic callus,20 days,CL 18.3 NEC,,,,Callus,,Russia: Krasnoyarsk,A4 seedling,seed,,callus
+SAMN19066196,Larix sibirica,183,20 days,CL 18.3 EC,,,,callus,,Russia: Krasnoyarsk,A4 seedling,,,callus
+SAMN22569487,Larix sibirica,conifers LS sample1,40,,,,Larix sibirica,,Larix sibirica,Russia,Larix sibirica LS 1,,,"haploid callu,needles"
+SAMN22569488,Larix sibirica,conifers LS sample2,40,,,,Larix sibirica,,Larix sibirica,Russia,Larix sibirica LS 2,,,"haploid callu,needles"
+SAMN22569489,Larix sibirica,conifers LS sample3,40,,,,Larix sibirica,,Larix sibirica,Russia,Larix sibirica LS 3,,,"haploid callu,needles"
+SAMN27410125,Larix sibirica,pacbio_short,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,1",not applicable,,,leaf
+SAMN27410126,Larix sibirica,pacbio_long,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,2",not applicable,,,leaf
+SAMN27410127,Larix sibirica,pacbio_long,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,3",not applicable,,,leaf
+SAMN27410128,Larix sibirica,pacbio_long,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,4",not applicable,,,leaf
+SAMN27410129,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,5",not applicable,,,leaf
+SAMN27410130,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,6",not applicable,,,leaf
+SAMN27410131,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,7",not applicable,,,leaf
+SAMN27410132,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,8",not applicable,,,leaf
+SAMN27410133,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,9",not applicable,,,leaf
+SAMN27410134,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,10",not applicable,,,leaf
+SAMN27410135,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,11",not applicable,,,leaf
+SAMN27410136,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,12",not applicable,,,leaf
+SAMN27410137,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,13",not applicable,,,leaf
+SAMN27410138,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,14",not applicable,,,leaf
+SAMN27410139,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,15",not applicable,,,leaf
+SAMN27410140,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,16",not applicable,,,leaf
+SAMN27410141,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,17",not applicable,,,leaf
+SAMN27410142,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,18",not applicable,,,leaf
+SAMN27410143,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,19",not applicable,,,leaf
+SAMN27410144,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,20",not applicable,,,leaf
+SAMN27410145,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,21",not applicable,,,leaf
+SAMN27410146,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,22",not applicable,,,leaf
+SAMN27410147,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,23",not applicable,,,leaf
+SAMN27410148,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,24",not applicable,,,leaf
+SAMN27410149,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,25",not applicable,,,leaf
+SAMN27410150,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,26",not applicable,,,leaf
+SAMN27410151,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,27",not applicable,,,leaf
+SAMN27410152,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,28",not applicable,,,leaf
+SAMN27410153,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,29",not applicable,,,leaf
+SAMN27410154,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,30",not applicable,,,leaf
+SAMN27410155,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,31",not applicable,,,leaf
+SAMN27410156,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,32",not applicable,,,leaf
+SAMN27410157,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,33",not applicable,,,leaf
+SAMN27410158,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,34",not applicable,,,leaf
+SAMN27410159,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,35",not applicable,,,leaf
+SAMN27410160,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,36",not applicable,,,leaf
+SAMN27410161,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,37",not applicable,,,leaf
+SAMN27410162,Larix sibirica,RNA-seq,not collected,,,,not applicable,not collected,not applicable,"China: Xinjiang,38",not applicable,,,leaf
+SAMN37569643,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-22,,,not collected,"China: Kanas Lake, Xinjiang",Lsib-1_X123,,,Needles
+SAMN37569644,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-22,,,not collected,"China: Kanas Lake, Xinjiang",Lsib-2_X124,,,Needles
+SAMN37569645,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-22,,,not collected,"China: Kanas Lake, Xinjiang",Lsib-3_X125,,,Needles
+SAMN37569646,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-22,,,not collected,"China: Kanas Lake, Xinjiang",Lsib-4_X126,,,Needles
+SAMN37569698,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2010-07-21,,,not collected,"China:Jimunai, Xinjiang",LsibJM_L29CG,,,Needles
+SAMN37569699,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-23,,,not collected,"China: Kanas Lake, Xinjiang",LsibKNS3_L30CG,,,Needles
+SAMN37569700,Larix sibirica,Plant sample from Larix sibirica,not collected,,,2019-05-23,,,not collected,China: Xinjiang,LsibXJ16_L22CG,,,Needles
+SAMN40269109,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1976-07-27,not applicable,not collected,not applicable,Russia,not applicable,,AL:H1181778,leaf
+SAMN40269110,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1983-07-07,not applicable,not collected,not applicable,Russia,not applicable,,AL:H1181780,leaf
+SAMN40269111,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1996-07-25,not applicable,not collected,not applicable,Mongolia,not applicable,,E:00198931,leaf
+SAMN40269112,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1972-06-13,not applicable,not collected,not applicable,Russia,not applicable,,NY:1477216,leaf
+SAMN40269113,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1983-07-23,not applicable,not collected,not applicable,Russia,not applicable,,NY:Elias8050,leaf
+SAMN40269114,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1979-07-02,not applicable,not collected,not applicable,Russia,not applicable,,NY:Iltis358,leaf
+SAMN40269115,Larix sibirica,Plant sample from Larix sibirica,not collected,,,1978-08-18,not applicable,not collected,not applicable,Russia,not applicable,,NY:Elias4211,leaf
+SAMN51793508,Larix sibirica,Plant sample from Larix sibirica,Six year,,,2022-09-12,,,Estonia,Estonia: Rohu,E-08,,,leaves
+SAMN51793511,Larix sibirica,Plant sample from Larix sibirica,Six year,,,2022-09-12,,,Estonia,Estonia: Rohu,E-16,,,leaves

@@ -1,0 +1,777 @@
+sample,biosample,srr,bioproject,library_strategy,library_source,scientific_name,lat,lon,lat_lon_raw,geo_loc_name,collection_date
+D004_RB140_binv,SAMN36847859,SRR25532703,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D011_RB160_binv,SAMN36847860,SRR25532702,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D012_RB160_binv,SAMN36847861,SRR25532701,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B012_RB002_binv,SAMN36847827,SRR25532709,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+burn_02_binv,SAMN36847853,SRR25532712,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_03_binv,SAMN36847854,SRR25532708,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_04_binv,SAMN36847855,SRR25532707,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_05_binv,SAMN36847856,SRR25532706,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_06_binv,SAMN36847857,SRR25532705,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+cres_01_binv,SAMN36847858,SRR25532704,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elsc-03_binv,SAMN36847920,SRR25532700,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-05_binv,SAMN36847921,SRR25532699,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-07_binv,SAMN36847922,SRR25532698,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-08_binv,SAMN36847923,SRR25532697,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+kais_01_binv,SAMN36847958,SRR25532916,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_03_binv,SAMN36848113,SRR25532713,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_04_binv,SAMN36848114,SRR25532711,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_05_binv,SAMN36848115,SRR25532710,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+Odohem_blood_female1_736,SAMN40863537,SRR29366309,PRJNA1013266,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,34.335231,-116.939902,34.335231 N 116.939902 W,USA:California,2022-03-26
+Odohem_blood_female2_737,SAMN40863538,SRR29366308,PRJNA1013266,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,34.335231,-116.939902,34.335231 N 116.939902 W,USA:California,2022-03-26
+Odohem_blood_male1_738,SAMN40863598,SRR29366307,PRJNA1013266,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,34.335231,-116.939902,34.335231 N 116.939902 W,USA:California,2022-03-26
+Odohem_blood_male2_739,SAMN40863599,SRR29366306,PRJNA1013266,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,34.335231,-116.939902,34.335231 N 116.939902 W,USA:California,2022-03-26
+ODHE-2022-008-006,SAMN41460070,SRR31003236,PRJNA1173159,OTHER,GENOMIC,Odocoileus hemionus,34.34,-116.94,34.34 N 116.94 W,"USA:California, Lucerne Valley",2022-03-26
+CDFW_2019_HSUGinger,SAMN48046399,SRR33576262,PRJNA1252274,Hi-C,GENOMIC,Odocoileus hemionus columbianus,,,,"USA:California, Humboldt County",2019
+CL00001,SAMN53131087,SRR35979378,PRJNA1358933,Targeted-Capture,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+CL00002,SAMN53131088,SRR35979379,PRJNA1358933,Targeted-Capture,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+CO00005,SAMN53131060,SRR35979381,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+OK00131,SAMN53131059,SRR35979380,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+VI00001,SAMN53131061,SRR35979382,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00002,SAMN53131062,SRR35979383,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00004,SAMN53131063,SRR35979384,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00005,SAMN53131064,SRR35979385,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00006,SAMN53131065,SRR35979404,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00007,SAMN53131066,SRR35979403,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00008,SAMN53131067,SRR35979402,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00009,SAMN53131068,SRR35979401,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+VI00010,SAMN53131069,SRR35979400,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+ZI00001,SAMN53131055,SRR35979406,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+ZI00004,SAMN53131058,SRR35979375,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+ZI00005,SAMN53131057,SRR35979394,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+GD18A2,SAMN53131085,SRR35979376,PRJNA1358933,Targeted-Capture,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+GD18A9,SAMN53131084,SRR35979374,PRJNA1358933,Targeted-Capture,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+K1AB6a,SAMN53131086,SRR35979377,PRJNA1358933,Targeted-Capture,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+KWYb,SAMN53131083,SRR35979373,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,Canada:British Columbia,not applicable
+NC0001,SAMN53131056,SRR35979405,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,,,not applicable,USA:Alaska,not applicable
+1036,SAMN53131072,SRR35979397,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,24.380577,-111.084872,24.380577 N 111.084872 W,Mexico:BajaCalifornia,2000
+1467,SAMN53131070,SRR35979399,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus columbianus,49.136884,-123.855868,49.136884 N 123.855868 W,Canada:British Columbia,2001
+367,SAMN53131071,SRR35979398,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,57.806111,-134.621944,57.806111 N 134.621944 W,USA:Alaska,1999
+5238,SAMN53131073,SRR35979396,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,32.0753,-111.164,32.0753 N 111.164 W,USA:Idaho,2000
+5287,SAMN53131074,SRR35979395,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,45.575809,-109.379939,45.575809 N 109.379939 W,USA:Montana,2000
+5682,SAMN53131075,SRR35979393,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus columbianus,52.36915,-126.6338,52.36915 N 126.6338 W,Canada:British Columbia,2001
+5692,SAMN53131076,SRR35979392,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,49.459617,-120.510008,49.459617 N 120.510008 W,Canada:British Columbia,2000
+5813,SAMN53131077,SRR35979391,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus columbianus,44.647222,-123.766667,44.647222 N 123.766667 W,USA:Oregon,2001
+6215,SAMN53131078,SRR35979390,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,52.750442,-111.126811,52.750442 N 111.126811 W,Canada:Alberta,1999
+8016,SAMN53131079,SRR35979389,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus columbianus,42.62872,-124.05759,42.62872 N 124.05759 W,USA:Oregon,2003
+9512,SAMN53131080,SRR35979388,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,32.0753,-111.164,32.0753 N 111.164 W,USA:Arizona,1995
+99238,SAMN53131081,SRR35979387,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus sitkensis,56.792526,-154.080418,56.792526 N 154.080418 W,USA:Alaska,1999
+99536,SAMN53131082,SRR35979386,PRJNA1358933,WGS,GENOMIC,Odocoileus hemionus,44.417653,-119.113571,44.417653 N 119.113571 W,USA:Oregon,1999
+B008_RB001_binv,SAMN36847826,SRR25532748,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B407_RB427_binv,SAMN36847844,SRR25532747,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B408_RB371_binv,SAMN36847845,SRR25532736,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+buck_01_binv,SAMN36847852,SRR25532723,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+reef-11_binv,SAMN36848019,SRR25532753,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+reef-12_binv,SAMN36848020,SRR25532752,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+rfhi-02_binv,SAMN36848021,SRR25532751,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-03_binv,SAMN36848022,SRR25532750,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-05_binv,SAMN36848023,SRR25532749,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-06_binv,SAMN36848024,SRR25532746,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-07_binv,SAMN36848025,SRR25532745,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-08_binv,SAMN36848026,SRR25532744,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-10_binv,SAMN36848027,SRR25532743,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-11_binv,SAMN36848028,SRR25532742,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-12_binv,SAMN36848029,SRR25532741,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-13_binv,SAMN36848030,SRR25532740,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-17_binv,SAMN36848031,SRR25532739,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-18_binv,SAMN36848032,SRR25532738,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-19_binv,SAMN36848033,SRR25532737,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-20_binv,SAMN36848034,SRR25532735,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-21_binv,SAMN36848035,SRR25532734,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-23_binv,SAMN36848036,SRR25532733,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+sgsc-24_binv,SAMN36848099,SRR25532728,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc-25_binv,SAMN36848100,SRR25532727,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc-34_binv,SAMN36848101,SRR25532726,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+sgsc-36_binv,SAMN36848102,SRR25532725,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+sgsc-38_binv,SAMN36848103,SRR25532724,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+sgsc-39_binv,SAMN36848104,SRR25532722,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+sgsc-40_binv,SAMN36848105,SRR25532721,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+sgsc_21_binv,SAMN36848095,SRR25532732,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_22_binv,SAMN36848096,SRR25532731,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_32_binv,SAMN36848097,SRR25532730,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_33_binv,SAMN36848098,SRR25532729,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+tanu_01_binv,SAMN36848106,SRR25532720,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+tasu_01_binv,SAMN36848107,SRR25532719,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_01_binv,SAMN36848108,SRR25532718,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_02_binv,SAMN36848109,SRR25532717,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlim-00_binv,SAMN36848110,SRR25532716,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+wlou_01_binv,SAMN36848111,SRR25532715,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_02_binv,SAMN36848112,SRR25532714,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B064_RB018_binv,SAMN36847831,SRR25532793,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B065_RB018_binv,SAMN36847832,SRR25532782,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B111_RB044_binv,SAMN36847833,SRR25532771,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B384_RB336_binv,SAMN36847843,SRR25532759,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+bisc_01_binv,SAMN36847850,SRR25532809,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+bisc_02_binv,SAMN36847851,SRR25532798,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+elim-18_binv,SAMN36847891,SRR25532796,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-19_binv,SAMN36847892,SRR25532795,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-20_binv,SAMN36847893,SRR25532794,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-21_binv,SAMN36847894,SRR25532792,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-23_binv,SAMN36847895,SRR25532791,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-24_binv,SAMN36847896,SRR25532790,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-25_binv,SAMN36847897,SRR25532789,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+elim-26_binv,SAMN36847898,SRR25532788,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+elim-30_binv,SAMN36847899,SRR25532787,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+elim-31_binv,SAMN36847900,SRR25532786,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+elim-32_binv,SAMN36847901,SRR25532785,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+elim-33_binv,SAMN36847902,SRR25532784,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-34_binv,SAMN36847903,SRR25532783,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-35_binv,SAMN36847904,SRR25532781,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-36_binv,SAMN36847905,SRR25532780,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-37_binv,SAMN36847906,SRR25532779,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-38_binv,SAMN36847907,SRR25532778,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-39_binv,SAMN36847908,SRR25532777,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-40_binv,SAMN36847909,SRR25532776,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-41_binv,SAMN36847910,SRR25532775,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-42_binv,SAMN36847911,SRR25532774,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_01_binv,SAMN36847912,SRR25532773,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_02_binv,SAMN36847913,SRR25532772,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_03_binv,SAMN36847914,SRR25532770,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_04_binv,SAMN36847915,SRR25532769,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_05_binv,SAMN36847916,SRR25532768,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_06_binv,SAMN36847917,SRR25532767,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elsc-01_binv,SAMN36847918,SRR25532766,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-02_binv,SAMN36847919,SRR25532765,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+more_17_binv,SAMN36848009,SRR25532764,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_18_binv,SAMN36848010,SRR25532763,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_19_binv,SAMN36848011,SRR25532762,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+reef-01_binv,SAMN36848012,SRR25532761,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+reef-05_binv,SAMN36848013,SRR25532760,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+reef-06_binv,SAMN36848014,SRR25532758,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+reef-07_binv,SAMN36848015,SRR25532757,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+reef-08_binv,SAMN36848016,SRR25532756,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+reef-09_binv,SAMN36848017,SRR25532755,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+reef-10_binv,SAMN36848018,SRR25532754,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2013
+sghi-24_binv,SAMN36848080,SRR25532813,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-27_binv,SAMN36848081,SRR25532812,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-28_binv,SAMN36848082,SRR25532811,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-36_binv,SAMN36848083,SRR25532810,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sgsc_02_binv,SAMN36848084,SRR25532808,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_03_binv,SAMN36848085,SRR25532807,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_05_binv,SAMN36848086,SRR25532806,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_06_binv,SAMN36848087,SRR25532805,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_09_binv,SAMN36848088,SRR25532804,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_10_binv,SAMN36848089,SRR25532803,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_11_binv,SAMN36848090,SRR25532802,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_13_binv,SAMN36848091,SRR25532801,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_14_binv,SAMN36848092,SRR25532800,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_15_binv,SAMN36848093,SRR25532799,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_19_binv,SAMN36848094,SRR25532797,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+B361_RB308_binv,SAMN36847841,SRR25532845,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B377_RB331_binv,SAMN36847842,SRR25532834,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B430_RB551_binv,SAMN36847849,SRR25532820,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_05_binv,SAMN36847986,SRR25532853,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_06_binv,SAMN36847987,SRR25532852,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_07_binv,SAMN36847988,SRR25532851,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_08_binv,SAMN36847989,SRR25532850,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_09_binv,SAMN36847990,SRR25532849,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_10_binv,SAMN36847991,SRR25532848,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_11_binv,SAMN36847992,SRR25532847,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_12_binv,SAMN36847993,SRR25532846,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_13_binv,SAMN36847994,SRR25532844,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_14_binv,SAMN36847995,SRR25532843,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_04_binv,SAMN36847996,SRR25532842,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_05_binv,SAMN36847997,SRR25532841,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_06_binv,SAMN36847998,SRR25532840,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_07_binv,SAMN36847999,SRR25532839,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_08_binv,SAMN36848000,SRR25532838,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_09_binv,SAMN36848001,SRR25532837,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_10_binv,SAMN36848002,SRR25532836,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_11_binv,SAMN36848003,SRR25532835,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_12_binv,SAMN36848004,SRR25532833,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_13_binv,SAMN36848005,SRR25532832,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_14_binv,SAMN36848006,SRR25532831,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_15_binv,SAMN36848007,SRR25532830,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_16_binv,SAMN36848008,SRR25532829,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgan_06_binv,SAMN36848066,SRR25532828,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_07_binv,SAMN36848067,SRR25532827,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_08_binv,SAMN36848068,SRR25532826,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_09_binv,SAMN36848069,SRR25532825,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_10_binv,SAMN36848070,SRR25532824,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sghi-04_binv,SAMN36848071,SRR25532823,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-08_binv,SAMN36848072,SRR25532822,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-09_binv,SAMN36848073,SRR25532821,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-10_binv,SAMN36848074,SRR25532819,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-13_binv,SAMN36848075,SRR25532818,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-15_binv,SAMN36848076,SRR25532817,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-18_binv,SAMN36848077,SRR25532816,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-21_binv,SAMN36848078,SRR25532815,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+sghi-22_binv,SAMN36848079,SRR25532814,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+B331_RB124_binv,SAMN36847838,SRR25532910,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B351_RB274_binv,SAMN36847839,SRR25532899,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B358_RB298_binv,SAMN36847840,SRR25532856,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B415_RB460_binv,SAMN36847846,SRR25532885,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B422_RB485_binv,SAMN36847847,SRR25532874,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B427_RB521_binv,SAMN36847848,SRR25532863,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+kunt_01_binv,SAMN36847961,SRR25532913,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_02_binv,SAMN36847962,SRR25532912,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_03_binv,SAMN36847963,SRR25532911,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_04_binv,SAMN36847964,SRR25532909,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_05_binv,SAMN36847965,SRR25532908,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-08_binv,SAMN36847972,SRR25532901,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-09_binv,SAMN36847973,SRR25532900,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-10_binv,SAMN36847974,SRR25532898,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-11_binv,SAMN36847975,SRR25532897,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-12_binv,SAMN36847976,SRR25532896,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-13_binv,SAMN36847977,SRR25532895,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-14_binv,SAMN36847978,SRR25532894,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-15_binv,SAMN36847979,SRR25532893,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-16_binv,SAMN36847980,SRR25532860,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui-17_binv,SAMN36847981,SRR25532859,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_02_binv,SAMN36847966,SRR25532907,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_03_binv,SAMN36847967,SRR25532906,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_04_binv,SAMN36847968,SRR25532905,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_05_binv,SAMN36847969,SRR25532904,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_06_binv,SAMN36847970,SRR25532903,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_07_binv,SAMN36847971,SRR25532902,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_01_binv,SAMN36847982,SRR25532858,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_02_binv,SAMN36847983,SRR25532857,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_03_binv,SAMN36847984,SRR25532855,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_04_binv,SAMN36847985,SRR25532854,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+rfhi-24_binv,SAMN36848037,SRR25532892,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-25_binv,SAMN36848038,SRR25532891,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-26_binv,SAMN36848039,SRR25532890,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-27_binv,SAMN36848040,SRR25532889,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-28_binv,SAMN36848041,SRR25532888,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-31_binv,SAMN36848042,SRR25532887,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-34_binv,SAMN36848043,SRR25532886,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-35_binv,SAMN36848044,SRR25532884,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-36_binv,SAMN36848045,SRR25532883,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-39_binv,SAMN36848046,SRR25532882,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-40_binv,SAMN36848047,SRR25532881,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-46_binv,SAMN36848048,SRR25532880,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-53_binv,SAMN36848049,SRR25532879,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-65_binv,SAMN36848050,SRR25532878,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1997
+rfhi-90_binv,SAMN36848051,SRR25532877,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+rfhi-93_binv,SAMN36848052,SRR25532876,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+rfhi-94_binv,SAMN36848053,SRR25532875,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+rfhi-96_binv,SAMN36848054,SRR25532873,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+rfhi-98_binv,SAMN36848055,SRR25532872,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",1998
+ross_01_binv,SAMN36848056,SRR25532871,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_02_binv,SAMN36848057,SRR25532870,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_03_binv,SAMN36848058,SRR25532869,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_04_binv,SAMN36848059,SRR25532868,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+secu_01_binv,SAMN36848060,SRR25532867,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgan_01_binv,SAMN36848061,SRR25532866,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_02_binv,SAMN36848062,SRR25532865,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_03_binv,SAMN36848063,SRR25532864,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_04_binv,SAMN36848064,SRR25532862,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_05_binv,SAMN36848065,SRR25532861,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+B014_RB003_binv,SAMN36847828,SRR25532954,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B046_RB010_binv,SAMN36847829,SRR25532943,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B055_RB012_binv,SAMN36847830,SRR25532932,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B305_RB099_binv,SAMN36847837,SRR25532921,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D035_RB205_binv,SAMN36847864,SRR25532953,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D044_RB218_binv,SAMN36847865,SRR25532952,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D062_RB276_binv,SAMN36847866,SRR25532951,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D076_RB294_binv,SAMN36847867,SRR25532950,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D083_RB312_binv,SAMN36847868,SRR25532949,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D110_RB421_binv,SAMN36847869,SRR25532948,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D125_RB473_binv,SAMN36847870,SRR25532947,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D129_RB482_binv,SAMN36847871,SRR25532946,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D133_RB495_binv,SAMN36847872,SRR25532945,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D136_RB517_binv,SAMN36847873,SRR25532944,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+daws_01_binv,SAMN36847874,SRR25532942,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elim-01_binv,SAMN36847875,SRR25532941,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-02_binv,SAMN36847876,SRR25532940,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-03_binv,SAMN36847877,SRR25532939,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-04_binv,SAMN36847878,SRR25532938,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-06_binv,SAMN36847879,SRR25532937,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-07_binv,SAMN36847880,SRR25532936,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-08_binv,SAMN36847881,SRR25532935,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-09_binv,SAMN36847882,SRR25532934,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-10_binv,SAMN36847883,SRR25532933,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-11_binv,SAMN36847884,SRR25532931,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-12_binv,SAMN36847885,SRR25532930,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-13_binv,SAMN36847886,SRR25532929,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-14_binv,SAMN36847887,SRR25532928,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-15_binv,SAMN36847888,SRR25532927,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-16_binv,SAMN36847889,SRR25532926,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+elim-17_binv,SAMN36847890,SRR25532925,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2011
+gram_27_binv,SAMN36847951,SRR25532924,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_28_binv,SAMN36847952,SRR25532923,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_34_binv,SAMN36847953,SRR25532922,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_37_binv,SAMN36847954,SRR25532920,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_38_binv,SAMN36847955,SRR25532919,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+grqc_01_binv,SAMN36847956,SRR25532918,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+hous_01_binv,SAMN36847957,SRR25532917,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+koot_01_binv,SAMN36847959,SRR25532915,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+koot_02_binv,SAMN36847960,SRR25532914,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+Oh_AZ3,SAMN32798413,SRR23126282,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,35.11,-111.39,35.11 N 111.39 W,USA:Arizona,2001-10-26
+Oh_ID2,SAMN32798414,SRR23126281,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,42.03,-111.54,42.03 N 111.54 W,USA:Idaho,2021-03-08
+Oh_MT2,SAMN32798415,SRR23126270,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,45.25,-109.44,45.25 N 109.44 W,USA:Montana,2001-11-11
+Oh_SK2,SAMN32798416,SRR23126259,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,51.01,-106.25,51.01 N 106.25 W,Canada:Saskatchewan,Missing
+Oh_SK3,SAMN32798417,SRR23126248,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,51.02,-106.25,51.02 N 106.25 W,Canada:Saskatchewan,Missing
+Oh_SK4,SAMN32798418,SRR23126239,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,50.44,-107.48,50.44 N 107.48 W,Canada:Saskatchewan,Missing
+W007_RB528_nis_gtseq,SAMN27769681,SRR18916701,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+sgsc_33_nis_gtseq,SAMN27769678,SRR18916704,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+tanu_01_nis_gtseq,SAMN27769679,SRR18916703,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+tasu_01_nis_gtseq,SAMN27769680,SRR18916702,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_01_nis_gtseq,SAMN27769682,SRR18916700,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_02_nis_gtseq,SAMN27769683,SRR18916699,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_03_nis_gtseq,SAMN27769684,SRR18916698,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+MD_AATCCG,SAMN29180762,SRR19737189,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_ACTGGT,SAMN29180763,SRR19737188,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_ATCGAA,SAMN29180764,SRR19737187,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_CGGTTA,SAMN29180765,SRR19737186,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_GCTACA,SAMN29180766,SRR19737185,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_GTCTAG,SAMN29180767,SRR19737184,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_TAGTGC,SAMN29180768,SRR19737183,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+MD_TGTCAC,SAMN29180769,SRR19737182,PRJNA850423,RAD-Seq,GENOMIC,Odocoileus hemionus,,,,,
+NMS_NorthMagnoliaSouth,SAMN29208191,SRR19753946,PRJNA851034,WGS,GENOMIC,Odocoileus hemionus,,,,,
+NM_NorthMagnolia,SAMN29208189,SRR19753948,PRJNA851034,WGS,GENOMIC,Odocoileus hemionus,,,,,
+NR_NorthRidge,SAMN29208193,SRR19753944,PRJNA851034,WGS,GENOMIC,Odocoileus hemionus,,,,,
+RG_RyanGulch,SAMN29208192,SRR19753945,PRJNA851034,WGS,GENOMIC,Odocoileus hemionus,,,,,
+SM_SouthMagnolia,SAMN29208190,SRR19753947,PRJNA851034,WGS,GENOMIC,Odocoileus hemionus,,,,,
+A075_RB082_binv,SAMN36847824,SRR25532988,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+A326_RB401_binv,SAMN36847825,SRR25532987,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B250_RB076_binv,SAMN36847834,SRR25532986,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B256_RB080_binv,SAMN36847835,SRR25532975,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B289_RB094_binv,SAMN36847836,SRR25532964,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D014_RB168_binv,SAMN36847862,SRR25532956,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D033_RB199_binv,SAMN36847863,SRR25532955,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F004_RB18014_binv,SAMN36847934,SRR25532974,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F015_RB18022_binv,SAMN36847935,SRR25532973,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F019_RB18026_binv,SAMN36847936,SRR25532972,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F020_XB18027_binv,SAMN36847937,SRR25532971,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F021_RB18027_binv,SAMN36847938,SRR25532970,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F022_RB18027_binv,SAMN36847939,SRR25532969,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F023_RB18027_binv,SAMN36847940,SRR25532968,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F025_RB18027_binv,SAMN36847941,SRR25532967,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F026_RB18027_binv,SAMN36847942,SRR25532966,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F027_RB18028_binv,SAMN36847943,SRR25532965,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F030_RB18029_binv,SAMN36847944,SRR25532963,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F031_RB18029_binv,SAMN36847945,SRR25532962,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F034_RB18033_binv,SAMN36847946,SRR25532961,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F035_RB18034_binv,SAMN36847947,SRR25532960,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F037_RB18035_binv,SAMN36847948,SRR25532959,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+elsc-09_binv,SAMN36847924,SRR25532985,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-11_binv,SAMN36847925,SRR25532984,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-12_binv,SAMN36847926,SRR25532983,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-14_binv,SAMN36847927,SRR25532982,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-15_binv,SAMN36847928,SRR25532981,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-16_binv,SAMN36847929,SRR25532980,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-17_binv,SAMN36847930,SRR25532979,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-18_binv,SAMN36847931,SRR25532978,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-19_binv,SAMN36847932,SRR25532977,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+elsc-20_binv,SAMN36847933,SRR25532976,PRJNA1002575,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2022
+gram_19_binv,SAMN36847949,SRR25532958,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_23_binv,SAMN36847950,SRR25532957,PRJNA1002575,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B012_RB002_gtseq,SAMN27769470,SRR18916717,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B250_RB076_gtseq,SAMN27769472,SRR18916742,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B358_RB298_gtseq,SAMN27769473,SRR18916731,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D004_RB140_gtseq,SAMN27769489,SRR18916705,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F004_RB18014_gtseq,SAMN27769506,SRR18916744,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F015_RB18022_gtseq,SAMN27769507,SRR18916743,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F022_RB18027_gtseq,SAMN27769508,SRR18916741,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F027_RB18028_gtseq,SAMN27769509,SRR18916740,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F034_RB18033_gtseq,SAMN27769510,SRR18916739,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F037_RB18035_gtseq,SAMN27769511,SRR18916738,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+burn_06_gtseq,SAMN27769487,SRR18916728,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+cres_01_gtseq,SAMN27769488,SRR18916716,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+fara_01_gtseq,SAMN27769512,SRR18916737,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+fara_02_gtseq,SAMN27769513,SRR18916736,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+hous_01_gtseq,SAMN27769514,SRR18916735,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+kunt_01_gtseq,SAMN27769515,SRR18916734,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_02_gtseq,SAMN27769516,SRR18916733,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_03_gtseq,SAMN27769517,SRR18916732,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_04_gtseq,SAMN27769518,SRR18916730,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgsc_12_nis_gtseq,SAMN27769657,SRR18916729,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_13_nis_gtseq,SAMN27769658,SRR18916727,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_14_nis_gtseq,SAMN27769659,SRR18916726,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_15_nis_gtseq,SAMN27769660,SRR18916725,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_16_nis_gtseq,SAMN27769661,SRR18916724,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_17_nis_gtseq,SAMN27769662,SRR18916723,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_18_nis_gtseq,SAMN27769663,SRR18916722,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_19_nis_gtseq,SAMN27769664,SRR18916721,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_20_nis_gtseq,SAMN27769665,SRR18916720,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_21_nis_gtseq,SAMN27769666,SRR18916719,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_22_nis_gtseq,SAMN27769667,SRR18916718,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_23_nis_gtseq,SAMN27769668,SRR18916715,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_24_nis_gtseq,SAMN27769669,SRR18916714,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_25_nis_gtseq,SAMN27769670,SRR18916713,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_26_nis_gtseq,SAMN27769671,SRR18916712,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_27_nis_gtseq,SAMN27769672,SRR18916711,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_28_nis_gtseq,SAMN27769673,SRR18916710,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_29_nis_gtseq,SAMN27769674,SRR18916709,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_30_nis_gtseq,SAMN27769675,SRR18916708,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_31_nis_gtseq,SAMN27769676,SRR18916707,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_32_nis_gtseq,SAMN27769677,SRR18916706,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+A075_RB082_nis_gtseq,SAMN27769560,SRR18916801,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B008_RB001_nis_gtseq,SAMN27769561,SRR18916800,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B012_RB002_nis_gtseq,SAMN27769562,SRR18916799,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B111_RB044_gtseq,SAMN27769471,SRR18916753,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B111_RB044_nis_gtseq,SAMN27769563,SRR18916798,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B250_RB076_nis_gtseq,SAMN27769564,SRR18916797,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B358_RB298_nis_gtseq,SAMN27769565,SRR18916796,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B377_RB331_nis_gtseq,SAMN27769566,SRR18916795,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B405_RB424_nis_gtseq,SAMN27769567,SRR18916794,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B408_RB371_gtseq,SAMN27769477,SRR18916804,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D033_RB199_gtseq,SAMN27769490,SRR18916761,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D051_RB274_gtseq,SAMN27769491,SRR18916760,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D076_RB294_gtseq,SAMN27769492,SRR18916759,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D083_RB312_gtseq,SAMN27769493,SRR18916758,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D111_RB423_gtseq,SAMN27769494,SRR18916757,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D133_RB495_gtseq,SAMN27769495,SRR18916756,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D136_RB517_gtseq,SAMN27769496,SRR18916755,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D141_RB524_gtseq,SAMN27769497,SRR18916754,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D142_RB524_gtseq,SAMN27769498,SRR18916752,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D143_RB527_gtseq,SAMN27769499,SRR18916751,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D144_RB527_gtseq,SAMN27769500,SRR18916750,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D146_RB539_gtseq,SAMN27769501,SRR18916749,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F003_RB18012_gtseq,SAMN27769505,SRR18916745,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+buck_01_gtseq,SAMN27769484,SRR18916793,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_04_gtseq,SAMN27769485,SRR18916782,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_05_gtseq,SAMN27769486,SRR18916771,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+daws_01_gtseq,SAMN27769502,SRR18916748,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_01_gtseq,SAMN27769503,SRR18916747,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_05_gtseq,SAMN27769504,SRR18916746,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_08_nis_gtseq,SAMN27769628,SRR18916792,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_09_nis_gtseq,SAMN27769629,SRR18916791,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_10_nis_gtseq,SAMN27769630,SRR18916790,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_11_nis_gtseq,SAMN27769631,SRR18916789,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_12_nis_gtseq,SAMN27769632,SRR18916788,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_13_nis_gtseq,SAMN27769633,SRR18916787,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_14_nis_gtseq,SAMN27769634,SRR18916786,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_15_nis_gtseq,SAMN27769635,SRR18916785,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_16_nis_gtseq,SAMN27769636,SRR18916784,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_17_nis_gtseq,SAMN27769637,SRR18916783,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_19_nis_gtseq,SAMN27769638,SRR18916781,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_01_nis_gtseq,SAMN27769639,SRR18916780,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_02_nis_gtseq,SAMN27769640,SRR18916779,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_03_nis_gtseq,SAMN27769641,SRR18916778,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_04_nis_gtseq,SAMN27769642,SRR18916777,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgan_02_nis_gtseq,SAMN27769643,SRR18916776,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_05_nis_gtseq,SAMN27769644,SRR18916775,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_10_nis_gtseq,SAMN27769645,SRR18916774,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgsc_01_nis_gtseq,SAMN27769646,SRR18916773,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_02_nis_gtseq,SAMN27769647,SRR18916772,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_03_nis_gtseq,SAMN27769648,SRR18916770,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_04_nis_gtseq,SAMN27769649,SRR18916769,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_05_nis_gtseq,SAMN27769650,SRR18916768,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_06_nis_gtseq,SAMN27769651,SRR18916767,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_07_nis_gtseq,SAMN27769652,SRR18916766,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_08_nis_gtseq,SAMN27769653,SRR18916765,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_09_nis_gtseq,SAMN27769654,SRR18916764,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_10_nis_gtseq,SAMN27769655,SRR18916763,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+sgsc_11_nis_gtseq,SAMN27769656,SRR18916762,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2020
+wlou_01_gtseq,SAMN27769558,SRR18916803,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_02_gtseq,SAMN27769559,SRR18916802,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B430_RB551_gtseq,SAMN27769482,SRR18916836,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F020_RB18027_nis_gtseq,SAMN27769600,SRR18916844,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F022_RB18027_nis_gtseq,SAMN27769601,SRR18916843,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F027_RB18028_nis_gtseq,SAMN27769602,SRR18916842,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F034_RB18033_nis_gtseq,SAMN27769603,SRR18916841,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F037_RB18035_nis_gtseq,SAMN27769604,SRR18916840,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+W007_RB528_gtseq,SAMN27769557,SRR18916805,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+bisc_01_gtseq,SAMN27769483,SRR18916825,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+fara_01_nis_gtseq,SAMN27769605,SRR18916839,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+fara_02_nis_gtseq,SAMN27769606,SRR18916838,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+hous_01_nis_gtseq,SAMN27769607,SRR18916837,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+kunt_01_nis_gtseq,SAMN27769608,SRR18916835,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_02_nis_gtseq,SAMN27769609,SRR18916834,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_03_nis_gtseq,SAMN27769610,SRR18916833,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_04_nis_gtseq,SAMN27769611,SRR18916832,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_05_nis_gtseq,SAMN27769612,SRR18916831,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_02_nis_gtseq,SAMN27769613,SRR18916830,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_03_nis_gtseq,SAMN27769614,SRR18916829,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_04_nis_gtseq,SAMN27769615,SRR18916828,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_05_nis_gtseq,SAMN27769616,SRR18916827,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_06_nis_gtseq,SAMN27769617,SRR18916826,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_07_nis_gtseq,SAMN27769618,SRR18916824,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_01_nis_gtseq,SAMN27769619,SRR18916823,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_02_nis_gtseq,SAMN27769620,SRR18916822,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_03_nis_gtseq,SAMN27769621,SRR18916821,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_11_nis_gtseq,SAMN27769622,SRR18916820,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_12_nis_gtseq,SAMN27769623,SRR18916819,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_13_nis_gtseq,SAMN27769624,SRR18916818,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_14_nis_gtseq,SAMN27769625,SRR18916817,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_04_nis_gtseq,SAMN27769626,SRR18916816,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_06_nis_gtseq,SAMN27769627,SRR18916815,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_03_gtseq,SAMN27769548,SRR18916814,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_04_gtseq,SAMN27769549,SRR18916813,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgan_02_gtseq,SAMN27769550,SRR18916812,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_05_gtseq,SAMN27769551,SRR18916811,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_10_gtseq,SAMN27769552,SRR18916810,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+tanu_01_gtseq,SAMN27769553,SRR18916809,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+tasu_01_gtseq,SAMN27769554,SRR18916808,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_01_gtseq,SAMN27769555,SRR18916807,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_02_gtseq,SAMN27769556,SRR18916806,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B377_RB331_gtseq,SAMN27769474,SRR18916901,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B405_RB424_gtseq,SAMN27769475,SRR18916890,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B407_RB427_gtseq,SAMN27769476,SRR18916879,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B408_RB371_nis_gtseq,SAMN27769569,SRR18916878,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B422_RB485_nis_gtseq,SAMN27769570,SRR18916877,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B423_RB501_gtseq,SAMN27769479,SRR18916869,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B423_RB501_nis_gtseq,SAMN27769571,SRR18916876,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B426_RB515_gtseq,SAMN27769480,SRR18916858,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B426_RB515_nis_gtseq,SAMN27769572,SRR18916875,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B429_RB548_gtseq,SAMN27769481,SRR18916847,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B429_RB548_nis_gtseq,SAMN27769573,SRR18916874,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B430_RB551_nis_gtseq,SAMN27769574,SRR18916873,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D004_RB140_nis_gtseq,SAMN27769581,SRR18916865,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D033_RB199_nis_gtseq,SAMN27769582,SRR18916864,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D051_RB274_nis_gtseq,SAMN27769583,SRR18916863,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D076_RB294_nis_gtseq,SAMN27769584,SRR18916862,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D083_RB312_nis_gtseq,SAMN27769585,SRR18916861,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D111_RB423_nis_gtseq,SAMN27769586,SRR18916860,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D133_RB495_nis_gtseq,SAMN27769587,SRR18916859,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D136_RB517_nis_gtseq,SAMN27769588,SRR18916857,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D141_RB524_nis_gtseq,SAMN27769589,SRR18916856,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D142_RB524_nis_gtseq,SAMN27769590,SRR18916855,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D143_RB527_nis_gtseq,SAMN27769591,SRR18916854,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D144_RB527_nis_gtseq,SAMN27769592,SRR18916853,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D146_RB539_nis_gtseq,SAMN27769593,SRR18916852,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F003_RB18012_nis_gtseq,SAMN27769597,SRR18916848,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F004_RB18014_nis_gtseq,SAMN27769598,SRR18916846,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F015_RB18022_nis_gtseq,SAMN27769599,SRR18916845,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+bisc_01_nis_gtseq,SAMN27769575,SRR18916872,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+buck_01_nis_gtseq,SAMN27769576,SRR18916871,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_04_nis_gtseq,SAMN27769577,SRR18916870,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_05_nis_gtseq,SAMN27769578,SRR18916868,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_06_nis_gtseq,SAMN27769579,SRR18916867,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+cres_01_nis_gtseq,SAMN27769580,SRR18916866,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+daws_01_nis_gtseq,SAMN27769594,SRR18916851,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_01_nis_gtseq,SAMN27769595,SRR18916850,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_05_nis_gtseq,SAMN27769596,SRR18916849,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_07_gtseq,SAMN27769525,SRR18916904,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_01_gtseq,SAMN27769526,SRR18916903,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_02_gtseq,SAMN27769527,SRR18916902,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_03_gtseq,SAMN27769528,SRR18916900,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_11_gtseq,SAMN27769529,SRR18916899,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_12_gtseq,SAMN27769530,SRR18916898,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_13_gtseq,SAMN27769531,SRR18916897,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_14_gtseq,SAMN27769532,SRR18916896,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_04_gtseq,SAMN27769533,SRR18916895,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_06_gtseq,SAMN27769534,SRR18916894,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_08_gtseq,SAMN27769535,SRR18916893,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_09_gtseq,SAMN27769536,SRR18916892,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_10_gtseq,SAMN27769537,SRR18916891,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_11_gtseq,SAMN27769538,SRR18916889,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_12_gtseq,SAMN27769539,SRR18916888,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_13_gtseq,SAMN27769540,SRR18916887,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_14_gtseq,SAMN27769541,SRR18916886,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_15_gtseq,SAMN27769542,SRR18916885,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_16_gtseq,SAMN27769543,SRR18916884,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_17_gtseq,SAMN27769544,SRR18916883,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_19_gtseq,SAMN27769545,SRR18916882,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_01_gtseq,SAMN27769546,SRR18916881,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_02_gtseq,SAMN27769547,SRR18916880,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+F001_RB18003,SAMN25651007,SRR17883585,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F002_RB18008,SAMN25651008,SRR17883584,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F003_XB18012,SAMN25651009,SRR17883583,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F004_RB18014,SAMN25651010,SRR17883582,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F006_RB18019,SAMN25651011,SRR17883581,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F015_RB18022,SAMN25651012,SRR17883579,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F019_RB18026,SAMN25651013,SRR17883578,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F020_XB18027,SAMN25651014,SRR17883577,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+elou_02,SAMN25651002,SRR17883590,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_03,SAMN25651003,SRR17883589,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_04,SAMN25651004,SRR17883588,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_05,SAMN25651005,SRR17883587,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_06,SAMN25651006,SRR17883586,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B065_RB018,SAMN25650940,SRR17883580,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+Oh_AB1,SAMN27729477,SRR18858847,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,52.625134,-110.75181,52.62513400 N 110.75181000 W,Canada: Alberta,2016-12-16
+Oh_AK1,SAMN27729478,SRR18858846,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,57.68529999,-134.48949999,57.68529999 N 134.48949999 W,USA: Alaska,Missing
+Oh_BC1,SAMN27729479,SRR18858870,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,48.69551799,-123.32230429,48.69551799 N 123.32230429 W,Canada: British Columbia,2016-10-20
+Oh_BC6,SAMN27729480,SRR18858845,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,54.7824,-127.1686,54.78240000 N 127.16860000 W,Canada: British Columbia,Missing
+Oh_BC8,SAMN27729481,SRR18858844,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,49.15789999,-121.95149999,49.15789999 N 121.95149999 W,Canada: British Columbia,Missing
+Oh_CA3,SAMN27729482,SRR18858843,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,35.3733,-119.01869999,35.37330000 N 119.01869999 W,USA: California,2001-11-26
+Oh_CO1,SAMN27729483,SRR18858842,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,39.48532,-108.09319999,39.48532000 N 108.09319999 W,USA: Colorado,Missing
+Oh_NM2,SAMN27729484,SRR18858840,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,36.18462999,-103.59155699,36.18462999 N 103.59155699 W,USA: New Mexico,2020-11-03
+Oh_NV2,SAMN27729485,SRR18858868,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,41.30363299,-115.137729,41.30363299 N 115.13772900 W,USA: Nevada,2000-10-07
+Oh_OR2,SAMN27729486,SRR18858867,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,44.41,-122.534,44.4100 N 122.53400000 W,USA: Oregon,2009-10-31
+Oh_SD2,SAMN27729487,SRR18858866,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,43.224,-103.4512,43.22400000 N 103.45120000 W,USA: South Dakota,2020-03-01
+Oh_SK5,SAMN27729488,SRR18858865,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,50.74419999,-107.8104,50.74419999 N 107.81040000 W,Canada: Saskatchewan,Missing
+Oh_UT2,SAMN27729489,SRR18858864,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,40.973333,-111.690278,40.97333300 N 111.69027800 W,USA: Utah,2000-10-21
+Oh_WA1,SAMN27729490,SRR18858858,PRJNA830519,WGS,GENOMIC,Odocoileus hemionus,46.88063799,-122.4092478,46.88063799 N 122.40924780 W,USA: Washington,Missing
+B407_RB427_nis_gtseq,SAMN27769568,SRR18916911,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B422_RB485_gtseq,SAMN27769478,SRR18916912,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+A075_RB082_gtseq,SAMN27769468,SRR18916914,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B008_RB001_gtseq,SAMN27769469,SRR18916913,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+kunt_05_gtseq,SAMN27769519,SRR18916910,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_02_gtseq,SAMN27769520,SRR18916909,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_03_gtseq,SAMN27769521,SRR18916908,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_04_gtseq,SAMN27769522,SRR18916907,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_05_gtseq,SAMN27769523,SRR18916906,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_06_gtseq,SAMN27769524,SRR18916905,PRJNA831890,AMPLICON,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B055_RB012,SAMN25650938,SRR17883602,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B064_RB018,SAMN25650939,SRR17883591,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B111_RB044,SAMN25650941,SRR17883619,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B331_RB124,SAMN25650946,SRR17883648,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B351_RB274,SAMN25650947,SRR17883637,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D125_RB473,SAMN25650986,SRR17883608,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D129_RB482,SAMN25650987,SRR17883607,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D133_RB495,SAMN25650988,SRR17883606,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D136_RB517,SAMN25650989,SRR17883605,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D138_RB523,SAMN25650990,SRR17883604,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D139_RB523,SAMN25650991,SRR17883603,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D140_RB524,SAMN25650992,SRR17883601,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D141_RB524,SAMN25650993,SRR17883600,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D142_RB524,SAMN25650994,SRR17883599,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D143_RB527,SAMN25650995,SRR17883598,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D144_RB527,SAMN25650996,SRR17883597,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D145_RB530,SAMN25650997,SRR17883596,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D146_RB539,SAMN25650998,SRR17883595,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D147_RB540,SAMN25650999,SRR17883594,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+F021_RB18027,SAMN25651015,SRR17883626,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F022_RB18027,SAMN25651016,SRR17883625,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F023_RB18027,SAMN25651017,SRR17883624,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F025_RB18027,SAMN25651018,SRR17883623,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F026_RB18027,SAMN25651019,SRR17883622,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F027_RB18028,SAMN25651020,SRR17883621,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F030_RB18029,SAMN25651021,SRR17883620,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F031_RB18029,SAMN25651022,SRR17883618,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F034_RB18033,SAMN25651023,SRR17883617,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F035_RB18034,SAMN25651024,SRR17883616,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+F037_RB18035,SAMN25651025,SRR17883615,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+daws_01,SAMN25651000,SRR17883593,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+elou_01,SAMN25651001,SRR17883592,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+fara_01,SAMN25651026,SRR17883614,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+fara_02,SAMN25651027,SRR17883613,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+gram_19,SAMN25651028,SRR17883612,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_23,SAMN25651029,SRR17883611,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_27,SAMN25651030,SRR17883610,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_28,SAMN25651031,SRR17883609,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_08,SAMN25651070,SRR17883650,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_09,SAMN25651071,SRR17883649,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_10,SAMN25651072,SRR17883647,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_11,SAMN25651073,SRR17883646,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_12,SAMN25651074,SRR17883645,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_13,SAMN25651075,SRR17883644,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_14,SAMN25651076,SRR17883643,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_15,SAMN25651077,SRR17883642,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_16,SAMN25651078,SRR17883641,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_17,SAMN25651079,SRR17883640,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_18,SAMN25651080,SRR17883639,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_19,SAMN25651081,SRR17883638,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+murc_01,SAMN25651082,SRR17883636,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+murc_02,SAMN25651083,SRR17883635,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+murc_03,SAMN25651084,SRR17883634,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+murc_04,SAMN25651085,SRR17883633,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+murc_05,SAMN25651086,SRR17883632,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+murc_06,SAMN25651087,SRR17883631,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+ross_01,SAMN25651088,SRR17883630,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_03,SAMN25651089,SRR17883629,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_04,SAMN25651090,SRR17883628,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+ross_x2,SAMN25651091,SRR17883627,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+B008_RB001,SAMN25650934,SRR17883664,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B358_RB298,SAMN25650948,SRR17883690,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B361_RB308,SAMN25650949,SRR17883679,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B377_RB331,SAMN25650950,SRR17883668,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B384_RB336,SAMN25650951,SRR17883665,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B405_RB424,SAMN25650952,SRR17883663,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B406_RB245,SAMN25650953,SRR17883662,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B407_RB427,SAMN25650954,SRR17883661,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B408_RB371,SAMN25650955,SRR17883660,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B415_RB460,SAMN25650956,SRR17883659,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+W007_RB528,SAMN25651107,SRR17883673,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+W008_RB529,SAMN25651108,SRR17883672,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_11,SAMN25651062,SRR17883658,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_12,SAMN25651063,SRR17883657,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_13,SAMN25651064,SRR17883656,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_14,SAMN25651065,SRR17883655,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_04,SAMN25651066,SRR17883654,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_05,SAMN25651067,SRR17883653,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_06,SAMN25651068,SRR17883652,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+more_07,SAMN25651069,SRR17883651,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+secu_01,SAMN25651092,SRR17883689,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+sgan_01,SAMN25651093,SRR17883688,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_02,SAMN25651094,SRR17883687,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_03,SAMN25651095,SRR17883686,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_04,SAMN25651096,SRR17883685,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_05,SAMN25651097,SRR17883684,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_06,SAMN25651098,SRR17883683,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_07,SAMN25651099,SRR17883682,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_08,SAMN25651100,SRR17883681,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_09,SAMN25651101,SRR17883680,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+sgan_10,SAMN25651102,SRR17883678,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2018
+tanu_01,SAMN25651103,SRR17883677,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+tasu_01,SAMN25651104,SRR17883676,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_01,SAMN25651105,SRR17883675,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+towh_x2,SAMN25651106,SRR17883674,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_01,SAMN25651109,SRR17883671,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_02,SAMN25651110,SRR17883670,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_04,SAMN25651111,SRR17883669,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_05,SAMN25651112,SRR17883667,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+wlou_x3,SAMN25651113,SRR17883666,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+A075_RB082,SAMN25650932,SRR17883726,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+A326_RB401,SAMN25650933,SRR17883725,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B014_RB003,SAMN25650936,SRR17883742,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B046_RB010,SAMN25650937,SRR17883731,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B250_RB076,SAMN25650942,SRR17883724,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B256_RB080,SAMN25650943,SRR17883713,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B289_RB094,SAMN25650944,SRR17883702,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B305_RB099,SAMN25650945,SRR17883691,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D004_RB140,SAMN25650973,SRR17883740,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D011_RB160,SAMN25650974,SRR17883739,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D012_RB160,SAMN25650975,SRR17883738,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D014_RB168,SAMN25650976,SRR17883737,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D033_RB199,SAMN25650977,SRR17883736,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D035_RB205,SAMN25650978,SRR17883735,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D044_RB218,SAMN25650979,SRR17883734,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D051_RB274,SAMN25650980,SRR17883733,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D062_RB276,SAMN25650981,SRR17883732,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D076_RB294,SAMN25650982,SRR17883730,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D083_RB312,SAMN25650983,SRR17883729,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D110_RB421,SAMN25650984,SRR17883728,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+D111_RB423,SAMN25650985,SRR17883727,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+bisc_02,SAMN25650964,SRR17883750,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+buck_01,SAMN25650965,SRR17883749,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_01,SAMN25650966,SRR17883748,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_02,SAMN25650967,SRR17883747,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_03,SAMN25650968,SRR17883746,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_04,SAMN25650969,SRR17883745,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_05,SAMN25650970,SRR17883744,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+burn_06,SAMN25650971,SRR17883743,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+cres_01,SAMN25650972,SRR17883741,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_34,SAMN25651032,SRR17883723,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_37,SAMN25651033,SRR17883722,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+gram_38,SAMN25651034,SRR17883721,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+grqc_01,SAMN25651035,SRR17883720,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+hous_01,SAMN25651036,SRR17883719,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+kais_01,SAMN25651037,SRR17883718,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+koot_01,SAMN25651038,SRR17883717,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+koot_02,SAMN25651039,SRR17883716,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_01,SAMN25651040,SRR17883715,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_02,SAMN25651041,SRR17883714,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_03,SAMN25651042,SRR17883712,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_04,SAMN25651043,SRR17883711,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+kunt_05,SAMN25651044,SRR17883710,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_01,SAMN25651045,SRR17883709,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2012
+loui_02,SAMN25651046,SRR17883708,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_03,SAMN25651047,SRR17883707,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_04,SAMN25651048,SRR17883706,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_05,SAMN25651049,SRR17883705,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_06,SAMN25651050,SRR17883704,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+loui_07,SAMN25651051,SRR17883703,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_01,SAMN25651052,SRR17883701,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_02,SAMN25651053,SRR17883700,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+lyel_03,SAMN25651054,SRR17883699,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_04,SAMN25651055,SRR17883698,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_05,SAMN25651056,SRR17883697,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_06,SAMN25651057,SRR17883696,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_07,SAMN25651058,SRR17883695,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_08,SAMN25651059,SRR17883694,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_09,SAMN25651060,SRR17883693,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+lyel_10,SAMN25651061,SRR17883692,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2019
+MD,SAMN00115094,SRR068127,PRJNA79789,WGS,METATRANSCRIPTOMIC,Odocoileus hemionus,,,,,
+MD_Bonner_pool,SAMN00115078,SRR068024,PRJNA79789,WGS,METATRANSCRIPTOMIC,Odocoileus hemionus,,,,,
+MD_OCT_pool,SAMN00115077,SRR068023,PRJNA79789,WGS,METATRANSCRIPTOMIC,Odocoileus hemionus,,,,,
+Enr7a,SAMN03859939,SRR2105738,PRJNA289933,OTHER,GENOMIC,Odocoileus hemionus crooki,,,,,
+MD92_ear,SAMN07977136,SRR6255495,PRJNA417092,WGS,GENOMIC,Odocoileus hemionus hemionus,,,,"Canada: CFB Wainwright, Alberta",2010-12
+SJ_81,SAMN09430949,SRR7407804,PRJNA476345,WGS,GENOMIC,Odocoileus hemionus sitkensis,52.676688,-131.618212,52.676688 N 131.618212 W,"Canada: British Columbia, Lyell Island",2018
+Sample3756,SAMN21582252,SRR16086876,PRJNA512907,Hi-C,GENOMIC,Odocoileus hemionus,,,not collected,not collected,2019-05-09
+Mule Deer brain,SAMN12011159,SRR9301151,PRJNA548338,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,,,,,
+Mule Deer lymph node,SAMN12011160,SRR9301150,PRJNA548338,RNA-Seq,TRANSCRIPTOMIC,Odocoileus hemionus,,,,,
+MARC ODOCOILEUS HEMIONUS,SAMN12121162,SRR9439440,,OTHER,GENOMIC,Odocoileus hemionus,,,,,
+MT273,SAMN18062631,SRR13788877,PRJNA705069,WGS,GENOMIC,Odocoileus hemionus,,,,,
+Odocoileus hemionus,SAMN20587837,SRR15720447,PRJNA752226,WGS,GENOMIC,Odocoileus hemionus,40.0,-111.38,40.00 N 111.38 W,"USA: Woodland Hills, Utah",2019-04-29
+bisc_01,SAMN25650963,SRR17883751,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B012_RB002,SAMN25650935,SRR17883753,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B422_RB485,SAMN25650957,SRR17883758,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B423_RB501,SAMN25650958,SRR17883757,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B426_RB515,SAMN25650959,SRR17883756,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B427_RB521,SAMN25650960,SRR17883755,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B429_RB548,SAMN25650961,SRR17883754,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017
+B430_RB551,SAMN25650962,SRR17883752,PRJNA803424,RAD-Seq,GENOMIC,Odocoileus hemionus sitkensis,,,,"Canada: Haida Gwaii, British Columbia",2017

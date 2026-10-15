@@ -1,0 +1,996 @@
+accession,taxonomy_name,title,Individual,age,biomaterial_provider,collected_by,collection_date,cultivar,dev_stage,ecotype,env_broad_scale,env_local_scale,env_medium,geo_loc_name,individual_id,isolate,isolation_source,lat_lon,latitude,longitude,population,sample_name_Kapoor_etal_SuppTable,specimen_voucher,tissue
+SAMN06602907,Quercus rubra,Plant sample from Quercus rubra,,45 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Adult,SM1,,,,USA: Indiana,,,,,,,Female parent,,,Twig
+SAMN06602908,Quercus rubra,Plant sample from Quercus rubra,,45 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Adult,SM2,,,,USA: Indiana,,,,,,,Male parent,,,Twig
+SAMN06602909,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01001,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602910,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01006,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602911,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01009,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602912,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01144,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602913,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01145,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602914,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01150,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602915,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01158,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602916,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01164,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602917,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01165,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602918,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01215,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602919,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01227,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602920,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01235,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602921,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01246,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602922,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01247,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602923,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01256,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602924,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01316,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602925,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01317,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602926,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01318,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602927,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01319,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602928,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01320,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602929,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01345,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602930,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01357,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602931,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01363,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602932,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01364,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602933,Quercus rubra,Plant sample from Quercus rubra,,16 years,Jeanne Romero Severson,Jeanne Romero Severson,2013-01,,Juvenile,SM01370,,,,USA: Indiana,,,,,,,full-sibling,,,Twig
+SAMN06602934,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10001,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602935,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10002,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602936,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10003,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602937,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10004,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602938,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10005,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602939,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10006,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602940,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10007,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602941,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10009,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602942,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10012,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602943,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10015,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602944,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10016,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602945,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10017,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602946,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10018,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602947,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10019,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602948,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10021,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602949,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10023,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602950,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10024,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602951,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10025,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602952,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10026,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602953,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10027,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602954,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10028,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602955,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10029,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602956,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10030,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602957,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10031,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602958,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10034,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602959,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10036,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602960,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10037,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602961,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10039,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602962,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10040,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602963,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10041,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602964,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10042,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602965,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10044,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602966,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10045,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602967,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10046,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602968,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10048,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602969,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10049,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602970,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10050,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602971,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10051,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602972,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10060,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602973,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10061,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602974,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10062,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602975,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10072,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602976,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10074,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602977,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10075,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602978,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10076,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602979,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10077,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602980,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10078,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602981,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10079,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602982,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10081,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602983,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10082,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602984,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10083,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602985,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10085,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602986,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10086,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602987,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10088,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602988,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10089,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602989,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10090,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602990,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10091,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602991,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10094,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602992,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10095,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602993,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10096,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602994,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10097,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602995,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10098,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602996,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10099,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602997,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10100,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602998,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10101,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06602999,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10102,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603000,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10103,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603001,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10104,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603002,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10105,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603003,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10108,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603004,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10111,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603005,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10112,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603006,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10113,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603007,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10115,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603008,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10116,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603009,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10117,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603010,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10118,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603011,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10119,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603012,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10120,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603013,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10122,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603014,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10125,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603015,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10127,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603016,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10128,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603017,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10130,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603018,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10131,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603019,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10133,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603020,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10135,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603021,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10136,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603022,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10137,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603023,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10138,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603024,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10139,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603025,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10140,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603026,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10143,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603027,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10145,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603028,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10146,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603029,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10148,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603030,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10149,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603031,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10150,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603032,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10152,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603033,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10154,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603034,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10155,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603035,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10156,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603036,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10157,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603037,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10158,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603038,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10161,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603039,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10162,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603040,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10163,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603041,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10164,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603042,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10165,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603043,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10166,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603044,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10167,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603045,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10168,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603046,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10169,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603047,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10171,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603048,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10173,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603049,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10176,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603050,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10177,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603051,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10179,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603052,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10181,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603053,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10182,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603054,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10184,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603055,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10185,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603056,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10186,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603057,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10187,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603058,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10197,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603059,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10198,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603060,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10199,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603061,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10200,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603062,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10201,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603063,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10202,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603064,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10203,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603065,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10204,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603066,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10205,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603067,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10207,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603068,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10208,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603069,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10209,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603070,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10210,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603071,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10211,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603072,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10212,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603073,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10213,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603074,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10214,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603075,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10215,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603076,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10216,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603077,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10217,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603078,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10218,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603079,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10219,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603080,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10220,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603081,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10221,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603082,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10222,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603083,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10223,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603084,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10224,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603085,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10225,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603086,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10226,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603087,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10227,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603088,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10228,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603089,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10230,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603090,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10231,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603091,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10232,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603092,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10233,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603093,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10235,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603094,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10237,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603095,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10238,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603096,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10239,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603097,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10240,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603098,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10241,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603099,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10242,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603100,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10478,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603101,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10479,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603102,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10480,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603103,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10481,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603104,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10482,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603105,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10483,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603106,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10484,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603107,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10485,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603108,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10486,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603109,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10487,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603110,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10488,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603111,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10489,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603112,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10490,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603113,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10491,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603114,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10492,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603115,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10493,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603116,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10494,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603117,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10495,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603118,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10496,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603119,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10497,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603120,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10498,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603121,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10499,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603122,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10501,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603123,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10502,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603124,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10503,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603125,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10504,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN06603126,Quercus rubra,Plant sample from Quercus rubra,,6 years,Jeanne Romero Severson,Jeanne Romero Severson,2010-09,,Juvenile,SM10505,,,,USA: Indiana,,,,,,,full-sibling,,,Acorn
+SAMN07141053,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: North Carolina,,not collected,,35.04704 N 83.18687 W,,,,,PS Manos 1912,frozen leaf tissue
+SAMN08196930,Quercus rubra,Plant sample from Quercus rubra,,not applicable,,,,,not applicable,,,,,"USA: Harvard Forest, Massachussetts",,QUERUB16,,,,,,,,leaves
+SAMN10058159,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2014-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 1 University of Rochester,,,,,,,,Outer capsule of Dryocosmus quercuspalustris gall
+SAMN10058160,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 2 University of Rochester,,,,,,,,Outer capsule of Dryocosmus quercuspalustris gall
+SAMN10058161,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 3 University of Rochester,,,,,,,,Outer capsule of Dryocosmus quercuspalustris gall
+SAMN10058162,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2014-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 1 University of Rochester,,,,,,,,Inner capsule of Dryocosmus quercuspalustris gall
+SAMN10058163,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 2 University of Rochester,,,,,,,,Inner capsule of Dryocosmus quercuspalustris gall
+SAMN10058164,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,Actively growing gall after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 3 University of Rochester,,,,,,,,Inner capsule of Dryocosmus quercuspalustris gall
+SAMN10058165,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2014-06,,after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 1 University of Rochester,,,,,,,,Leaf
+SAMN10058166,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 2 University of Rochester,,,,,,,,Leaf
+SAMN10058167,Quercus rubra,Plant sample from Quercus rubra,,,,E.O. Martinson,2015-06,,after spring leaf flush,,,,,"USA:Rochester, NY",,Tree 3 University of Rochester,,,,,,,,Leaf
+SAMN11229686,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: WI,,not collected,,45.348114 N 88.382807 W,,,,,,frozen leaf tissue
+SAMN11229687,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114311 N 88.547003 W,,,,,,frozen leaf tissue
+SAMN11229688,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114085 N 88.546863 W,,,,,,frozen leaf tissue
+SAMN11229689,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.113935 N 88.546721 W,,,,,,frozen leaf tissue
+SAMN11229690,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.115131 N 88.548427 W,,,,,,frozen leaf tissue
+SAMN11229691,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.115084 N 88.548093 W,,,,,,frozen leaf tissue
+SAMN11229692,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114952 N 88.548168 W,,,,,,frozen leaf tissue
+SAMN11229693,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114938 N 88.548281 W,,,,,,frozen leaf tissue
+SAMN11229694,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114824 N 88.548722 W,,,,,,frozen leaf tissue
+SAMN11229695,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114705 N 88.548365 W,,,,,,frozen leaf tissue
+SAMN11229696,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114865 N 88.548714 W,,,,,,frozen leaf tissue
+SAMN11229697,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114968 N 88.548648 W,,,,,,frozen leaf tissue
+SAMN11229698,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.115158 N 88.547090 W,,,,,,frozen leaf tissue
+SAMN11229699,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.115033 N 88.546924 W,,,,,,frozen leaf tissue
+SAMN11229700,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114332 N 88.547410 W,,,,,,frozen leaf tissue
+SAMN11229701,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.114028 N 88.547614 W,,,,,,frozen leaf tissue
+SAMN11229702,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not collected,not collected,not collected,,,,USA: MI,,not collected,,47.118518 N 88.587790 W,,,,,,frozen leaf tissue
+SAMN14485709,Quercus rubra,Plant sample from Quercus rubra,,,,,2018,,not applicable,,,,,Denmark,,"AccesionNo1954,0406",,55.866313 N 12.508492 E,,,,,,Leaves
+SAMN14853805,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,missing,not applicable,Adult,not applicable,,,,"USA: Harvard Forest, MA",,individual_37_spring_2017,,,,,,,,Leaf
+SAMN18677315,Quercus rubra,Plant sample from Quercus rubra,AA1192_85C,not collected,Arnold Arboretum,Elizabeth Spriggs,,,,,,,,USA: Massachuestts,,Not Applicable,,,,,,,,leaf
+SAMN22511233,Quercus rubra,Plant sample from Quercus rubra,,,,,,PM-16,PM-16,,,,,USA:NewYork,,,,,,,,,,Leaves
+SAMN22511265,Quercus rubra,Plant sample from Quercus rubra,,,,,,QL-10-1,QL-10-1,,,,,United Kingdom:London,,,,,,,,,,Leaves
+SAMN22511266,Quercus rubra,Plant sample from Quercus rubra,,,,,,QL-10-2,QL-10-2,,,,,United Kingdom:London,,,,,,,,,,Leaves
+SAMN25243729,Quercus rubra,MIMAG Metagenome-assembled Genome sample from Quercus rubra,,,,,2012-07,,,,woodland area [ENVO:00000109]|temperate environment[ENVO:01001705]|forested area[ENVO:00000111],botanical garden [ENVO:00010624],plant litter [ENVO:01000628],France: Nogent-sur-Vernisson,,Quercus_rubra_1,Arboretum des Barres,47.83819 N 2.75792 E,,,,,,
+SAMN29627700,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter Mt,,,,USA: Porter Mt,,QR_9_QR_PO2,,,,,,,,Young leaves
+SAMN29627703,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR9,,,,,,,,Young leaves
+SAMN29627705,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M1,,,,,,,,Young leaves
+SAMN29627706,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr9,,,,,,,,Young leaves
+SAMN29627709,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, top",,,,"USA: Sugarloaf, top",,QR_6_QR_S10,,,,,,,,Young leaves
+SAMN29627714,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M4,,,,,,,,Young leaves
+SAMN29627722,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr1,,,,,,,,Young leaves
+SAMN29627724,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, mesic",,,,"USA: Sugarloaf, mesic",,QR_6_QR_S3,,,,,,,,Young leaves
+SAMN29627738,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M7,,,,,,,,Young leaves
+SAMN29627742,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR6,,,,,,,,Young leaves
+SAMN29627743,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP5,,,,,,,,Young leaves
+SAMN29627746,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M9,,,,,,,,Young leaves
+SAMN29627748,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, top",,,,"USA: Sugarloaf, top",,QR_6_QR_S11,,,,,,,,Young leaves
+SAMN29627750,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP10,,,,,,,,Young leaves
+SAMN29627755,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr2,,,,,,,,Young leaves
+SAMN29627758,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP12,,,,,,,,Young leaves
+SAMN29627764,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, mesic",,,,"USA: Sugarloaf, mesic",,QR_6_QR_S2,,,,,,,,Young leaves
+SAMN29627770,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr12,,,,,,,,Young leaves
+SAMN29627776,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M3,,,,,,,,Young leaves
+SAMN29627779,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M14,,,,,,,,Young leaves
+SAMN29627780,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO9,,,,,,,,Young leaves
+SAMN29627781,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR27,,,,,,,,Young leaves
+SAMN29627782,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Ruth and Paull Henning Consevration Area,,,,USA: Ruth and Paull Henning Consevration Area,,QR_3_QR_RP2,,,,,,,,Young leaves
+SAMN29627785,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M12,,,,,,,,Young leaves
+SAMN29627786,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Kessler, mesic",,,,"USA: Kessler, mesic",,QR_4_QR_K8,,,,,,,,Young leaves
+SAMN29627788,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, shale barren, by road",,,,"USA: Sugarloaf, shale barren, by road",,QR_6_QR_S1,,,,,,,,Young leaves
+SAMN29627790,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR7,,,,,,,,Young leaves
+SAMN29627794,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Paint Rock, AL",,,,"USA: Paint Rock, AL",,QR_12_QR_AL1,,,,,,,,Young leaves
+SAMN29627797,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, mesic",,,,"USA: Sugarloaf, mesic",,QR_6_QR_S4,,,,,,,,Young leaves
+SAMN29627800,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr5,,,,,,,,Young leaves
+SAMN29627807,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP9,,,,,,,,Young leaves
+SAMN29627810,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP6,,,,,,,,Young leaves
+SAMN29627811,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO15,,,,,,,,Young leaves
+SAMN29627813,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR21,,,,,,,,Young leaves
+SAMN29627814,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP3,,,,,,,,Young leaves
+SAMN29627815,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP7,,,,,,,,Young leaves
+SAMN29627817,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr14,,,,,,,,Young leaves
+SAMN29627818,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP11,,,,,,,,Young leaves
+SAMN29627822,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR16,,,,,,,,Young leaves
+SAMN29627829,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR25,,,,,,,,Young leaves
+SAMN29627837,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR24,,,,,,,,Young leaves
+SAMN29627838,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR23,,,,,,,,Young leaves
+SAMN29627842,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr15,,,,,,,,Young leaves
+SAMN29627845,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR5,,,,,,,,Young leaves
+SAMN29627848,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Paint Rock, AL",,,,"USA: Paint Rock, AL",,QR_12_QR_AL3,,,,,,,,Young leaves
+SAMN29627849,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR15,,,,,,,,Young leaves
+SAMN29627851,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Hot Spring Natoinal Park -- Gulpha Gorge Trail,,,,USA: Hot Spring Natoinal Park -- Gulpha Gorge Trail,,QR_8_QS_H13,,,,,,,,Young leaves
+SAMN29627852,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Sugarloaf, mesic",,,,"USA: Sugarloaf, mesic",,QR_6_QR_S5,,,,,,,,Young leaves
+SAMN29627853,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Shaw Nature Reserve,,,,USA: Shaw Nature Reserve,,QR_1_SH_QR6,,,,,,,,Young leaves
+SAMN29627854,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR8,,,,,,,,Young leaves
+SAMN29627855,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Magazine Mt, top",,,,"USA: Magazine Mt, top",,QR_5_QR_M15,,,,,,,,Young leaves
+SAMN29627856,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"Paint Rock, AL",,,,"USA: Paint Rock, AL",,QR_12_QR_AL2,,,,,,,,Young leaves
+SAMN29627858,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,"mesic, Ruth and Paull Henning Consevration Area",,,,"USA: mesic, Ruth and Paull Henning Consevration Area",,QR_3_QR_RP3_duplicate,,,,,,,,Young leaves
+SAMN29627862,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Tyson Research Center,,,,USA: Tyson Research Center,,QR_2_T_QR5,,,,,,,,Young leaves
+SAMN29627863,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr4,,,,,,,,Young leaves
+SAMN29627866,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr14_duplicate,,,,,,,,Young leaves
+SAMN29627867,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Hot Spring Natoinal Park -- Gulpha Gorge Trail,,,,USA: Hot Spring Natoinal Park -- Gulpha Gorge Trail,,QR_8_QS_H2,,,,,,,,Young leaves
+SAMN29627868,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO7,,,,,,,,Young leaves
+SAMN29627871,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Pryor Mt,,,,USA: Pryor Mt,,QR_10_QR_Pr10,,,,,,,,Young leaves
+SAMN29627872,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO13,,,,,,,,Young leaves
+SAMN29627875,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO8,,,,,,,,Young leaves
+SAMN29627876,Quercus rubra,Plant sample from Quercus rubra,,,,,,Quercus rubra,Mature tree,Porter,,,,USA: Porter,,QR_9_QR_PO3,,,,,,,,Young leaves
+SAMN31538755,Quercus rubra,Plant sample from Quercus rubra,,not collected,,,,not applicable,not collected,not applicable,,,,USA: the University of Notre Dame Environmental Research Center,,not applicable,,,,,,,,Leaf
+SAMN33427328,Quercus rubra,Plant sample from Quercus rubra,,,,,,,Mature tree,Indiana,,,,USA: Indiana,,pseudo-F2,,,,,,,,Dormant leaf buds and twig bark tissues
+SAMN33427329,Quercus rubra,Plant sample from Quercus rubra,,,,,,,Mature tree,Indiana,,,,USA: Indiana,,Seed parent,,,,,,,,Leaves
+SAMN33427330,Quercus rubra,Plant sample from Quercus rubra,,,,,,,Mature tree,Indiana,,,,USA: Indiana,,Pollen parent,,,,,,,,Leaves
+SAMN33427331,Quercus rubra,Plant sample from Quercus rubra,,,,,,,Mature tree,Indiana,,,,USA: Indiana,,Maternal F1,,,,,,,,Leaves
+SAMN33427332,Quercus rubra,Plant sample from Quercus rubra,,,,,,,Mature tree,Indiana,,,,USA: Indiana,,Paternal F1,,,,,,,,Leaves
+SAMN35121845,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F17_rep1,,,36.45,-82.17,,Sample_P10F17_rep1,,leaf
+SAMN35121846,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F11_rep2,,,35.12,-83.8,,Sample_P12F11_rep2,,leaf
+SAMN35121847,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F11_rep3,,,35.12,-83.8,,Sample_P12F11_rep3,,leaf
+SAMN35121848,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F12_rep1,,,35.12,-83.8,,Sample_P12F12_rep1,,leaf
+SAMN35121849,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F12_rep3,,,35.12,-83.8,,Sample_P12F12_rep3,,leaf
+SAMN35121850,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F8_rep1,,,35.12,-83.8,,Sample_P12F8_rep1,,leaf
+SAMN35121851,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F9_rep1,,,35.12,-83.8,,Sample_P12F9_rep1,,leaf
+SAMN35121852,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F9_rep2,,,35.12,-83.8,,Sample_P12F9_rep2,,leaf
+SAMN35121853,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P12F9_rep3,,,35.12,-83.8,,Sample_P12F9_rep3,,leaf
+SAMN35121854,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F17_rep2,,,36.45,-82.17,,Sample_P10F17_rep2,,leaf
+SAMN35121855,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F12_rep1,,,35.32,-82.77,,Sample_P13F12_rep1,,leaf
+SAMN35121856,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F12_rep2,,,35.32,-82.77,,Sample_P13F12_rep2,,leaf
+SAMN35121857,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F12_rep3,,,35.32,-82.77,,Sample_P13F12_rep3,,leaf
+SAMN35121858,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F17_rep1,,,35.32,-82.77,,Sample_P13F17_rep1,,leaf
+SAMN35121859,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F17_rep2,,,35.32,-82.77,,Sample_P13F17_rep2,,leaf
+SAMN35121860,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F2_rep1,,,35.32,-82.77,,Sample_P13F2_rep1,,leaf
+SAMN35121861,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P13F2_rep2,,,35.32,-82.77,,Sample_P13F2_rep2,,leaf
+SAMN35121862,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F13_rep1,,,40.12,-85.67,,Sample_P18F13_rep1,,leaf
+SAMN35121863,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F13_rep2,,,40.12,-85.67,,Sample_P18F13_rep2,,leaf
+SAMN35121864,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F13_rep3,,,40.12,-85.67,,Sample_P18F13_rep3,,leaf
+SAMN35121865,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F17_rep3,,,36.45,-82.17,,Sample_P10F17_rep3,,leaf
+SAMN35121866,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F15_rep1,,,40.12,-85.67,,Sample_P18F15_rep1,,leaf
+SAMN35121867,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F15_rep2,,,40.12,-85.67,,Sample_P18F15_rep2,,leaf
+SAMN35121868,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F15_rep3,,,40.12,-85.67,,Sample_P18F15_rep3,,leaf
+SAMN35121869,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F4_rep1,,,40.12,-85.67,,Sample_P18F4_rep1,,leaf
+SAMN35121870,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F4_rep2,,,40.12,-85.67,,Sample_P18F4_rep2,,leaf
+SAMN35121871,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P18F4_rep3,,,40.12,-85.67,,Sample_P18F4_rep3,,leaf
+SAMN35121872,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F1_rep1,,,34.97,-83.48,,Sample_P1F1_rep1,,leaf
+SAMN35121873,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F1_rep2,,,34.97,-83.48,,Sample_P1F1_rep2,,leaf
+SAMN35121874,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F1_rep3,,,34.97,-83.48,,Sample_P1F1_rep3,,leaf
+SAMN35121875,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F3_rep1,,,34.97,-83.48,,Sample_P1F3_rep1,,leaf
+SAMN35121876,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F7_rep1,,,36.45,-82.17,,Sample_P10F7_rep1,,leaf
+SAMN35121877,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F4_rep1,,,34.97,-83.48,,Sample_P1F4_rep1,,leaf
+SAMN35121878,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F4_rep2,,,34.97,-83.48,,Sample_P1F4_rep2,,leaf
+SAMN35121879,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P1F4_rep3,,,34.97,-83.48,,Sample_P1F4_rep3,,leaf
+SAMN35121880,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F15_rep1,,,45.93,-76.1,,Sample_P21F15_rep1,,leaf
+SAMN35121881,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F15_rep2,,,45.93,-76.1,,Sample_P21F15_rep2,,leaf
+SAMN35121882,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F15_rep3,,,45.93,-76.1,,Sample_P21F15_rep3,,leaf
+SAMN35121883,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F24_rep1,,,45.93,-76.1,,Sample_P21F24_rep1,,leaf
+SAMN35121884,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F24_rep2,,,45.93,-76.1,,Sample_P21F24_rep2,,leaf
+SAMN35121885,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F24_rep3,,,45.93,-76.1,,Sample_P21F24_rep3,,leaf
+SAMN35121886,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F2_rep1,,,45.93,-76.1,,Sample_P21F2_rep1,,leaf
+SAMN35121887,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F2_rep2,,,45.93,-76.1,,Sample_P21F2_rep2,,leaf
+SAMN35121888,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P21F2_rep3,,,45.93,-76.1,,Sample_P21F2_rep3,,leaf
+SAMN35121889,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F1_rep2,,,34.87,-84.5,,Sample_P2F1_rep2,,leaf
+SAMN35121890,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F1_rep3,,,34.87,-84.5,,Sample_P2F1_rep3,,leaf
+SAMN35121891,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F2_rep1,,,34.87,-84.5,,Sample_P2F2_rep1,,leaf
+SAMN35121892,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F2_rep2,,,34.87,-84.5,,Sample_P2F2_rep2,,leaf
+SAMN35121893,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F3_rep1,,,34.87,-84.5,,Sample_P2F3_rep1,,leaf
+SAMN35121894,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P2F3_rep2,,,34.87,-84.5,,Sample_P2F3_rep2,,leaf
+SAMN35121895,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F7_rep3,,,36.45,-82.17,,Sample_P10F7_rep3,,leaf
+SAMN35121896,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F11_rep1,,,45.5,-76.08,,Sample_P7F11_rep1,,leaf
+SAMN35121897,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F11_rep2,,,45.5,-76.08,,Sample_P7F11_rep2,,leaf
+SAMN35121898,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F11_rep3,,,45.5,-76.08,,Sample_P7F11_rep3,,leaf
+SAMN35121899,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F12_rep1,,,45.5,-76.08,,Sample_P7F12_rep1,,leaf
+SAMN35121900,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F12_rep2,,,45.5,-76.08,,Sample_P7F12_rep2,,leaf
+SAMN35121901,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F12_rep3,,,45.5,-76.08,,Sample_P7F12_rep3,,leaf
+SAMN35121902,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F15_rep1,,,45.5,-76.08,,Sample_P7F15_rep1,,leaf
+SAMN35121903,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F15_rep2,,,45.5,-76.08,,Sample_P7F15_rep2,,leaf
+SAMN35121904,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P7F15_rep3,,,45.5,-76.08,,Sample_P7F15_rep3,,leaf
+SAMN35121905,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F2_rep1,,,46.05,-77.37,,Sample_P9F2_rep1,,leaf
+SAMN35121906,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F8_rep1,,,36.45,-82.17,,Sample_P10F8_rep1,,leaf
+SAMN35121907,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F2_rep2,,,46.05,-77.37,,Sample_P9F2_rep2,,leaf
+SAMN35121908,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F2_rep3,,,46.05,-77.37,,Sample_P9F2_rep3,,leaf
+SAMN35121909,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F3_rep1,,,46.05,-77.37,,Sample_P9F3_rep1,,leaf
+SAMN35121910,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F3_rep2,,,46.05,-77.37,,Sample_P9F3_rep2,,leaf
+SAMN35121911,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F3_rep3,,,46.05,-77.37,,Sample_P9F3_rep3,,leaf
+SAMN35121912,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F7_rep1,,,46.05,-77.37,,Sample_P9F7_rep1,,leaf
+SAMN35121913,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F7_rep2,,,46.05,-77.37,,Sample_P9F7_rep2,,leaf
+SAMN35121914,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,Canada,,Sample_P9F7_rep3,,,46.05,-77.37,,Sample_P9F7_rep3,,leaf
+SAMN35121915,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_R0_2612_1,,,40.489423,-78.747621,,Sample_R0_2612_1,,leaf
+SAMN35121916,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2596_1,,,40.77703,-77.61117,,Sample_RO_2596_1,,leaf
+SAMN35121917,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F8_rep2,,,36.45,-82.17,,Sample_P10F8_rep2,,leaf
+SAMN35121918,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2596_2,,,40.77703,-77.61117,,Sample_RO_2596_2,,leaf
+SAMN35121919,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2601_1,,,40.750748,-77.056446,,Sample_RO_2601_1,,leaf
+SAMN35121920,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2601_2,,,40.750748,-77.056446,,Sample_RO_2601_2,,leaf
+SAMN35121921,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2604_1,,,40.3275,-77.76675,,Sample_RO_2604_1,,leaf
+SAMN35121922,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2604_2,,,40.3275,-77.76675,,Sample_RO_2604_2,,leaf
+SAMN35121923,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2606_1,,,41.764946,-77.286486,,Sample_RO_2606_1,,leaf
+SAMN35121924,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2606_2,,,41.764946,-77.286486,,Sample_RO_2606_2,,leaf
+SAMN35121925,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2612_2,,,40.489423,-78.747621,,Sample_RO_2612_2,,leaf
+SAMN35121926,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2617_1,,,41.70822,-77.46526,,Sample_RO_2617_1,,leaf
+SAMN35121927,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2617_2,,,41.70822,-77.46526,,Sample_RO_2617_2,,leaf
+SAMN35121928,Quercus rubra,Plant sample from Quercus rubra,,,,,,,adult,,,,,USA,,Sample_P10F8_rep3,,,36.45,-82.17,,Sample_P10F8_rep3,,leaf
+SAMN35121929,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2625_1,,,41.814333,-79.290213,,Sample_RO_2625_1,,leaf
+SAMN35121930,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2625_2,,,41.814333,-79.290213,,Sample_RO_2625_2,,leaf
+SAMN35121931,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2626_1,,,41.541104,-75.704373,,Sample_RO_2626_1,,leaf
+SAMN35121932,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2626_2,,,41.541104,-75.704373,,Sample_RO_2626_2,,leaf
+SAMN35121933,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2629_1,,,41.049249,-79.690359,,Sample_RO_2629_1,,leaf
+SAMN35121934,Quercus rubra,Plant sample from Quercus rubra,,,,,,,seedling,,,,,USA,,Sample_RO_2629_2,,,41.049249,-79.690359,,Sample_RO_2629_2,,leaf
+SAMN35524088,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_58_R,,,,,,,,leaves
+SAMN35524089,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_09_R,,,,,,,,leaves
+SAMN35524090,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_10_R,,,,,,,,leaves
+SAMN35524091,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_11_R,,,,,,,,leaves
+SAMN35524092,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_12_R,,,,,,,,leaves
+SAMN35524093,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_1a_R,,,,,,,,leaves
+SAMN35524094,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_32_R,,,,,,,,leaves
+SAMN35524095,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_33_R,,,,,,,,leaves
+SAMN35524096,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_34_R,,,,,,,,leaves
+SAMN35524097,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_35_R,,,,,,,,leaves
+SAMN35524098,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_36_R,,,,,,,,leaves
+SAMN35524099,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_37_R,,,,,,,,leaves
+SAMN35524100,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_38_R,,,,,,,,leaves
+SAMN35524101,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_39_R,,,,,,,,leaves
+SAMN35524102,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_40_R,,,,,,,,leaves
+SAMN35524103,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_41_R,,,,,,,,leaves
+SAMN35524104,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_42_R,,,,,,,,leaves
+SAMN35524105,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_43_R,,,,,,,,leaves
+SAMN35524106,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_44_R,,,,,,,,leaves
+SAMN35524107,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_45_R,,,,,,,,leaves
+SAMN35524108,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_46_R,,,,,,,,leaves
+SAMN35524109,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_47_R,,,,,,,,leaves
+SAMN35524110,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_48_R,,,,,,,,leaves
+SAMN35524111,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_49_R,,,,,,,,leaves
+SAMN35524112,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_4a_R,,,,,,,,leaves
+SAMN35524113,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_50_R,,,,,,,,leaves
+SAMN35524114,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_51_R,,,,,,,,leaves
+SAMN35524115,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_52_R,,,,,,,,leaves
+SAMN35524116,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_53_R,,,,,,,,leaves
+SAMN35524117,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_54_R,,,,,,,,leaves
+SAMN35524118,Quercus rubra,Plant sample from Quercus rubra,,,Andrew Hipp,,,,mature,,,,,"USA:Lisle,Illinois",,chi_5a_R,,,,,,,,leaves
+SAMN35524119,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_02_R,,,,,,,,leaves
+SAMN35524120,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_03_R,,,,,,,,leaves
+SAMN35524121,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_09_R,,,,,,,,leaves
+SAMN35524122,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_10_R,,,,,,,,leaves
+SAMN35524123,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_11_R,,,,,,,,leaves
+SAMN35524124,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_12_R,,,,,,,,leaves
+SAMN35524125,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_19_R,,,,,,,,leaves
+SAMN35524126,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_20_R,,,,,,,,leaves
+SAMN35524127,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_22_R,,,,,,,,leaves
+SAMN35524128,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_46_R,,,,,,,,leaves
+SAMN35524129,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_47_R,,,,,,,,leaves
+SAMN35524130,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_48_R,,,,,,,,leaves
+SAMN35524131,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_49_R,,,,,,,,leaves
+SAMN35524132,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_50_R,,,,,,,,leaves
+SAMN35524133,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_51_R,,,,,,,,leaves
+SAMN35524134,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_52_R,,,,,,,,leaves
+SAMN35524135,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_53_R,,,,,,,,leaves
+SAMN35524136,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_54_R,,,,,,,,leaves
+SAMN35524137,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_55_R,,,,,,,,leaves
+SAMN35524138,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_56_R,,,,,,,,leaves
+SAMN35524139,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_59_R,,,,,,,,leaves
+SAMN35524140,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_60_R,,,,,,,,leaves
+SAMN35524141,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_61_R,,,,,,,,leaves
+SAMN35524142,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_62_R,,,,,,,,leaves
+SAMN35524143,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_63_R,,,,,,,,leaves
+SAMN35524144,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_64_R,,,,,,,,leaves
+SAMN35524145,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_84_R,,,,,,,,leaves
+SAMN35524146,Quercus rubra,Plant sample from Quercus rubra,,,Carsten Kuelheim,,,,mature,,,,,"USA:Covington,Michigan",,mi_85_R,,,,,,,,leaves
+SAMN38693978,Quercus rubra,Plant sample from Quercus rubra,,,,,2017-01-01/2017-12-31,,Adult,USA: Indiana,,,,USA: Indiana,,,,,,,,,,Leaves
+SAMN42325552,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA02_3_S35001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325553,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA03_3_S165001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325554,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA03_3_S47001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325555,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA05_3_S59001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325556,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA06_3_S71001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325557,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA07_4_S82001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325558,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA08_4_S94001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325559,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA09_3_S83001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325560,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA09_4_S104001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325561,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA10_3_S116001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325562,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA12_3_S128001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325563,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA14_3_S139001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325564,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA16_4_S151001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325565,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA17_4_S162001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325566,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,AA18_4_S95001,,George Crosby Manitou State Park,47.428242 N 91.20655 W,,,AA,,,Leaf
+SAMN42325567,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL01_3_S191001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325568,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL02_3_S203001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325569,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL03_3_S214001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325570,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL05_3_S225001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325571,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL07_3_S248001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325572,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL08_3_S258001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325573,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL09_3_S269001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325574,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL10_3_S192001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325575,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL11_3_S204001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325576,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL12_3_S215001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325577,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL13_4_S12001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325578,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL14_3_S226001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325579,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,BL15_3_S237001,,Burnsite Lake,47.96372004 N 92.0007422 W,,,BL,,,Leaf
+SAMN42325580,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS02_4_S169001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325581,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS04_3_S180001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325582,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS05_3_S101001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325583,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS06_3_S113001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325584,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS07_4_S125001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325585,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS08_4_S136001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325586,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS09_3_S148001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325587,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS10_4_S159001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325588,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS11_4_S170001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325589,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS14_4_S412001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325590,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,BS15_4_S102001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325591,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC01_3_S182001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325592,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC02_4_S183001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325593,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC03_3_S195001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325594,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC04_4_S207001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325595,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC07_3_S218001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325596,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC09_4_S229001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325597,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC11_3_S240001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325598,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC12_4_S251001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325599,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC14_4_S261001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325600,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC15_4_S184001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325601,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC16_3_S196001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325602,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,CC17_4_S208001,,Big Lake,46.702444 N 92.638807 W,,,CC,,,Leaf
+SAMN42325603,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS02_4_S344001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325604,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS03_4_S356001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325605,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS04_3_S277001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325606,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS05_3_S287001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325607,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS06_3_S298001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325608,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS07_3_S310001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325609,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS08_3_S322001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325610,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS09_3_S334001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325611,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS10_4_S345001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325612,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS11_4_S357001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325613,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,CS12_3_S278001,,Chengwatana State Forest,45.853561 N 92.748816 W,,,CS,,,Leaf
+SAMN42325614,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE01_4_S263001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325615,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE02_4_S186001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325616,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE03_4_S198001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325617,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE04_4_S210001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325618,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE05_4_S221001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325619,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE06_4_S232001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325620,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE07_3_S243001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325621,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE11_3_S59001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325622,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE15_3_S264001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325623,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE16_3_S187001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325624,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EE18_4_S199001,,N/A,47.31909 N 91.48048 W,,,EE,,,Leaf
+SAMN42325625,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET01_3_S164001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325626,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET02_3_S174001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325627,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET03_3_S107001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325628,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET04_3_S119001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325629,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET05_3_S131001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325630,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET06_4_S142001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325631,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET07_3_S154001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325632,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET09_3_S165001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325633,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET14_4_S175001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325634,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET15_4_S97001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325635,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ET18_3_S108001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42325636,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV01_3_S219001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325637,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV02_3_S230001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325638,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV03_3_S241001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325639,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV04_4_S252001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325640,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV05_4_S262001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325641,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV06_3_S141001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325642,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV06_3_S185001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325643,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV07_3_S197001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325644,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV08_3_S209001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325645,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV09_3_S220001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325646,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV15_4_S231001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325647,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV16_4_S242001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325648,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,EV17_4_S253001,,Eveleth,47.47965795 N 92.51711147 W,,,EV,,,Leaf
+SAMN42325649,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF01_4_S111001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325650,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF02_4_S123001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325651,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF02_4_S153001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325652,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF03_4_S134001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325653,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF04_4_S157001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325654,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF05_3_S146001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325655,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF06_4_S168001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325656,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF07_4_S179001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325657,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF09_4_S112001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325658,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF11_3_S124001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325659,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF13_4_S60001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325660,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF14_3_S135001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325661,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF15_3_S147001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325662,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,FF18_3_S158001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325663,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG01_3_S105001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325664,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG02_4_S117001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325665,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG03_3_S129001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325666,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG04_3_S140001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325667,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG07_3_S152001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325668,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG08_4_S163001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325669,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG09_4_S173001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325670,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG10_4_S96001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325671,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG11_3_S106001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325672,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG12_4_S118001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325673,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG13_4_S130001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325674,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG15_4_S141001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325675,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,GG16_4_S153001,,"7235 Airbase Road, Finland MN",47.44995 N 91.2339 W,,,GG,,,Leaf
+SAMN42325676,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL01_3_S284001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325677,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL02_3_S295001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325678,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL03_3_S306001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325679,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL04_3_S318001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325680,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL05_3_S330001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325681,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL07_3_S342001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325682,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL09_3_S353001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325683,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL11_3_S275001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325684,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL12_3_S285001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325685,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL13_4_S296001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325686,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL14_4_S307001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325687,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL15_3_S319001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325688,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL17_3_S331001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325689,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GL18_3_S343001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325690,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW017_3_S177001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325691,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW04_3_S354001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325692,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW05_3_S276001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325693,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW06_3_S71001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325694,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW07_3_S93001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325695,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW08_3_S308001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325696,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW09_3_S320001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325697,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW09_4_S82001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325698,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW10_3_S332001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325699,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW12_4_S355001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325700,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW13_3_S47001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325701,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW14_4_S286001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325702,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW14_4_S46001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325703,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW15_4_S297001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325704,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW16_3_S309001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325705,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW17_3_S321001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325706,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,GW18_3_S333001,,George Washington State Forest,47.694641 N 92.81142 W,,,GW,,,Leaf
+SAMN42325719,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH01_4_S304001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325720,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH02_3_S316001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325721,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH03_3_S328001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325722,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH07_3_S340001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325723,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH08_3_S351001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325724,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH09_3_S273001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325725,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH10_3_S283001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325726,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH11_4_S294001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325727,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH12_3_S305001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325728,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH13_3_S317001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325729,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH15_3_S329001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325730,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH16_3_S341001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325731,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH17_4_S352001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325732,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,HH18_3_S274001,,Savanna State Forest,46.87188736 N 93.32549468 W,,,HH,,,Leaf
+SAMN42325733,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR02_4_S76001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325734,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR03_3_S87001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325735,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR04_4_S6001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325736,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR05_4_S17001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325737,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR06_4_S29001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325738,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR07_4_S41001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325739,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR08_4_S53001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325740,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR09_3_S273001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325741,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR10_4_S77001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325742,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR11_4_S88001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325743,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR12_4_S7001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325744,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR14_4_S18001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325745,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HR15_4_S30001,,Hemlock Ravine SNA,46.668554 N 92.351586 W,,,HR,,,Leaf
+SAMN42325746,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY01_4_S90001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325747,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY02_4_S9001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325748,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY03_3_S20001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325749,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY04_3_S32001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325750,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY05_3_S44001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325751,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY06_3_S56001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325752,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY07_3_S68001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325753,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY08_3_S80001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325754,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY09_3_S91001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325755,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY10_3_S10001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325756,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY11_4_S21001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325757,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY12_4_S33001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325758,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY13_4_S45001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325759,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,HY15_3_S57001,,Hartley Nature Center,46.8303967 N 92.0847195 W,,,HY,,,Leaf
+SAMN42325760,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II01_4_S349001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325761,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II02_4_S361001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325762,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II03_4_S362001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325763,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II04_3_S369001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325764,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II05_3_S374001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325765,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II06_3_S379001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325766,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II07_4_S385001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325767,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II08_3_S391001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325768,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II09_3_S36001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325769,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II10_3_S398001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325770,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II11_4_S34001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325771,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II11_4_S404001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325772,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II14_3_S370001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325773,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II15_3_S375001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325774,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,II16_4_S380001,,St. Croix River,45.951059 N 92.662983 W,,,II,,,Leaf
+SAMN42325775,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC01_3_S73001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325776,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC02_3_S84001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325777,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC03_3_S3001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325778,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC04_4_S14001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325779,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC05_4_S26001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325780,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC06_4_S38001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325781,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC07_4_S50001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325782,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC08_3_S62001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325783,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC09_4_S74001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325784,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC11_3_S85001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325785,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC12_3_S4001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325786,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,JC13_3_S15001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325787,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW01_3_S280001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325788,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW02_3_S290001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325789,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW03_4_S301001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325790,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW04_3_S313001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325791,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW06_4_S325001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325792,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW07_4_S337001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325793,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW09_3_S348001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325794,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW10_4_S360001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325795,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW12_4_S281001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325796,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW14_3_S291001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325797,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW15_3_S302001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325798,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW16_3_S314001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325799,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW17_4_S326001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325800,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,KW18_4_S338001,,Kimberly State Wildlife Management Area,46.541621 N 93.373846 W,,,KW,,,Leaf
+SAMN42325801,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE01_3_S217001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325802,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE02_3_S228001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325803,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE03_3_S239001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325804,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE04_3_S250001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325805,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE05_3_S292001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325806,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE06_3_S303001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325807,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE07_3_S315001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325808,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE08_3_S327001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325809,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE10_3_S339001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325810,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE11_3_S350001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325811,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE12_3_S272001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325812,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE13_3_S282001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325813,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE14_3_S293001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325814,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,LE18_3_S11001,,Laurentian Environmental Center,47.69208252 N 92.62914918 W,,,LE,,,Leaf
+SAMN42325815,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG04_4_S211001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325816,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG05_4_S222001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325817,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG06_4_S233001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325818,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG07_4_S244001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325819,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG08_4_S254001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325820,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG09_4_S265001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325821,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG10_4_S188001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325822,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG11_4_S200001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325823,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG12_4_S212001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325824,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG13_4_S223001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325825,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG14_4_S234001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325826,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG15_4_S245001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325827,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG16_4_S255001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325828,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,MG18_4_S266001,,Jay Cooke State Park,46.617996 N 92.316025 W,,,MG,,,Leaf
+SAMN42325829,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML01_3_S259001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325830,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML02_3_S270001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325831,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML04_3_S193001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325832,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML06_3_S205001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325833,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML07_3_S216001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325834,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML08_3_S227001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325835,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML09_3_S238001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325836,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML10_3_S249001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325837,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML11_3_S260001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325838,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML13_3_S271001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325839,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML14_3_S194001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325840,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,ML15_3_S206001,,Mille Lacs Kathio State Park,46.16718001 N 93.77830342 W,,,ML,,,Leaf
+SAMN42325841,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM01_4_S1001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325842,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM02_4_S12001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325843,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM03_3_S24001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325844,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM04_3_S36001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325845,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM05_4_S48001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325846,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM06_3_S60001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325847,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM07_3_S72001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325848,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM08_3_S83001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325849,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM10_4_S2001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325850,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM11_3_S13001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325851,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM12_3_S25001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325852,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM13_4_S37001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325853,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM14_4_S49001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325854,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MM15_4_S61001,,Moose Mountain SNA,46.88437735 N 91.97545802 W,,,MM,,,Leaf
+SAMN42325855,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS01_3_S27001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325856,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS02_3_S39001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325857,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS03_3_S51001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325858,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS04_3_S63001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325859,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS06_3_S75001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325860,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS08_3_S86001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325861,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS09_3_S5001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325862,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS11_3_S16001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325863,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS12_3_S28001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325864,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS13_3_S40001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325865,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS16_3_S52001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325866,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,MS18_3_S64001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325867,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ03_4_S155001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325868,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ04_4_S166001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325869,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ05_3_S177001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325870,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ06_4_S99001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325871,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ08_4_S110001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325872,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ10_4_S122001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325873,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ12_4_S133001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325874,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ13_4_S145001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325875,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ14_4_S156001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325876,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ16_3_S167001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325877,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ17_4_S178001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325878,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,NJ18_3_S100001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325879,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC01_4_S114001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325880,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC02_3_S126001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325881,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC03_3_S137001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325882,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC04_4_S149001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325883,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC05_4_S160001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325884,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC06_4_S171001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325885,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC07_4_S181001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325886,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC08_3_S103001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325887,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC12_4_S115001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325888,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC13_4_S127001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325889,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC14_3_S138001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325890,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC15_4_S150001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325891,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC16_4_S161001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325892,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SC18_3_S172001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325893,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL01_4_S189001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325894,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL04_4_S201001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325895,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL05_3_S35001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325896,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL07_4_S235001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325897,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL08_4_S246001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325898,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL09_4_S256001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325899,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL10_4_S267001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325900,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL10_4_S58001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325901,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL11_4_S190001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325902,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL12_4_S202001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325903,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL13_4_S213001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325904,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL14_4_S224001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325905,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL15_4_S236001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325906,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL16_4_S247001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325907,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL17_4_S257001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325908,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SL18_4_S268001,,N/A,46.83883718 N 92.71992237 W,,,SL,,,Leaf
+SAMN42325909,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP01_3_S94001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325910,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP01_4_S120001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325911,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP02_4_S132001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325912,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP03_4_S143001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325913,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP04_3_S23001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325914,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP07_4_S176001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325915,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP08_4_S98001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325916,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP11_4_S109001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325917,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP12_3_S121001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325918,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP13_3_S70001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325919,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Inland,,,,USA: Minnesota,SP18_3_S144001,,Savannah Portage State Park,46.77855833 N 93.22883424 W,,,SP,,,Leaf
+SAMN42325920,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS01_4_S288001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325921,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS02_4_S299001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325922,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS03_3_S311001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325923,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS04_4_S323001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325924,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS05_4_S335001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325925,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS06_4_S346001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325926,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS07_4_S358001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325927,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS08_4_S279001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325928,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS09_3_S289001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325929,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS10_4_S300001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325930,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS11_3_S312001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325931,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS12_4_S324001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325932,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS13_3_S336001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325933,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS17_4_S347001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325934,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Interior,,,,USA: Minnesota,SS18_3_S359001,,Solana State Forest,46.31162 N 93.352731 W,,,SS,,,Leaf
+SAMN42325935,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST01_4_S42001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325936,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST04_4_S54001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325937,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST05_4_S66001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325938,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST06_4_S78001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325939,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST07_4_S89001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325940,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST08_4_S8001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325941,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST09_4_S19001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325942,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST10_4_S31001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325943,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST11_4_S43001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325944,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST12_4_S55001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325945,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST13_4_S67001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325946,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,ST14_4_S79001,,Superior Hiking Trail,46.673576 N 92.273644 W,,,ST,,,Leaf
+SAMN42325947,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG01_3_S69001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325948,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG02_3_S81001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325949,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG03_3_S92001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325950,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG07_3_S22001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325951,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG08_3_S34001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325952,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG09_3_S46001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325953,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG10_3_S58001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325954,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG13_3_S70001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325955,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG14_3_S411001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325956,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG15_3_S93001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325957,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG17_3_S11001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325958,Quercus rubra,Plant sample from Quercus rubra,,10+ years,,,2018,,Leaf out,Coastal,,,,USA: Minnesota,TG18_3_S23001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325969,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,1017_S20001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325970,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1043_S32001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325971,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1051_S44001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325972,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1081_S56001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325973,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,1135_S68001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325974,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,1163_S80001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325975,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,1209_S91001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325976,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1211_S9001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325977,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1222_S21001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325978,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1229_S33001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42325979,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,1257_S45001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325980,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1301_S57001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325981,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,132_S73001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325982,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,1381_S69001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325983,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,1387_S81001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325984,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,1391_S92001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42325985,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,140_S84001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325986,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1401_S10001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325987,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,143_S2001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325988,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,1435_S22001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325989,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,169_S14001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325990,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,173_S26001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325991,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,187_S38001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42325992,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,193_S50001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42325993,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,212_S62001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325994,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,238_S74001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42325995,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,265_S85001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42325996,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,319_S3001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325997,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,323_S15001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42325998,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,326_S27001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42325999,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,356_S39001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42326000,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,360_S51001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42326001,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,362_S63001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42326002,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,372_S75001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42326003,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,388_S86001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326004,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,39_S1001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42326005,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,395_S4001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42326006,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,409_S16001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42326007,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,432_S28001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42326008,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,441_S40001,,Enger park,46.776132 N 92.12431 W,,,ET,,,Leaf
+SAMN42326009,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,463_S52001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326010,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,481_S64001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326011,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,49_S13001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326012,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,525_S76001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42326013,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,527_S87001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42326014,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,557_S5001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326015,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,579_S17001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42326016,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,623_S29001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42326017,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,625_S41001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42326018,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,626_S53001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42326019,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,630_S65001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326020,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,664_S77001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42326021,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,694_S88001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326022,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,704_S6001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326023,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,74_S25001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326024,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,769_S18001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326025,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,776_S30001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326026,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,802_S42001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326027,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,830_S54001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326028,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,845_S66001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42326029,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,848_S78001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42326030,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,86_S37001,,St. Croix State Park,46.10411042 N 92.47881219 W,,,SC,,,Leaf
+SAMN42326031,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,87_S49001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326032,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,878_S89001,,Nemaji State Forest,46.40771744 N 92.37185745 W,,,NJ,,,Leaf
+SAMN42326033,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,880_S7001,,Jay Cooke State Park,46.642718 N 92.322142 W,,,JC,,,Leaf
+SAMN42326034,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,889_S19001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42326035,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,900_S31001,,Banning State Park,46.20717247 N 92.81964618 W,,,BS,,,Leaf
+SAMN42326036,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,924_S43001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326037,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,927_S55001,,Tettegouche State Park,47.33686335 N 91.27044633 W,,,TG,,,Leaf
+SAMN42326038,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Coastal,,,,USA: Minnesota,934_S67001,,Magney-Snively Natural Area,46.69522336 N 92.2315779 W,,,MS,,,Leaf
+SAMN42326039,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,95_S61001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN42326040,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,958_S79001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326041,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Inland,,,,USA: Minnesota,962_S90001,,Nemadji State Forest,46.247724 N 92.3913 W,,,FF,,,Leaf
+SAMN42326042,Quercus rubra,Plant sample from Quercus rubra,,3 months,,,2019,,Leaf out,Interior,,,,USA: Minnesota,994_S8001,,Grindstone Lake,46.12439694 N 92.99715242 W,,,GL,,,Leaf
+SAMN46722752,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315001 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722753,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315002 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722754,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315003 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722755,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315004 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722756,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315005 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722757,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315006 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722758,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315007 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722759,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315008 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722760,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315009 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722761,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315011 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722762,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315012 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722763,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315014 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722764,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315017 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722765,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315038Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722766,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315039 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722767,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315040 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722768,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315041 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722769,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315051 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722770,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315104 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722771,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315105 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722772,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315106 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722773,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315107 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722774,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315108 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722775,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315110 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722776,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315111 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722777,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315112 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722778,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315113 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722779,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315114 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722780,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315115 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722781,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315116 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722782,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315117 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722783,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315118 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722784,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315119 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722785,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315120 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722786,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315121 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722787,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315124 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722788,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315125 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722789,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315126 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722790,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315127 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722791,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315128 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722792,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315129 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722793,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315130 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722794,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315131 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722795,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315132 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722796,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Cambridge",,D21-315195 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722797,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315207 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722798,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315208 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722799,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315209 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722800,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315210 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722801,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315211 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722802,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315212 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722803,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315214 Mature Red Oak Tree,,,,,,,,leaf
+SAMN46722804,Quercus rubra,Plant sample from Quercus rubra,,,,,2021-05,,Mature,,,,,"USA: MA, Petersham",,D21-315215 Mature Red Oak Tree,,,,,,,,leaf

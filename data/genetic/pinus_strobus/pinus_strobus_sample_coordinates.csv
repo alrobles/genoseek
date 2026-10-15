@@ -1,0 +1,16 @@
+sample,biosample,srr,bioproject,library_strategy,library_source,scientific_name,lat,lon,lat_lon_raw,geo_loc_name,collection_date
+PSTRR01,SAMN08646880,SRR6816978,PRJNA437248,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,Canada,
+Gp0305088,SAMN09062729,SRR7175026,PRJNA455450,OTHER,TRANSCRIPTOMIC,Pinus strobus,,,missing,missing,missing
+Ps control and infection,SAMN11523603,SRR8987909,PRJNA540176,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,South Korea:Okcheon,
+PIN1,SAMN13611457,SRR10713868,PRJNA596040,WGS,GENOMIC,Pinus strobus,,,,USA,
+Pinus_strobus_W108,SAMN18017878,SRR13823425,PRJNA703422,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,USA: Maine,
+Pinus_strobus_W267,SAMN18017879,SRR13823424,PRJNA703422,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"USA: Graham County, North Carolina",
+pinus strobus fungus treatment,SAMN33960766,SRR24010963,PRJNA949840,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,South Korea,
+pinus strobus wild type,SAMN33960831,SRR24010966,PRJNA949840,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,South Korea,
+control1,SAMN39583129,SRR27704483,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-02
+control2,SAMN39583130,SRR27704482,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-03
+control3,SAMN39583131,SRR27704481,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-04
+drought1,SAMN39583132,SRR27704480,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-05
+drought2,SAMN39583133,SRR27704479,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-06
+drought3,SAMN39583134,SRR27704478,PRJNA1068255,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,"South Korea: Jeollonam, Jirisan",2021-12-07
+Pinus_strobus,SAMN41994401,SRR29499880,PRJNA1127083,RNA-Seq,TRANSCRIPTOMIC,Pinus strobus,,,,Korea: Chilbosan experimental forest,2021-06-25/2021-07-25

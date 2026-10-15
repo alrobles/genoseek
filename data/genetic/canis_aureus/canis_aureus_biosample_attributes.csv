@@ -1,0 +1,13 @@
+accession,taxonomy_name,title,SI.orderID,Sex,age,biomaterial_provider,birth_location,breed,collection_date,cultivar,dev_stage,ecotype,geo_loc_name,individual,isolate,order,sample type,sex,source_name,specimen_voucher,strain,tissue
+SAMN03366713,Canis aureus,Model organism or animal sample from Canis aureus,,,not applicable,,,Golden jackal,,,,,Israel: Tel Aviv,,,,,female,,,,Skeletal Muscle
+SAMN10174941,Canis aureus,Model organism or animal sample from Canis aureus,,,,,,,,,Adult,Eurasia,,,,14,,not collected,,,,unknown
+SAMN10180426,Canis aureus,Golden jackal Calcutta,,,,Natural History Museum of Denmark,,,1845-11,,adult,,India: Botanical gardens of Calcutta,,,,,missing,,CN232,not applicable,skin
+SAMN10180427,Canis aureus,Golden jackal Syria,,,,Breeding Centre for Endangered Arabian Wildlife,,,2014,,adult,,Syria,,,,,missing,,CA039,not applicable,muscle
+SAMN19655090,Canis aureus,Golden Jackal,,,NA,,"Uttarakhand, India",NA,,NA,NA,NA,,,NA,,,NA,,,NA,NA
+SAMN25559784,Canis aureus,GJ_1_H,,male,adult,,,,,,,,,1,,,converted,,Heart,,,Heart
+SAMN25559785,Canis aureus,GJ_1_H_uc,,male,adult,,,,,,,,,1,,,unconverted,,Heart,,,Heart
+SAMN25559786,Canis aureus,GJ_1_L,,male,adult,,,,,,,,,1,,,converted,,Liver,,,Liver
+SAMN29334461,Canis aureus cruesemanni,Indochinese golden jackal,,,,,,,,,adult,Thailand,,,,,,male,,,,whole blood
+SAMN33450952,Canis aureus,Model organism or animal sample from Canis aureus,307,,Adult,,,,,,,,,,Canis aureus from Iraq,,,male,,,,Blood
+SAMN33450953,Canis aureus,Model organism or animal sample from Canis aureus,308,,Adult,,,,,,,,,,Canis aureus from Iraq,,,female,,,,Blood
+SAMN48380470,Canis aureus,Model organism or animal sample from Canis aureus,,,,,,,unknown,,adult,,Austria,,CA01,,,male,,,,muscle

@@ -1,0 +1,10 @@
+accession,taxonomy_name,title,age,biomaterial_provider,collected_by,collection_date,cultivar,dev_stage,ecotype,genotype,geo_loc_name,isolate,organism,sample_title,tissue
+SAMN15375572,Juniperus communis,Juniperus_communis_DM297,,17/1/2018,,,,not applicable,,55.866313 N 12.508492 E,Denmark,"AccesionNo1955,0476",,,Leaves
+SAMN15823619,Juniperus communis,Juniperus communis whole genome sequencing data,85 years old,,S. Frangos,2019-10-15,saxatilis,mature shrub,not applicable,,USA:New York,not applicable,Juniperus communis,Juniperus communis whole genome sequencing data,leaves
+SAMN22155739,Juniperus communis,Plant sample from Juniperus communis,not collected,,,,,,not collected,,China: Xinjiang,,,,leaves
+SAMN24505366,Juniperus communis,Plant sample from Juniperus communis,not collected,,,,,,not collected,,USA: Yellowstone National Park,,,,leaves
+SAMN40260182,Juniperus communis,Plant sample from Juniperus communis,,,D. Gutierrez-Larruscain,2022-06-17,,adult,,,"Spain: Navarra, Aras",wild,,,leaf
+SAMN41785993,Juniperus communis,Plant sample from Juniperus communis,not collected,,,2021/2023,not collected,not collected,not collected,,China: Jiujiang,not collected,,,fecal
+SAMN51793504,Juniperus communis,Plant sample from Juniperus communis,Six year,,,2022-09-12,,,Estonia,,Estonia: Rohu,D-34,,,leaves
+SAMN51793523,Juniperus communis,Plant sample from Juniperus communis,Six year,,,2022-09-12,,,Estonia,,Estonia: Rohu,F-22,,,leaves
+SAMN51793556,Juniperus communis,Plant sample from Juniperus communis,Six year,,,2022-09-12,,,Estonia,,Estonia: Rohu,J-04,,,leaves

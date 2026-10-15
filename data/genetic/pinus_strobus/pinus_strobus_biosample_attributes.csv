@@ -1,0 +1,16 @@
+accession,taxonomy_name,title,age,biome,collection_date,cultivar,dev_stage,ecotype,estimated_size,feature,geo_loc_name,host,isol_growth_condt,isolate,isolation_source,lat_lon,material,num_replicons,ploidy,propagation,ref_biomaterial,tissue,treatment
+SAMN08646880,Pinus strobus,Mixed tissues from Pinus strobus,,,,,mixed,not applicable,,,Canada,,,,,,,,,,,mixed,
+SAMN09062729,Pinus strobus,Pinus strobus FK-6-A Transcriptome - PstrobFK-6-A,,missing,missing,FK-6-A,,,missing,missing,missing,not applicable,missing,,missing,missing,missing,missing,missing,missing,missing,,
+SAMN11523603,Pinus strobus,Plant sample from Pinus strobus,5,,,,,,,,South Korea:Okcheon,,,stem,,,,,,,,Stem,Bursaphelenchus xylophilus infection
+SAMN13611457,Pinus strobus,Plant sample from Pinus strobus,,,,not collected,mature,not collected,,,USA,,,not collected,,,,,,,,needles,
+SAMN18017878,Pinus strobus,Plant sample from Pinus strobus,missing,,,,,,,,USA: Maine,,,isolate-W108,,,,,,,,megagametophytes,
+SAMN18017879,Pinus strobus,Plant sample from Pinus strobus,missing,,,,,,,,"USA: Graham County, North Carolina",,,isolate-W267,,,,,,,,megagametophytes,
+SAMN33960766,Pinus strobus,Pinus strobus callus after fungal elicitor treatment,,,,,callus,,,,South Korea,,,callus,,,,,,,,zygote embryo,
+SAMN33960831,Pinus strobus,callus from Pinus strobus,,,,,callus,,,,South Korea,,,callus,,,,,,,,zygote embryo,
+SAMN39583129,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-02,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN39583130,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-03,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN39583131,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-04,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN39583132,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-05,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN39583133,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-06,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN39583134,Pinus strobus,Plant sample from Pinus strobus,3 years,,2021-12-07,,,,,,"South Korea: Jeollonam, Jirisan",,,root,,,,,,,,root,
+SAMN41994401,Pinus strobus,Plant sample from Pinus strobus,5 years,,2021-06-25/2021-07-25,,sampling,,,,Korea: Chilbosan experimental forest,,,missing,,,,,,,,Cambium,

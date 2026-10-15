@@ -1,0 +1,19 @@
+sample,biosample,srr,bioproject,library_strategy,library_source,scientific_name,lat,lon,lat_lon_raw,geo_loc_name,collection_date
+117_MRAD,SAMN36374077,SRR25206585,PRJNA992777,RAD-Seq,GENOMIC,Plethodon teyahalee,35.341833,-83.724972,35.341833 N 83.724972 W,NA,NA
+118_MRAD,SAMN36374078,SRR25206574,PRJNA992777,RAD-Seq,GENOMIC,Plethodon teyahalee,35.341833,-83.724972,35.341833 N 83.724972 W,NA,NA
+120_MRAD,SAMN36374079,SRR25206563,PRJNA992777,RAD-Seq,GENOMIC,Plethodon teyahalee,35.341833,-83.724972,35.341833 N 83.724972 W,NA,NA
+122_MRAD,SAMN36374080,SRR25206552,PRJNA992777,RAD-Seq,GENOMIC,Plethodon teyahalee,35.341833,-83.724972,35.341833 N 83.724972 W,NA,NA
+123_MRAD,SAMN36374081,SRR25206541,PRJNA992777,RAD-Seq,GENOMIC,Plethodon teyahalee,35.341833,-83.724972,35.341833 N 83.724972 W,NA,NA
+GSM19101,SAMN46403621,SRR32172244,PRJNA1062342,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.58496,-83.11911,35.58496 N 83.11911 W,"USA:North Carolina, Haywood Couny",2019-07-26
+GSM19113,SAMN46403622,SRR32172243,PRJNA1062342,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.77275,-83.18032,35.77275 N 83.18032 W,"USA: Tennessee, Cocke County",2019-07-29
+I10432_51959_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004002,SRR34567778,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.1056,-83.2847,35.1056 N 83.2847 W,not collected,not collected
+I10433_52609_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004003,SRR34567777,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.4625,-84.0269,35.4625 N 84.0269 W,not collected,not collected
+I10447_75077_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004004,SRR34567776,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.2561,-83.8031,35.2561 N 83.8031 W,not collected,not collected
+I10448_75078_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004005,SRR34567775,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.2561,-83.8031,35.2561 N 83.8031 W,not collected,not collected
+I10449_76593_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004006,SRR34567774,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,34.7422,-82.8431,34.7422 N 82.8431 W,not collected,not collected
+I10460_76755_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004007,SRR34567772,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.8139,-82.9494,35.8139 N 82.9494 W,not collected,not collected
+I10530_76592_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004008,SRR34567771,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,34.7422,-82.8431,34.7422 N 82.8431 W,not collected,not collected
+I10544_77935_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004009,SRR34567770,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.8139,-82.9494,35.8139 N 82.9494 W,not collected,not collected
+I10552_54424_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004010,SRR34567769,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.0447,-83.1392,35.0447 N 83.1392 W,not collected,not collected
+I10559_69524_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004011,SRR34567768,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.3253,-84.0856,35.3253 N 84.0856 W,not collected,not collected
+I10569_3385_Plethodontidae_Plethodon_teyahalee_seq1,SAMN50004012,SRR34567767,PRJNA1292748,Targeted-Capture,GENOMIC,Plethodon teyahalee,35.35838,-83.71799,35.35838 N 83.71799 W,not collected,not collected

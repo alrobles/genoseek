@@ -1,0 +1,5 @@
+accession,taxonomy_name,title,age,collection_date,death_date,dev_stage,env_broad_scale,env_local_scale,env_medium,geo_loc_name,isol_growth_condt,isolate,lat_lon,sex,tissue
+SAMN16725402,Gulo gulo luscus,Model organism or animal sample from Gulo gulo,not collected,,1990,not applicable,,,,"Canada: Nunavut, Kugluktuk (Coppermine) Area",,FN33715,,male,kidney
+SAMN55363081,Gulo gulo,PX120476,,not provided,,,not provided,not provided,not provided,Canada,not applicable,ma-GUGU-4,not provided,,
+SAMN55363082,Gulo gulo,PX120477,,not provided,,,not provided,not provided,not provided,Canada,not applicable,ma-GUGU-5,not provided,,
+SAMN55363083,Gulo gulo,PX120478,,not provided,,,not provided,not provided,not provided,Canada,not applicable,ma-GUGU-6,not provided,,

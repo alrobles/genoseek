@@ -1,0 +1,11 @@
+accession,taxonomy_name,title,Sex,age,breed,collection_date,dev_stage,disease,ecotype,geo_loc_name,individual,sample type,sex,source_name,specimen_voucher,strain,tissue
+SAMN25559536,Sciurus vulgaris,RSQ_1_H_uc,male,adult,,,,,,,1,unconverted,,Heart,,,Heart
+SAMN25559537,Sciurus vulgaris,RSQ_1_L,male,adult,,,,,,,1,converted,,Liver,,,Liver
+SAMN25559538,Sciurus vulgaris,RSQ_1_H,male,adult,,,,,,,1,converted,,Heart,,,Heart
+SAMN25559944,Sciurus vulgaris,RSQ_2_H,female,adult,,,,,,,2,converted,,Heart,,,Heart
+SAMN25559946,Sciurus vulgaris,RSQ_2_L,female,adult,,,,,,,2,converted,,Liver,,,Liver
+SAMN29657840,Sciurus vulgaris,Model organism or animal sample from Sciurus vulgaris,,,,,not collected,,not applicable,Russia:Sakha Republic,,,male,,MSB 148785,,muscle or liver
+SAMN48894876,Sciurus vulgaris,Model organism or animal sample from Sciurus vulgaris,,not applicable,not applicable,2021,not applicable,,,United Kingdom,,,not applicable,,,,tissue
+SAMN54206356,Sciurus vulgaris,RNA-Seq of squirrel: ES1,,,,2024-07-05,adult,hepatitis,,"Japan: Sapporo, Hokkaido",,,male,,,Sciurus vulgaris orientis,liver
+SAMN54206357,Sciurus vulgaris,RNA-Seq of squirrel: ES2,,,,2019-11-21,adult,,,"Japan: Sapporo, Hokkaido",,,male,,,Sciurus vulgaris orientis,liver
+SAMN54206358,Sciurus vulgaris,RNA-Seq of squirrel: ES3,,,,2025-08,juvenile,,,"Japan: Sapporo, Hokkaido",,,female,,,Sciurus vulgaris orientis,liver

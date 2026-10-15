@@ -1,0 +1,299 @@
+accession,taxonomy_name,title,age,collection_date,cultivar,dev_stage,ecotype,geo_loc_name,isolate,replicate,tissue
+SAMN10651802,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,EKAT3,,needle
+SAMN10651803,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,EKAT7,,needle
+SAMN10651804,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,EKAT14,,needle
+SAMN10651805,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,EKAT8,,needle
+SAMN10651806,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,EKAT2,,needle
+SAMN10651824,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,TYGG2,,needle
+SAMN10651825,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,TYGG7,,needle
+SAMN10651830,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE15,,needle
+SAMN10651831,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE19,,needle
+SAMN10651832,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE2,,needle
+SAMN10651834,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE4,,needle
+SAMN10651835,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE6,,needle
+SAMN10651837,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE18,,needle
+SAMN10651838,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE20,,needle
+SAMN10651839,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE5,,needle
+SAMN10651840,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE16,,needle
+SAMN10651841,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,SHALYE8,,needle
+SAMN10651844,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,KK4,,needle
+SAMN10651845,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,KK9,,needle
+SAMN10651846,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,KK9-1,,needle
+SAMN10651847,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,KK17-1,,needle
+SAMN10651848,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,KK18-1,,needle
+SAMN10653425,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Finland,FI29,,needle
+SAMN10653435,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Finland,FI45,,needle
+SAMN10653441,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Finland,Fi52,,needle
+SAMN10653455,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,K20,,needle
+SAMN10653456,Picea obovata,Plant sample from Picea obovata,>1month,,,,,Russia,K21,,needle
+SAMN12138966,Picea obovata,Plant sample from Picea obovata,missing,,,missing,missing,Russia: Kemerovo region,Picea_obovata_EN003,,endosperm
+SAMN12138967,Picea obovata,Plant sample from Picea obovata,missing,,,missing,missing,Russia: Kemerovo region,Picea_obovata_EN146,,endosperm
+SAMN14311503,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obavata-07,,Needle
+SAMN14311504,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obavata-08,,Needle
+SAMN14311505,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obavata-10,,Needle
+SAMN14311506,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-01,,Needle
+SAMN14311507,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-02,,Needle
+SAMN14311508,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-03,,Needle
+SAMN14311509,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-04,,Needle
+SAMN14311510,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-05,,Needle
+SAMN14311511,Picea obovata,Plant sample from Picea obovata,NA,,,Adult,,Russia: Yenisei,Obovata-06,,Needle
+SAMN15938071,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene matK,replicate = biological replicate 1,needles
+SAMN15938072,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene matK,replicate = biological replicate 2,needles
+SAMN15938073,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene matK,replicate = biological replicate 3,needles
+SAMN15938074,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene matK,replicate = biological replicate 4,needles
+SAMN15938075,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene matK,replicate = biological replicate 5,needles
+SAMN15938236,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene atpA,replicate = biological replicate 1,needles
+SAMN15938237,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene atpA,replicate = biological replicate 2,needles
+SAMN15938238,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene atpA,replicate = biological replicate 3,needles
+SAMN15938239,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene atpA,replicate = biological replicate 4,needles
+SAMN15938240,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene atpA,replicate = biological replicate 5,needles
+SAMN15938401,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene chlB,replicate = biological replicate 1,needles
+SAMN15938402,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene chlB,replicate = biological replicate 2,needles
+SAMN15938403,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene chlB,replicate = biological replicate 3,needles
+SAMN15938404,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene chlB,replicate = biological replicate 4,needles
+SAMN15938405,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene chlB,replicate = biological replicate 5,needles
+SAMN15938566,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene pbsC,replicate = biological replicate 1,needles
+SAMN15938567,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene pbsC,replicate = biological replicate 2,needles
+SAMN15938568,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene pbsC,replicate = biological replicate 3,needles
+SAMN15938569,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene pbsC,replicate = biological replicate 4,needles
+SAMN15938570,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene pbsC,replicate = biological replicate 5,needles
+SAMN15938731,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene rbcL,replicate = biological replicate 1,needles
+SAMN15938732,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene rbcL,replicate = biological replicate 2,needles
+SAMN15938733,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene rbcL,replicate = biological replicate 3,needles
+SAMN15938734,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene rbcL,replicate = biological replicate 4,needles
+SAMN15938735,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene rbcL,replicate = biological replicate 5,needles
+SAMN15938896,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene trnT-trnF,replicate = biological replicate 1,needles
+SAMN15938897,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene trnT-trnF,replicate = biological replicate 2,needles
+SAMN15938898,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene trnT-trnF,replicate = biological replicate 3,needles
+SAMN15938899,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene trnT-trnF,replicate = biological replicate 4,needles
+SAMN15938900,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene trnT-trnF,replicate = biological replicate 5,needles
+SAMN15939350,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad5,replicate=biological replicate1,needles
+SAMN15939351,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad5,replicate=biological replicate2,needles
+SAMN15939352,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad5,replicate=biological replicate3,needles
+SAMN15939353,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad5,replicate=biological replicate4,needles
+SAMN15939354,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad5,replicate=biological replicate5,needles
+SAMN15939515,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad7,replicate=biological replicate1,needles
+SAMN15939516,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad7,replicate=biological replicate2,needles
+SAMN15939517,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad7,replicate=biological replicate3,needles
+SAMN15939518,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad7,replicate=biological replicate4,needles
+SAMN15939519,Picea obovata,Plant sample from Picea obovata,not application,,missing,not application,Norway,China: Xiaolongshan,gene nad7,replicate=biological replicate5,needles
+SAMN37073406,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_1,,needles
+SAMN37073407,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_18,,needles
+SAMN37073408,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_2,,needles
+SAMN37073409,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_4,,needles
+SAMN37073410,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_5,,needles
+SAMN37073411,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_7,,needles
+SAMN37073412,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_8,,needles
+SAMN37073413,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_9,,needles
+SAMN37073414,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_10,,needles
+SAMN37073415,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_11,,needles
+SAMN37073416,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_12,,needles
+SAMN37073417,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_13,,needles
+SAMN37073418,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_14,,needles
+SAMN37073419,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_15,,needles
+SAMN37073420,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_16,,needles
+SAMN37073421,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_17,,needles
+SAMN37073422,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,Indigo_19,,needles
+SAMN37073423,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_19,,needles
+SAMN37073425,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_2,,needles
+SAMN37073426,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_10,,needles
+SAMN37073427,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_19,,needles
+SAMN37073428,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_10,,needles
+SAMN37073429,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_6,,needles
+SAMN37073430,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_4,,needles
+SAMN37073431,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_8,,needles
+SAMN37073432,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_17,,needles
+SAMN37073433,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_7,,needles
+SAMN37073434,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_14,,needles
+SAMN37073438,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_6,,needles
+SAMN37073440,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_15,,needles
+SAMN37073442,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_10,,needles
+SAMN37073443,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_9,,needles
+SAMN37073444,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_17,,needles
+SAMN37073446,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_1,,needles
+SAMN37073447,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_7,,needles
+SAMN37073448,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_17,,needles
+SAMN37073449,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_11,,needles
+SAMN37073451,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_14,,needles
+SAMN37073452,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_12,,needles
+SAMN37073453,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_2,,needles
+SAMN37073454,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_7,,needles
+SAMN37073455,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_18,,needles
+SAMN37073456,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_6,,needles
+SAMN37073457,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_9,,needles
+SAMN37073458,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_19,,needles
+SAMN37073459,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_3,,needles
+SAMN37073460,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_17,,needles
+SAMN37073464,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_13,,needles
+SAMN37073465,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_1,,needles
+SAMN37073466,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_5,,needles
+SAMN37073467,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_15,,needles
+SAMN37073469,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,YAR_13,,needles
+SAMN37073471,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_12,,needles
+SAMN37073472,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_16,,needles
+SAMN37073473,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_11,,needles
+SAMN37073474,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_20,,needles
+SAMN37073475,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_3,,needles
+SAMN37073476,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PUT_1,,needles
+SAMN37073478,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_12,,needles
+SAMN37073479,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_1,,needles
+SAMN37073480,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_12,,needles
+SAMN37073482,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_18,,needles
+SAMN37073483,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_2,,needles
+SAMN37073485,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_8,,needles
+SAMN37073487,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_10,,needles
+SAMN37073489,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_1,,needles
+SAMN37073490,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_13,,needles
+SAMN37073491,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_5,,needles
+SAMN37073492,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_20,,needles
+SAMN37073493,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_12,,needles
+SAMN37073495,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_18,,needles
+SAMN37073496,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_6,,needles
+SAMN37073497,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_20,,needles
+SAMN37073498,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_18,,needles
+SAMN37073499,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_5,,needles
+SAMN37073500,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_13,,needles
+SAMN37073502,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_8,,needles
+SAMN37073504,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_7,,needles
+SAMN37073505,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_13,,needles
+SAMN37073506,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_14,,needles
+SAMN37073507,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_18,,needles
+SAMN37073508,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_4,,needles
+SAMN37073509,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_15,,needles
+SAMN37073510,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_16,,needles
+SAMN37073511,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_8,,needles
+SAMN37073512,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_5,,needles
+SAMN37073513,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_7,,needles
+SAMN37073515,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_14,,needles
+SAMN37073517,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BER_3,,needles
+SAMN37073518,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_3,,needles
+SAMN37073519,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_16,,needles
+SAMN37073522,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_4,,needles
+SAMN37073523,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_10,,needles
+SAMN37073525,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_11,,needles
+SAMN37073528,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,YAR_10,,needles
+SAMN37073529,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_17,,needles
+SAMN37073530,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_19,,needles
+SAMN37073531,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_6,,needles
+SAMN37073532,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_4,,needles
+SAMN37073533,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_3,,needles
+SAMN37073534,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_16,,needles
+SAMN37073535,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_9,,needles
+SAMN37073536,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_12,,needles
+SAMN37073538,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_2,,needles
+SAMN37073539,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_5,,needles
+SAMN37073540,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_19,,needles
+SAMN37073541,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_3,,needles
+SAMN37073542,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_2,,needles
+SAMN37073543,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_11,,needles
+SAMN37073545,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_4,,needles
+SAMN37073546,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_9,,needles
+SAMN37073548,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAL_8,,needles
+SAMN37073549,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_2,,needles
+SAMN37073550,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_14,,needles
+SAMN37073551,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_4,,needles
+SAMN37073552,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_16,,needles
+SAMN37073553,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_20,,needles
+SAMN37073557,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_5,,needles
+SAMN37073558,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_7,,needles
+SAMN37073559,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_2,,needles
+SAMN37073561,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_1,,needles
+SAMN37073562,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_4,,needles
+SAMN37073563,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_6,,needles
+SAMN37073564,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_13,,needles
+SAMN37073565,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_4,,needles
+SAMN37073566,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_7,,needles
+SAMN37073567,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_19,,needles
+SAMN37073568,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_4,,needles
+SAMN37073570,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_15,,needles
+SAMN37073571,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PUT_11,,needles
+SAMN37073574,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_12,,needles
+SAMN37073576,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_6,,needles
+SAMN37073578,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_10,,needles
+SAMN37073579,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_6,,needles
+SAMN37073581,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_3,,needles
+SAMN37073582,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_7,,needles
+SAMN37073583,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_3,,needles
+SAMN37073584,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_12,,needles
+SAMN37073587,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_17,,needles
+SAMN37073588,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_11,,needles
+SAMN37073591,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_10,,needles
+SAMN37073592,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_9,,needles
+SAMN37073593,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_9,,needles
+SAMN37073594,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_11,,needles
+SAMN37073595,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_18,,needles
+SAMN37073596,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_9,,needles
+SAMN37073597,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_1,,needles
+SAMN37073598,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_15,,needles
+SAMN37073599,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_11,,needles
+SAMN37073601,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_12,,needles
+SAMN37073602,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_5,,needles
+SAMN37073603,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_11,,needles
+SAMN37073604,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_9,,needles
+SAMN37073605,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_10,,needles
+SAMN37073606,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_4,,needles
+SAMN37073607,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_12,,needles
+SAMN37073608,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_21,,needles
+SAMN37073609,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_63,,needles
+SAMN37073610,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_76,,needles
+SAMN37073611,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_6,,needles
+SAMN37073612,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,YAR_3,,needles
+SAMN37073613,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_6,,needles
+SAMN37073614,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_2,,needles
+SAMN37073615,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_6,,needles
+SAMN37073616,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_11,,needles
+SAMN37073617,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_5,,needles
+SAMN37073618,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_13,,needles
+SAMN37073619,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_23,,needles
+SAMN37073620,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_65,,needles
+SAMN37073622,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_20,,needles
+SAMN37073623,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_10,,needles
+SAMN37073624,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_4,,needles
+SAMN37073626,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_2,,needles
+SAMN37073627,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_6,,needles
+SAMN37073628,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_14,,needles
+SAMN37073629,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_27,,needles
+SAMN37073631,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TUG_19,,needles
+SAMN37073632,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_8,,needles
+SAMN37073633,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_15,,needles
+SAMN37073634,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_16,,needles
+SAMN37073635,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,SHA_1,,needles
+SAMN37073636,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_7,,needles
+SAMN37073637,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_15,,needles
+SAMN37073638,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_29,,needles
+SAMN37073639,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_67,,needles
+SAMN37073641,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_12,,needles
+SAMN37073642,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_14,,needles
+SAMN37073643,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,EKA_2,,needles
+SAMN37073645,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_7,,needles
+SAMN37073646,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PUT_4,,needles
+SAMN37073647,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_18,,needles
+SAMN37073648,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_8,,needles
+SAMN37073649,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_16,,needles
+SAMN37073650,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_30,,needles
+SAMN37073651,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_69,,needles
+SAMN37073653,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_19,,needles
+SAMN37073654,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TOB_1,,needles
+SAMN37073655,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_9,,needles
+SAMN37073656,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_8,,needles
+SAMN37073657,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_1,,needles
+SAMN37073658,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_9,,needles
+SAMN37073659,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_17,,needles
+SAMN37073660,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_31,,needles
+SAMN37073661,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_70,,needles
+SAMN37073663,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_18,,needles
+SAMN37073664,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,VYA_13,,needles
+SAMN37073665,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KAZM_17,,needles
+SAMN37073666,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PUT_9,,needles
+SAMN37073667,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_15,,needles
+SAMN37073668,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_16,,needles
+SAMN37073669,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_18,,needles
+SAMN37073671,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,BOR_3,,needles
+SAMN37073672,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KM_11,,needles
+SAMN37073673,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,OKT_3,,needles
+SAMN37073674,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_4,,needles
+SAMN37073675,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,PAH_12,,needles
+SAMN37073676,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_3,,needles
+SAMN37073677,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,KRA_11,,needles
+SAMN37073678,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,ENI_20,,needles
+SAMN37073679,Picea obovata,Plant sample from Picea obovata,>1month,2019-09,,,,Russia,TYR_61,,needles
