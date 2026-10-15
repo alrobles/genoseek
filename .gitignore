@@ -1,0 +1,12 @@
+data/*.db
+data/*.tsv
+data/*.csv
+data/genetic/
+data/snapshots/
+data/vcf_database/
+publish/*.tsv
+publish/*.db
+publish/files/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,41 @@
+#!/bin/bash
+#SBATCH --job-name=genominer_ingest_genetic
+#SBATCH --output=logs/ingest_genetic_candidates_%j.out
+#SBATCH --error=logs/ingest_genetic_candidates_%j.err
+#SBATCH --partition=sixhour
+#SBATCH --account=kbs
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=8G
+#SBATCH --time=06:00:00
+
+set -euo pipefail
+
+cd "${SLURM_SUBMIT_DIR}"
+
+export PYTHONUNBUFFERED=1
+export PYTHONDONTWRITEBYTECODE=1
+export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
+export ENTREZ_KEY_FILE="${ENTREZ_KEY_FILE:-$GENOMINER_WORK/../env/nih-entrez-key}"
+
+export ENTREZ_API_KEY=$(python3 - <<'PY'
+import os
+p = os.environ.get("ENTREZ_KEY_FILE") or os.path.expanduser("~/env/nih-entrez-key")
+if os.path.exists(p):
+    raw = open(p).read().strip()
+    if raw.startswith("ENTREZ_API_KEY="):
+        print(raw.split("=", 1)[1])
+    else:
+        print(raw)
+PY
+)
+
+python3 scripts/ingest_genetic_candidates.py \
+    --candidates data/candidates.tsv \
+    --top-n 10 \
+    --min-sra 5 \
+    --out data/genetic_ingest_report.tsv \
+    --genetic-dir data/genetic \
+    --max-runs 1000 \
+    --coord-res-deg 0.25

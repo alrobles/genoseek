@@ -1,0 +1,42 @@
+{
+  "salamanders": {
+    "group": "Amphibia",
+    "genera": ["Plethodon", "Desmognathus", "Ambystoma", "Ensatina", "Batrachoseps", "Aneides", "Hydromantes", "Speleomantes", "Eurycea", "Gyrinophilus", "Pseudotriton", "Notophthalmus", "Taricha", "Bolitoglossa", "Hemidactylium", "Plethodontohyla"],
+    "geographies": ["Appalachian", "Great Smoky Mountains", "eastern North America", "western North America", "Mediterranean", "boreal", "temperate"]
+  },
+  "mammals": {
+    "group": "Mammalia",
+    "genera": ["Lepus", "Sciurus", "Tamiasciurus", "Neotoma", "Ursus", "Canis", "Vulpes", "Urocyon", "Lynx", "Felis", "Puma", "Martes", "Mustela", "Gulo", "Cervus", "Odocoileus", "Rangifer", "Alces", "Bison", "Ovis", "Capra", "Ochotona", "Spermophilus", "Marmota", "Tamias", "Neotamias", "Peromyscus", "Microtus", "Myodes", "Arvicola", "Apodemus", "Mus", "Rattus", "Sorex", "Myotis", "Eptesicus", "Lasiurus", "Erinaceus", "Talpa", "Oryctolagus", "Sylvilagus"],
+    "geographies": ["North America", "Europe", "Rocky Mountains", "Great Plains", "Appalachian", "boreal", "arctic", "temperate"]
+  },
+  "birds": {
+    "group": "Aves",
+    "genera": ["Poecile", "Parus", "Regulus", "Sitta", "Certhia", "Troglodytes", "Catharus", "Hylocichla", "Turdus", "Setophaga", "Dendroica", "Vermivora", "Geothlypis", "Parkesia", "Sphyrapicus", "Colaptes", "Picoides", "Dryobates", "Junco", "Spizella", "Melospiza", "Zonotrichia", "Passerella", "Corvus", "Cyanocitta", "Aphelocoma", "Perisoreus", "Loxia", "Spinus", "Acanthis", "Bombycilla", "Sialia", "Falco", "Buteo", "Strix", "Otus", "Bubo", "Glaucidium", "Megascops", "Accipiter", "Anas", "Aythya", "Bucephala", "Branta", "Anser", "Cygnus", "Bonasa", "Dendragapus", "Lagopus", "Tympanuchus", "Meleagris", "Zenaida", "Patagioenas"],
+    "geographies": ["North America", "Europe", "boreal", "temperate", "Appalachian", "Rocky Mountains"]
+  },
+  "fishes": {
+    "group": "Actinopterygii",
+    "genera": ["Salmo", "Oncorhynchus", "Salvelinus", "Thymallus", "Coregonus", "Esox", "Perca", "Sander", "Stizostedion", "Catostomus", "Moxostoma", "Cyprinella", "Luxilus", "Notropis", "Semotilus", "Rhinichthys", "Cottus", "Gasterosteus", "Pungitius", "Osmenus", "Alosa", "Fundulus", "Gambusia", "Danio", "Cyprinus", "Carassius"],
+    "geographies": ["North America", "Europe", "boreal", "temperate", "arctic", "Pacific"]
+  },
+  "reptiles": {
+    "group": "Reptilia",
+    "genera": ["Crotalus", "Vipera", "Agkistrodon", "Thamnophis", "Nerodia", "Coluber", "Pantherophis", "Lampropeltis", "Pituophis", "Crotaphytus", "Gambelia", "Sceloporus", "Uta", "Urosaurus", "Phrynosoma", "Gopherus", "Terrapene", "Chrysemys", "Trachemys", "Chelydra", "Actinemys", "Emys", "Graptemys", "Podarcis", "Lacerta", "Zootoca", "Anguis", "Plestiodon", "Eumeces", "Scincella"],
+    "geographies": ["North America", "Europe", "Mediterranean", "temperate", "arid"]
+  },
+  "odonates": {
+    "group": "Insecta",
+    "genera": ["Coenagrion", "Ischnura", "Enallagma", "Orthetrum", "Sympetrum", "Aeshna", "Anax", "Libellula", "Cordulegaster"],
+    "geographies": ["Europe", "Mediterranean", "North America", "temperate"]
+  },
+  "invertebrates": {
+    "group": "Invertebrata",
+    "genera": ["Drosophila", "Anopheles", "Aedes", "Culex", "Apis", "Bombus", "Pieris", "Papilio", "Heliconius", "Danaus", "Vanessa", "Polygonia", "Limenitis", "Speyeria", "Euphydryas", "Melitaea", "Maniola", "Coenonympha", "Lycaena", "Polyommatus", "Tetrix", "Chorthippus", "Schistocerca", "Locusta", "Gryllus", "Acheta", "Daphnia", "Bosmina", "Ceriodaphnia", "Simocephalus", "Hyalella", "Gammarus", "Orchestia", "Talitrus", "Tigriopus", "Mytilus", "Crassostrea", "Mercenaria", "Nucella", "Littorina", "Patella", "Cepaea", "Arianta", "Helix", "Biomphalaria", "Caenorhabditis", "Pristionchus", "Tetranychus", "Lymantria", "Operophtera", "Tribolium", "Tenebrio", "Aphis", "Myzus", "Bemisia", "Helicoverpa", "Spodoptera"],
+    "geographies": ["North America", "Europe", "Mediterranean", "temperate", "boreal"]
+  },
+  "plants": {
+    "group": "Plantae",
+    "genera": ["Pinus", "Picea", "Abies", "Quercus", "Fagus", "Acer", "Populus", "Betula", "Alnus", "Carpinus", "Tsuga", "Pseudotsuga", "Sequoia", "Sequoiadendron", "Juniperus", "Thuja", "Larix", "Salix", "Juglans", "Carya", "Castanea", "Fraxinus", "Tilia", "Ulmus"],
+    "geographies": ["North America", "Europe", "boreal", "temperate", "Appalachian", "Rocky Mountains"]
+  }
+}

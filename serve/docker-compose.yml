@@ -1,0 +1,29 @@
+# EcoSeek Genominer — population-genetic candidate + VCF database server
+#
+# Usage:
+#   docker compose up -d
+#   http://localhost:8651
+#
+# Public access via Cloudflare Tunnel (add genominer.ecoseek.org -> 127.0.0.1:8651)
+
+services:
+  genominer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ecoseek-genominer
+    ports:
+      - "127.0.0.1:8651:8651"
+    environment:
+      GENOMINER_DATA_DIR: "/data"
+      GENOMINER_PORT: "8651"
+      GENOMINER_BASE_URL: "https://genominer.ecoseek.org"
+    volumes:
+      - ../data:/data:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8651/api/health').read()"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s

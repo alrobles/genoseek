@@ -1,0 +1,37 @@
+#!/bin/bash
+#SBATCH --job-name=genominer_schedule_spa
+#SBATCH --output=logs/schedule_spa_%j.out
+#SBATCH --error=logs/schedule_spa_%j.err
+#SBATCH --partition=sixhour
+#SBATCH --account=kbs
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=8G
+#SBATCH --time=02:00:00
+
+set -euo pipefail
+
+if [ -n "${SLURM_SUBMIT_DIR:-}" ]; then
+    REPO_ROOT="${SLURM_SUBMIT_DIR}"
+else
+    REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+fi
+
+cd "${REPO_ROOT}"
+
+export SPA_REPO="${SPA_REPO:-$HOME/work/spa_1000_sp}"
+
+python3 scripts/schedule_spa.py \
+    --candidates data/candidates.tsv \
+    --groups config/target_groups.json \
+    --queue data/spa_queue.csv \
+    --spa-repo "$SPA_REPO" \
+    --min-occurrences 5000 \
+    --min-sra 5 \
+    --top-n 10 \
+    --max-points 120 \
+    --res-deg 0.5 \
+    --submit \
+    --partition sixhour \
+    --clim-dataset Krapp2021

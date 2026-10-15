@@ -1,0 +1,45 @@
+#!/bin/bash
+#SBATCH --job-name=genominer_candidates
+#SBATCH --output=logs/genominer_%j.out
+#SBATCH --error=logs/genominer_%j.err
+#SBATCH --partition=sixhour
+#SBATCH --account=kbs
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=16G
+#SBATCH --time=02:00:00
+
+set -euo pipefail
+
+if [ -n "${SLURM_SUBMIT_DIR:-}" ]; then
+    REPO_ROOT="${SLURM_SUBMIT_DIR}"
+else
+    REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+fi
+
+cd "${REPO_ROOT}"
+
+# Default index paths resolve under $GENOMINER_WORK;
+# set PUBMED_INDEX_DIR / GBIF_LITERATURE_DIR to override.
+export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
+export PUBMED_INDEX_DIR="${PUBMED_INDEX_DIR:-$GENOMINER_WORK/pubmed/index}"
+export GBIF_LITERATURE_DIR="${GBIF_LITERATURE_DIR:-$GENOMINER_WORK/gbif_literature}"
+export PYTHONUNBUFFERED=1
+export PYTHONDONTWRITEBYTECODE=1
+
+mkdir -p data logs
+
+python3 scripts/mine_candidates.py \
+    --seeds config/seeds.csv \
+    --groups config/target_groups.json \
+    --out data/genominer.db \
+    --tsv data/candidates.tsv \
+    --limit-per-query 50 \
+    --year-min 1990 \
+    --enrich-gbif \
+    --enrich-ncbi \
+    --enrich-places \
+    --top-n 100
+
+echo "genominer output written to ${REPO_ROOT}/data/"

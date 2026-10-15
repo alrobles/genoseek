@@ -1,0 +1,56 @@
+#!/bin/bash
+#SBATCH --job-name=genominer_build_db
+#SBATCH --output=logs/build_db_%j.out
+#SBATCH --error=logs/build_db_%j.err
+#SBATCH --partition=sixhour
+#SBATCH --account=kbs
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=8G
+#SBATCH --time=01:00:00
+
+set -euo pipefail
+
+if [ -n "${SLURM_SUBMIT_DIR:-}" ]; then
+    REPO_ROOT="${SLURM_SUBMIT_DIR}"
+else
+    REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+fi
+
+cd "${REPO_ROOT}"
+
+export PYTHONUNBUFFERED=1
+export PYTHONDONTWRITEBYTECODE=1
+
+# Configurable paths; override via env vars for your cluster.
+export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
+export SPA_REPO="${SPA_REPO:-$GENOMINER_WORK/spa_1000_sp}"
+export GENOMINER_SCRATCH="${GENOMINER_SCRATCH:-$HOME/genominer/scratch}"
+
+PUBLISH_ROOT="$GENOMINER_SCRATCH/publish"
+mkdir -p "$PUBLISH_ROOT/genominer" "$PUBLISH_ROOT/vcf_database"
+
+echo "=== Building genominer publish route ==="
+echo "publish root: $PUBLISH_ROOT"
+echo "spa repo:     $SPA_REPO"
+echo "genominer:    $REPO_ROOT"
+
+python3 scripts/build_genominer_database.py \
+    --data-dir data \
+    --vcf-manifest "$PUBLISH_ROOT/vcf_database/vcf_manifest.tsv" \
+    --repo "$SPA_REPO" \
+    --genominer-data data \
+    --out-db "$PUBLISH_ROOT/genominer/genominer.db" \
+    --publish-tsv "$PUBLISH_ROOT/genominer/genominer_catalog.tsv"
+
+# Generate a manifest for efficient downstream rsync.
+python3 scripts/generate_publish_manifest.py \
+    --db "$PUBLISH_ROOT/genominer/genominer.db" \
+    --publish-root "$PUBLISH_ROOT" \
+    --existing-only \
+    --out "$PUBLISH_ROOT/.publish_manifest.txt"
+
+echo "=== Done ==="
+echo "Route: $PUBLISH_ROOT"
+echo "Manifest: $PUBLISH_ROOT/.publish_manifest.txt"

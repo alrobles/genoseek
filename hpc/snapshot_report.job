@@ -1,0 +1,40 @@
+#!/bin/bash
+#SBATCH --job-name=genominer_snapshot
+#SBATCH --output=logs/snapshot_%j.out
+#SBATCH --error=logs/snapshot_%j.err
+#SBATCH --partition=sixhour
+#SBATCH --account=kbs
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=4G
+#SBATCH --time=00:30:00
+
+set -euo pipefail
+
+if [ -n "${SLURM_SUBMIT_DIR:-}" ]; then
+    REPO_ROOT="${SLURM_SUBMIT_DIR}"
+else
+    REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+fi
+
+cd "${REPO_ROOT}"
+
+export PYTHONUNBUFFERED=1
+export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
+export GENOMINER_SCRATCH="${GENOMINER_SCRATCH:-$HOME/genominer/scratch}"
+
+echo "=== Archiving cycle outputs + diffing vs previous snapshot ==="
+python3 scripts/snapshot_diff.py \
+    --data-dir data \
+    --snapshots-dir data/snapshots \
+    --min-sra 5 \
+    --vcf-manifest "$GENOMINER_SCRATCH/publish/vcf_database/vcf_manifest.tsv"
+
+echo "=== Progress report ==="
+python3 scripts/progress_report.py \
+    --db "$GENOMINER_SCRATCH/publish/genominer/genominer.db" \
+    --scratch "$GENOMINER_SCRATCH" \
+    --out-tsv "$GENOMINER_SCRATCH/publish/progress.tsv" || true
+
+echo "=== Snapshot cycle complete ==="

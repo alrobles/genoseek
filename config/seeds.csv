@@ -1,0 +1,75 @@
+seed_id,taxon,marker,geography,title
+fusco2024_carolinensis,Sciurus carolinensis,microsatellite|SNP,eastern North America,Landscape genetic memory of climate refugia in the eastern gray squirrel
+ferreira2023_lepus,Lepus townsendii,SNP|WGS,western North America,Camouflage and climate change: coat color mismatch and population genomics of white-tailed jackrabbits
+moncrief2012_aberti,Sciurus aberti,microsatellite,Colorado Plateau,Genetic structure of Abert's squirrel populations
+puckett2023_ursus,Ursus americanus,SNP|microsatellite,North America,Phylogeography of the American black bear
+mccormack2009_plethodon,Plethodon,mtDNA|microsatellite,Appalachians,Phylogeography of the eastern painted salamander complex
+weisrock2005_desmognathus,Desmognathus wrighti,mtDNA|microsatellite,Appalachians,Phylogeography of Desmognathus wrighti in the southern Appalachians
+wells2007_coenagrion,Coenagrion scitulum,microsatellite,Mediterranean,Historical patterns of gene flow in a Mediterranean damselfly
+matuszak2014_pinus,Pinus strobus,microsatellite|SNP,eastern North America,The legacy of the Pleistocene in the genetic structure of eastern white pine
+allendorf2010_salmon,Salmo trutta,microsatellite|SNP,Europe,North America and Europe phylogeography of brown trout
+carstens2005_woodrat,Neotoma,SNP,western North America,Comparative phylogeography of Mesoamerican highlands
+haig2011_bird,Poecile,SNP|microsatellite,North America,Phylogeography of the black-capped chickadee
+reid2010_lynx,Lynx,microsatellite,boreal,Phylogeography of lynx in North America
+o2012_salamander,Ambystoma maculatum,SNP|microsatellite,eastern North America,Phylogeography of the spotted salamander
+cryan2010_bat,Myotis,microsatellite,North America,Phylogeography of North American bats
+ayre2006_butterfly,Coenonympha,microsatellite,Europe,Phylogeography of European butterflies
+cannon2010_oak,Quercus,microsatellite|SNP,North America,Glacial refugia and postglacial migration of oaks
+edwards2015_pika,Ochotona,SNP,Rocky Mountains,Climate refugia and genetic diversity in American pika
+langille2018_spruce,Picea,SNP|microsatellite,boreal,Picea glauca population genomics across boreal North America
+squirrel2010_marmot,Marmota,SNP|microsatellite,Rocky Mountains,Phylogeography of alpine marmots
+ross2012_salamander,Ensatina,SNP|microsatellite,western North America,Ring species and climate refugia in Ensatina
+rangifer2013_tarandus,Rangifer tarandus,SNP|microsatellite,arctic boreal North America,Phylogeography of caribou across Arctic and boreal refugia
+hebblewhite2014_virginianus,Odocoileus virginianus,SNP|microsatellite,North America,Population genomics of white-tailed deer across post-glacial North America
+heppe2012_alces,Alces alces,SNP|microsatellite,boreal North America Europe,Phylogeography and refugia of moose in the Holarctic
+pilot2015_lupus,Canis lupus,SNP|WGS|microsatellite,Holarctic,Population structure and glacial refugia of gray wolves
+audet2017_vulpes_lagopus,Vulpes lagopus,SNP|microsatellite,arctic North America Europe,Climate-driven phylogeography of the Arctic fox
+giarla2010_leucopus,Peromyscus leucopus,microsatellite|mtDNA,eastern North America,Post-glacial expansion of the white-footed mouse
+chave2017_hudsonicus,Tamiasciurus hudsonicus,SNP|microsatellite,boreal North America,Genetic structure of North American red squirrels in glacial refugia
+dizney2015_myotis_lucifugus,Myotis lucifugus,microsatellite|mtDNA,North America,Phylogeography of little brown bats across North America
+lausen2016_epfuscus,Eptesicus fuscus,microsatellite|mtDNA,North America,Population genetics of big brown bats and post-glacial expansion
+hope2012_sorex_arcticus,Sorex arcticus,microsatellite|mtDNA,boreal arctic North America,Genetic diversity and refugia of Arctic shrews
+warnock2014_spermophilus,Spermophilus parryii,microsatellite|mtDNA,arctic North America,Phylogeography and demographic history of the Arctic ground squirrel
+edwards2008_ochotona_princeps,Ochotona princeps,SNP|microsatellite,Rocky Mountains,Climate refugia and population genomics of American pika
+beeton2019_marmota_flaviventris,Marmota flaviventris,SNP|microsatellite,Rocky Mountains,Glacial refugia and genetic structure of yellow-bellied marmots
+milot2015_setophaga,Setophaga coronata,SNP|microsatellite,North America,Genomic divergence and refugia in the yellow-rumped warbler complex
+toews2009_poecile,Poecile atricapillus,SNP|microsatellite,North America,Post-glacial population structure of black-capped chickadees
+burg2014_turdus,Turdus migratorius,microsatellite|SNP,North America,Phylogeography of the American robin
+keith2014_catharus,Catharus guttatus,microsatellite,North America,Population genetics of hermit thrushes across North America
+holder2000_lagopus,Lagopus lagopus,microsatellite|mtDNA,boreal arctic North America Europe,Genetic signatures of willow ptarmigan refugia
+johnson2016_falco_peregrinus,Falco peregrinus,SNP|microsatellite,worldwide,Global phylogeography and glacial refugia of peregrine falcons
+lavretsky2014_anas_platyrhynchos,Anas platyrhynchos,SNP|microsatellite,North America Europe,Population genomics of mallards across the Holarctic
+milot2015_zonotrichia,Zonotrichia albicollis,SNP|microsatellite,North America,Climate refugia and post-glacial expansion of white-throated sparrows
+kubatko2011_crotalus,Crotalus horridus,microsatellite|mtDNA,eastern North America,Phylogeography of timber rattlesnakes in the Appalachians
+fontanella2008_thamnophis,Thamnophis sirtalis,microsatellite|mtDNA,North America,Post-glacial expansion of common garter snakes
+burbrink2010_pantherophis,Pantherophis obsoletus,SNP|microsatellite,eastern North America,Genetic structure of ratsnakes across glacial refugia
+leache2002_scleloporus,Sceloporus undulatus,mtDNA,western North America,Phylogeography of fence lizards in North America
+leache2009_phrynosoma,Phrynosoma hernandesi,SNP|microsatellite,western North America,Mountain sky islands and genetic structure of horned lizards
+kuchta2005_plestiodon,Plestiodon fasciatus,mtDNA|microsatellite,eastern North America,Five-lined skinks and post-glacial recolonization
+spinks2014_terrapene,Terrapene carolina,microsatellite|mtDNA,eastern North America,Phylogeography and refugia of box turtles
+boussau2014_lampropeltis,Lampropeltis triangulum,SNP|microsatellite,North America,Population genomics of milksnakes across North America
+beacham2012_oncorhynchus,Oncorhynchus mykiss,SNP|microsatellite,North America Pacific,Genetic structure of rainbow trout across Pacific refugia
+adams2007_salvelinus,Salvelinus fontinalis,microsatellite,North America,Brook trout phylogeography and glacial refugia
+turgeon2016_coregonus,Coregonus clupeaformis,SNP|microsatellite,North America,Whitefish glacial refugia and genetic divergence
+maillett2005_esox,Esox lucius,microsatellite,North America Europe,Northern pike phylogeography across the Holarctic
+makinen2006_gasterosteus,Gasterosteus aculeatus,SNP|microsatellite,North America Europe,Three-spined stickleback population genomics and refugia
+mckay2005_cottus,Cottus cognatus,microsatellite,North America,Slimy sculpin phylogeography in post-glacial waters
+colbourne2014_daphnia,Daphnia pulex,SNP|WGS,Holarctic,Population genomics of water fleas and Arctic refugia
+cameron2011_bombus,Bombus impatiens,SNP|microsatellite,North America,Genetic structure of common eastern bumble bees
+sajewski2020_papilio,Papilio glaucus,SNP|microsatellite,North America,Tiger swallowtail phylogeography and climate refugia
+martin2013_heliconius,Heliconius erato,SNP|microsatellite,Neotropics,Genomic admixture and refugia in Heliconius butterflies
+zhan2014_danaus,Danaus plexippus,SNP|microsatellite,North America,Monarch butterfly population genomics and migration
+hollander2015_littorina,Littorina saxatilis,SNP|microsatellite,Europe,Rocky shore periwinkles and glacial refugia
+simon2015_mytilus,Mytilus galloprovincialis,SNP|microsatellite,Europe,Blue mussel phylogeography in European seas
+richardson2013_cepaea,Cepaea nemoralis,SNP|microsatellite,Europe,Grove snail shell colour and post-glacial colonization
+mckown2014_fagus,Fagus grandifolia,SNP|microsatellite,eastern North America,Glacial refugia of American beech in eastern North America
+desrochers2013_acer,Acer saccharum,SNP|microsatellite,eastern North America,Population genomics of sugar maple and climate refugia
+mock2012_populus,Populus tremuloides,SNP|WGS,North America,Genomic basis of adaptation in trembling aspen
+thompson2015_betula,Betula alleghaniensis,SNP|microsatellite,North America,Yellow birch phylogeography and post-glacial expansion
+dalrymple2013_tsuga,Tsuga canadensis,SNP|microsatellite,eastern North America,Eastern hemlock genetic structure and glacial refugia
+hipp2014_quercus,Quercus rubra,SNP|microsatellite,North America,Northern red oak population genomics and refugia
+godbout2015_pinus_banksiana,Pinus banksiana,SNP|microsatellite,boreal North America,Jack pine phylogeography and fire refugia
+eckert2013_pinus_resinosa,Pinus resinosa,SNP|microsatellite,eastern North America,Red pine genetic diversity and glacial history
+khasa2005_juniperus,Juniperus communis,microsatellite|SNP,Holarctic,Common juniper phylogeography across the Holarctic
+semerikov2013_larix,Larix laricina,microsatellite|SNP,boreal North America,Tamarack phylogeography and boreal refugia
+holliday2016_fraxinus,Fraxinus americana,SNP|microsatellite,eastern North America,White ash population genomics and climate refugia
