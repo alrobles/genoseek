@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Safe scratch cleanup for genominer/spa_1000_sp WGS pipelines.
+"""Safe scratch cleanup for genoseek/spa_1000_sp WGS pipelines.
 
 Removes raw/temporary data while keeping final VCFs, popmaps, GST/FST CSVs,
 reference genomes and the published catalog. Run with `--dry-run` first.
 
 Example:
     python3 scripts/clean_scratch.py \
-        --db $HOME/genominer/scratch/publish/genominer/genominer.db \
-        --scratch $HOME/genominer/scratch \
+        --db $HOME/genoseek/scratch/publish/genoseek/genoseek.db \
+        --scratch $HOME/genoseek/scratch \
         --dry-run
 """
 
@@ -69,7 +69,7 @@ def _active_datasets() -> set[str]:
 
 
 def _published_datasets(db_path: Path) -> set[str]:
-    """Dataset keys that have a published VCF in genominer.db."""
+    """Dataset keys that have a published VCF in genoseek.db."""
     if not db_path.exists():
         return set()
     conn = sqlite3.connect(db_path)
@@ -128,10 +128,10 @@ def _maybe_remove(path: Path, reason: str, actions: list[tuple[str, int]], dry_r
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
     default_db = os.environ.get(
-        "GENOMINER_DB",
-        os.environ.get("GENOMINER_SCRATCH", str(Path.home() / "genominer" / "scratch")) + "/publish/genominer/genominer.db",
+        "GENOSEEK_DB",
+        os.environ.get("GENOSEEK_SCRATCH", str(Path.home() / "genoseek" / "scratch")) + "/publish/genoseek/genoseek.db",
     )
-    default_scratch = os.environ.get("GENOMINER_SCRATCH", str(Path.home() / "genominer" / "scratch"))
+    default_scratch = os.environ.get("GENOSEEK_SCRATCH", str(Path.home() / "genoseek" / "scratch"))
     p.add_argument("--db", default=default_db)
     p.add_argument("--scratch", default=default_scratch)
     p.add_argument("--dry-run", action="store_true")

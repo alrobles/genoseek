@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Build a single genominer SQLite database from existing TSVs and VCF outputs.
+"""Build a single genoseek SQLite database from existing TSVs and VCF outputs.
 
 Usage:
-    python3 scripts/build_genominer_database.py \
+    python3 scripts/build_genoseek_database.py \
         --data-dir data \
         --vcf-manifest /path/to/vcf_manifest.tsv \
-        --out-db data/genominer.db \
-        --publish-tsv publish/genominer_catalog.tsv
+        --out-db data/genoseek.db \
+        --publish-tsv publish/genoseek_catalog.tsv
 
 The database is meant to be regenerated after each mining/pipeline pass. Do not
 commit the SQLite file or the generated catalog TSV; both can be large.
@@ -105,7 +105,7 @@ def _binomial_for_dataset(
 
 
 def _dataset_to_binomial(conn: sqlite3.Connection) -> dict[str, str]:
-    """Build a dataset -> binomial map from genominer tables."""
+    """Build a dataset -> binomial map from genoseek tables."""
     mapping: dict[str, str] = {}
     old = conn.row_factory
     conn.row_factory = sqlite3.Row
@@ -144,7 +144,7 @@ def _find_popmap(
     binomial: str,
     src_vcf: Path,
     repo: Path | None,
-    genominer_data: Path | None,
+    genoseek_data: Path | None,
 ) -> Path | None:
     """Locate a popmap TSV for a VCF dataset."""
     norm = _normalize_dataset(dataset)
@@ -157,10 +157,10 @@ def _find_popmap(
         if repo:
             places.append(repo / "results" / base_name)
             places.append(repo / "data" / "external" / base_name)
-    # genominer data/genetic/<binomial>
-    if binomial and genominer_data:
+    # genoseek data/genetic/<binomial>
+    if binomial and genoseek_data:
         key = binomial.replace(" ", "_").lower()
-        places.append(genominer_data / "genetic" / key)
+        places.append(genoseek_data / "genetic" / key)
     candidates: list[Path] = []
     for place in places:
         if not place or not place.exists():
@@ -222,7 +222,7 @@ def _copy_sidecars(
     conn: sqlite3.Connection,
     publish_root: Path,
     repo: Path | None,
-    genominer_data: Path | None,
+    genoseek_data: Path | None,
 ):
     """Copy popmap + GST/FST sidecars next to published VCFs and record their relative paths."""
     # Ensure columns exist
@@ -258,7 +258,7 @@ def _copy_sidecars(
         # popmap
         popmap_src = Path(row["popmap_path"]) if row["popmap_path"] else None
         if not popmap_src or not popmap_src.exists():
-            popmap_src = _find_popmap(dataset, binomial, src_vcf, repo, genominer_data)
+            popmap_src = _find_popmap(dataset, binomial, src_vcf, repo, genoseek_data)
         if popmap_src and popmap_src.exists():
             popmap_dst = dst_dir / "popmap.tsv"
             shutil.copy2(popmap_src, popmap_dst)
@@ -486,16 +486,16 @@ def _create_catalog(conn: sqlite3.Connection, publish_path: Path):
 
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--data-dir", default="data", help="Directory containing genominer TSVs")
+    p.add_argument("--data-dir", default="data", help="Directory containing genoseek TSVs")
     p.add_argument("--vcf-manifest", default=None, help="Path to spa_1000_sp vcf_manifest.tsv")
     default_repo = os.environ.get(
         "SPA_REPO",
-        os.environ.get("GENOMINER_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
+        os.environ.get("GENOSEEK_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
     )
     p.add_argument("--repo", default=default_repo, help="Path to spa_1000_sp repo for results/scratch")
-    p.add_argument("--genominer-data", default="data", help="Path to genominer data dir (contains genetic/)")
-    p.add_argument("--out-db", default="data/genominer.db", help="Output SQLite path")
-    p.add_argument("--publish-tsv", default="publish/genominer_catalog.tsv", help="Flat catalog TSV")
+    p.add_argument("--genoseek-data", default="data", help="Path to genoseek data dir (contains genetic/)")
+    p.add_argument("--out-db", default="data/genoseek.db", help="Output SQLite path")
+    p.add_argument("--publish-tsv", default="publish/genoseek_catalog.tsv", help="Flat catalog TSV")
     args = p.parse_args()
 
     data_dir = Path(args.data_dir)
@@ -554,7 +554,7 @@ def main() -> int:
             conn,
             publish_root,
             Path(args.repo) if args.repo else None,
-            Path(args.genominer_data) if args.genominer_data else None,
+            Path(args.genoseek_data) if args.genoseek_data else None,
         )
     else:
         print("[info] No --vcf-manifest provided, skipping vcf_outputs table")

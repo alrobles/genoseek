@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=genominer_ingest_genetic
+#SBATCH --job-name=genoseek_ingest_genetic
 #SBATCH --output=logs/ingest_genetic_candidates_%j.out
 #SBATCH --error=logs/ingest_genetic_candidates_%j.err
 #SBATCH --partition=sixhour
@@ -16,8 +16,8 @@ cd "${SLURM_SUBMIT_DIR}"
 
 export PYTHONUNBUFFERED=1
 export PYTHONDONTWRITEBYTECODE=1
-export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
-export ENTREZ_KEY_FILE="${ENTREZ_KEY_FILE:-$GENOMINER_WORK/../env/nih-entrez-key}"
+export GENOSEEK_WORK="${GENOSEEK_WORK:-$HOME/work}"
+export ENTREZ_KEY_FILE="${ENTREZ_KEY_FILE:-$GENOSEEK_WORK/../env/nih-entrez-key}"
 
 export ENTREZ_API_KEY=$(python3 - <<'PY'
 import os

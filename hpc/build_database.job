@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=genominer_build_db
+#SBATCH --job-name=genoseek_build_db
 #SBATCH --output=logs/build_db_%j.out
 #SBATCH --error=logs/build_db_%j.err
 #SBATCH --partition=sixhour
@@ -24,29 +24,29 @@ export PYTHONUNBUFFERED=1
 export PYTHONDONTWRITEBYTECODE=1
 
 # Configurable paths; override via env vars for your cluster.
-export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
-export SPA_REPO="${SPA_REPO:-$GENOMINER_WORK/spa_1000_sp}"
-export GENOMINER_SCRATCH="${GENOMINER_SCRATCH:-$HOME/genominer/scratch}"
+export GENOSEEK_WORK="${GENOSEEK_WORK:-$HOME/work}"
+export SPA_REPO="${SPA_REPO:-$GENOSEEK_WORK/spa_1000_sp}"
+export GENOSEEK_SCRATCH="${GENOSEEK_SCRATCH:-$HOME/genoseek/scratch}"
 
-PUBLISH_ROOT="$GENOMINER_SCRATCH/publish"
-mkdir -p "$PUBLISH_ROOT/genominer" "$PUBLISH_ROOT/vcf_database"
+PUBLISH_ROOT="$GENOSEEK_SCRATCH/publish"
+mkdir -p "$PUBLISH_ROOT/genoseek" "$PUBLISH_ROOT/vcf_database"
 
-echo "=== Building genominer publish route ==="
+echo "=== Building genoseek publish route ==="
 echo "publish root: $PUBLISH_ROOT"
 echo "spa repo:     $SPA_REPO"
-echo "genominer:    $REPO_ROOT"
+echo "genoseek:    $REPO_ROOT"
 
-python3 scripts/build_genominer_database.py \
+python3 scripts/build_genoseek_database.py \
     --data-dir data \
     --vcf-manifest "$PUBLISH_ROOT/vcf_database/vcf_manifest.tsv" \
     --repo "$SPA_REPO" \
-    --genominer-data data \
-    --out-db "$PUBLISH_ROOT/genominer/genominer.db" \
-    --publish-tsv "$PUBLISH_ROOT/genominer/genominer_catalog.tsv"
+    --genoseek-data data \
+    --out-db "$PUBLISH_ROOT/genoseek/genoseek.db" \
+    --publish-tsv "$PUBLISH_ROOT/genoseek/genoseek_catalog.tsv"
 
 # Generate a manifest for efficient downstream rsync.
 python3 scripts/generate_publish_manifest.py \
-    --db "$PUBLISH_ROOT/genominer/genominer.db" \
+    --db "$PUBLISH_ROOT/genoseek/genoseek.db" \
     --publish-root "$PUBLISH_ROOT" \
     --existing-only \
     --out "$PUBLISH_ROOT/.publish_manifest.txt"

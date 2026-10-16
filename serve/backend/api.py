@@ -1,11 +1,11 @@
-"""EcoSeek Genominer — population-genetic candidate + VCF database server.
+"""EcoSeek GenoSeek — population-genetic candidate + VCF database server.
 
 Mirrors the EcoSeek Bioclim file-server pattern:
-  https://genominer.ecoseek.org  (public via Cloudflare Tunnel)
+  https://genoseek.ecoseek.org  (public via Cloudflare Tunnel)
   http://127.0.0.1:8651          (local Docker)
 
 The server is read-only: it serves the SQLite catalog built by
-scripts/build_genominer_database.py and the VCF files stored next to it.
+scripts/build_genoseek_database.py and the VCF files stored next to it.
 """
 from __future__ import annotations
 
@@ -25,14 +25,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, HTMLResponse, PlainTextResponse, RedirectResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-DATA_DIR = Path(os.environ.get("GENOMINER_DATA_DIR", "/data"))
-PORT = int(os.environ.get("GENOMINER_PORT", "8651"))
-BASE_URL = os.environ.get("GENOMINER_BASE_URL", f"http://127.0.0.1:{PORT}")
+DATA_DIR = Path(os.environ.get("GENOSEEK_DATA_DIR", "/data"))
+PORT = int(os.environ.get("GENOSEEK_PORT", "8651"))
+BASE_URL = os.environ.get("GENOSEEK_BASE_URL", f"http://127.0.0.1:{PORT}")
 
-DB_PATH = DATA_DIR / "genominer.db"
+DB_PATH = DATA_DIR / "genoseek.db"
 STATIC_DIR = Path(__file__).parent.parent / "frontend" / "public"
 
-app = FastAPI(title="EcoSeek Genominer", version="0.2.0")
+app = FastAPI(title="EcoSeek GenoSeek", version="0.2.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -45,7 +45,7 @@ if STATIC_DIR.exists():
 
 def _db() -> sqlite3.Connection:
     if not DB_PATH.exists():
-        raise HTTPException(status_code=503, detail="genominer.db not found")
+        raise HTTPException(status_code=503, detail="genoseek.db not found")
     conn = sqlite3.connect(DB_PATH, check_same_thread=False)
     conn.row_factory = sqlite3.Row
     return conn
@@ -154,7 +154,7 @@ def _vcf_chart_svg() -> str:
 
 
 def _dataset_to_binomial() -> dict[str, str]:
-    """Build a dataset -> binomial map from genominer tables."""
+    """Build a dataset -> binomial map from genoseek tables."""
     mapping: dict[str, str] = {}
     for table in ("genetic_ingest_report", "spa_ready_candidates"):
         try:
@@ -235,7 +235,7 @@ tr:hover { background: rgba(0,0,0,.02); }
 THEME_JS = """
 <script>
 (function(){
-  const key='genominer-theme';
+  const key='genoseek-theme';
   const root=document.documentElement;
   const saved=localStorage.getItem(key);
   if(saved){ root.setAttribute('data-theme', saved); }
@@ -577,7 +577,7 @@ def landing(
     body = f"""
     <div class="hero">
       <img src="/static/ecoseek-logo.svg" alt="EcoSeek">
-      <h1>EcoSeek Genominer</h1>
+      <h1>EcoSeek GenoSeek</h1>
       <p>Population-genetic candidate species, reference genomes, and clean VCFs for landscape-genetic / refugia analyses.</p>
     </div>
     <div class="container">
@@ -650,10 +650,10 @@ def landing(
     </div>
     <div class="footer">
       <a href="https://ecoseek.org">EcoSeek</a> ·
-      <a href="https://github.com/alrobles/genominer">Source</a>
+      <a href="https://github.com/alrobles/genoseek">Source</a>
     </div>
     """
-    return _html_page("EcoSeek Genominer", body)
+    return _html_page("EcoSeek GenoSeek", body)
 
 
 if __name__ == "__main__":

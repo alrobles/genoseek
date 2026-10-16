@@ -3,7 +3,7 @@
 
 Usage:
     python3 scripts/mine_candidates.py --seeds config/seeds.csv \
-        --groups config/target_groups.json --out data/genominer.db \
+        --groups config/target_groups.json --out data/mine.db \
         --tsv data/candidates.tsv --limit-per-query 100 \
         --enrich-gbif --enrich-ncbi --enrich-places --top-n 50
 """
@@ -77,7 +77,7 @@ def main():
     parser = argparse.ArgumentParser(description="Mine literature for population-genetic candidates.")
     parser.add_argument("--seeds", default="config/seeds.csv")
     parser.add_argument("--groups", default="config/target_groups.json")
-    parser.add_argument("--out", default="data/genominer.db")
+    parser.add_argument("--out", default="data/mine.db")
     parser.add_argument("--tsv", default="data/candidates.tsv")
     parser.add_argument("--limit-per-query", type=int, default=100)
     parser.add_argument("--year-min", type=int, default=1990)

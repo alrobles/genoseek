@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=genominer_snapshot
+#SBATCH --job-name=genoseek_snapshot
 #SBATCH --output=logs/snapshot_%j.out
 #SBATCH --error=logs/snapshot_%j.err
 #SBATCH --partition=sixhour
@@ -21,20 +21,20 @@ fi
 cd "${REPO_ROOT}"
 
 export PYTHONUNBUFFERED=1
-export GENOMINER_WORK="${GENOMINER_WORK:-$HOME/work}"
-export GENOMINER_SCRATCH="${GENOMINER_SCRATCH:-$HOME/genominer/scratch}"
+export GENOSEEK_WORK="${GENOSEEK_WORK:-$HOME/work}"
+export GENOSEEK_SCRATCH="${GENOSEEK_SCRATCH:-$HOME/genoseek/scratch}"
 
 echo "=== Archiving cycle outputs + diffing vs previous snapshot ==="
 python3 scripts/snapshot_diff.py \
     --data-dir data \
     --snapshots-dir data/snapshots \
     --min-sra 5 \
-    --vcf-manifest "$GENOMINER_SCRATCH/publish/vcf_database/vcf_manifest.tsv"
+    --vcf-manifest "$GENOSEEK_SCRATCH/publish/vcf_database/vcf_manifest.tsv"
 
 echo "=== Progress report ==="
 python3 scripts/progress_report.py \
-    --db "$GENOMINER_SCRATCH/publish/genominer/genominer.db" \
-    --scratch "$GENOMINER_SCRATCH" \
-    --out-tsv "$GENOMINER_SCRATCH/publish/progress.tsv" || true
+    --db "$GENOSEEK_SCRATCH/publish/genoseek/genoseek.db" \
+    --scratch "$GENOSEEK_SCRATCH" \
+    --out-tsv "$GENOSEEK_SCRATCH/publish/progress.tsv" || true
 
 echo "=== Snapshot cycle complete ==="

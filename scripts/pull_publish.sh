@@ -1,25 +1,25 @@
 #!/usr/bin/env bash
-# Efficient rsync of a genominer publish route from an HPC cluster to a local path.
+# Efficient rsync of a genoseek publish route from an HPC cluster to a local path.
 #
-# The script generates a manifest on the HPC side from genominer.db, then
+# The script generates a manifest on the HPC side from genoseek.db, then
 # rsyncs only the listed files. This avoids scanning the entire scratch tree
 # and lets us resume interrupted transfers of large VCFs.
 #
 # Example:
 #   HPC_USER=you \
 #   HPC_HOST=hpc.example.edu \
-#   HPC_PUBLISH_ROOT=/scratch/you/genominer/publish \
-#   HPC_GENOMINER_REPO=/home/you/work/genominer \
-#   LOCAL_TARGET=$HOME/genominer/data \
+#   HPC_PUBLISH_ROOT=/scratch/you/genoseek/publish \
+#   HPC_GENOSEEK_REPO=/home/you/work/genoseek \
+#   LOCAL_TARGET=$HOME/genoseek/data \
 #   bash scripts/pull_publish.sh
 
 set -euo pipefail
 
 HPC_USER="${HPC_USER:-$USER}"
 HPC_HOST="${HPC_HOST:-hpc.example.edu}"
-HPC_PUBLISH_ROOT="${HPC_PUBLISH_ROOT:-/scratch/$HPC_USER/genominer/publish}"
-HPC_GENOMINER_REPO="${HPC_GENOMINER_REPO:-/home/$HPC_USER/work/genominer}"
-LOCAL_TARGET="${LOCAL_TARGET:-$HOME/genominer/data}"
+HPC_PUBLISH_ROOT="${HPC_PUBLISH_ROOT:-/scratch/$HPC_USER/genoseek/publish}"
+HPC_GENOSEEK_REPO="${HPC_GENOSEEK_REPO:-/home/$HPC_USER/work/genoseek}"
+LOCAL_TARGET="${LOCAL_TARGET:-$HOME/genoseek/data}"
 
 LOCK_FILE="${LOCAL_TARGET}/.pull_publish.lock"
 
@@ -41,15 +41,15 @@ mkdir -p "$LOCAL_TARGET"
 
 # Generate manifest on the HPC side.
 # This list contains relative paths like:
-#   genominer/genominer.db
-#   genominer/genominer_catalog.tsv
+#   genoseek/genoseek.db
+#   genoseek/genoseek_catalog.tsv
 #   vcf_database/vcf_manifest.tsv
 #   vcf_database/files/<dataset>/<vcf_type>/...
 MANIFEST_REMOTE="/tmp/publish_manifest_${HPC_USER}.txt"
 echo "=== Generating manifest on $HPC_HOST ==="
 ssh "${HPC_USER}@${HPC_HOST}" \
-    "python3 ${HPC_GENOMINER_REPO}/scripts/generate_publish_manifest.py \
-        --db ${HPC_PUBLISH_ROOT}/genominer/genominer.db \
+    "python3 ${HPC_GENOSEEK_REPO}/scripts/generate_publish_manifest.py \
+        --db ${HPC_PUBLISH_ROOT}/genoseek/genoseek.db \
         --publish-root ${HPC_PUBLISH_ROOT} \
         --existing-only \
         --out ${MANIFEST_REMOTE}"

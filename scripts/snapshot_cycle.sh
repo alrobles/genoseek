@@ -1,23 +1,23 @@
 #!/usr/bin/env bash
-# genominer mining-cycle driver.
+# genoseek mining-cycle driver.
 #
-# Submits the full genominer Slurm chain on the HPC cluster:
+# Submits the full genoseek Slurm chain on the HPC cluster:
 #   mine_candidates -> ingest_and_combine -> build_database -> snapshot_report
 #
 # Designed to be invoked from cron on any host with ssh access to the cluster
 # (e.g. a sync/serving host), or run directly on the login node.
 #
 # Suggested cron (biweekly, 1st and 15th at 06:00):
-#   0 6 1,15 * *  $HOME/genominer/scripts/snapshot_cycle.sh >> $HOME/logs/genominer_cycle.log 2>&1
+#   0 6 1,15 * *  $HOME/genoseek/scripts/snapshot_cycle.sh >> $HOME/logs/genoseek_cycle.log 2>&1
 #
 set -euo pipefail
 
 HPC_USER="${HPC_USER:-$USER}"
 HPC_HOST="${HPC_HOST:-hpc.example.edu}"
 HPC_KEY="${HPC_KEY:-$HOME/.ssh/id_ed25519}"
-HPC_REPO="${HPC_REPO:-/home/$HPC_USER/work/genominer}"
+HPC_REPO="${HPC_REPO:-/home/$HPC_USER/work/genoseek}"
 
-echo "=== $(date -Iseconds) genominer snapshot cycle ==="
+echo "=== $(date -Iseconds) genoseek snapshot cycle ==="
 
 # Local mode only where sbatch exists (the HPC login node); everywhere else
 # drive the submission over ssh (e.g. from a sync-host cron).
@@ -41,6 +41,6 @@ run_remote "cd $HPC_REPO && git fetch origin && git merge --ff-only origin/main 
     || echo "[warn] repo update failed; continuing with current checkout"
 
 echo "--- submitting slurm chain ---"
-run_remote "cd $HPC_REPO && mkdir -p logs && bash genominer_submit.sh"
+run_remote "cd $HPC_REPO && mkdir -p logs && bash genoseek_submit.sh"
 
 echo "=== cycle submitted ==="

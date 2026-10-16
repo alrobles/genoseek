@@ -23,13 +23,13 @@ from src import spa_scheduler
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Queue and submit SPA jobs from genominer candidates.")
+    parser = argparse.ArgumentParser(description="Queue and submit SPA jobs from genoseek candidates.")
     parser.add_argument("--candidates", default="data/candidates.tsv")
     parser.add_argument("--groups", default="config/target_groups.json")
     parser.add_argument("--queue", default="data/spa_queue.csv")
     default_spa_repo = os.environ.get(
         "SPA_REPO",
-        os.environ.get("GENOMINER_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
+        os.environ.get("GENOSEEK_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
     )
     parser.add_argument("--spa-repo", default=default_spa_repo)
     parser.add_argument("--min-occurrences", type=int, default=5000)
@@ -60,7 +60,7 @@ def main():
     spa_scheduler.write_species_manifest_rows(args.queue, species_csv, mode="append")
     print(f"Appended {len(queue)} rows to {species_csv}")
 
-    # 3. Prepare occurrence files (prefer genetic coords ingested by genominer)
+    # 3. Prepare occurrence files (prefer genetic coords ingested by genoseek)
     repo_dir = Path(__file__).resolve().parents[1]
     prepared = spa_scheduler.prepare_occurrences(
         args.queue,

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Dated, hardlink-deduplicated snapshot of the live genominer data dir onto an
+# Dated, hardlink-deduplicated snapshot of the live genoseek data dir onto an
 # archive disk (e.g. an external USB drive on the serving host).
 #
 # Source is the LOCAL serving copy (kept fresh by a periodic sync cron), so
@@ -8,13 +8,13 @@
 # Snapshots are independent: deleting an old one never breaks newer ones.
 #
 # Suggested cron (daily 03:30):
-#   30 3 * * *  $HOME/genominer/scripts/snapshot_disk.sh >> $HOME/logs/snapshot_disk.log 2>&1
+#   30 3 * * *  $HOME/genoseek/scripts/snapshot_disk.sh >> $HOME/logs/snapshot_disk.log 2>&1
 #
 set -euo pipefail
 
-LIVE_DIR="${LIVE_DIR:-$HOME/genominer/data}"
+LIVE_DIR="${LIVE_DIR:-$HOME/genoseek/data}"
 # Point SNAP_ROOT at an external/archive disk.
-SNAP_ROOT="${SNAP_ROOT:-$HOME/genominer_snapshots}"
+SNAP_ROOT="${SNAP_ROOT:-$HOME/genoseek_snapshots}"
 KEEP="${KEEP:-8}"
 
 TODAY="$(date +%F)"

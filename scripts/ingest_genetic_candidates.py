@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ingest SRA/BioSample metadata for the top genominer candidates and build popmaps.
+"""Ingest SRA/BioSample metadata for the top genoseek candidates and build popmaps.
 
 Usage:
     python3 scripts/ingest_genetic_candidates.py \

@@ -7,13 +7,13 @@ from typing import Optional
 
 
 # Allow one env var to set the whole work tree, or set the specific index dirs.
-_GENOMINER_WORK = os.environ.get("GENOMINER_WORK", str(Path.home() / "work"))
+_GENOSEEK_WORK = os.environ.get("GENOSEEK_WORK", str(Path.home() / "work"))
 PUBMED_DB = os.path.join(
-    os.environ.get("PUBMED_INDEX_DIR", os.path.join(_GENOMINER_WORK, "pubmed", "index")),
+    os.environ.get("PUBMED_INDEX_DIR", os.path.join(_GENOSEEK_WORK, "pubmed", "index")),
     "pubmed_fts.db",
 )
 GBIF_DB = os.path.join(
-    os.environ.get("GBIF_LITERATURE_DIR", os.path.join(_GENOMINER_WORK, "gbif_literature")),
+    os.environ.get("GBIF_LITERATURE_DIR", os.path.join(_GENOSEEK_WORK, "gbif_literature")),
     "gbif_literature_fts.db",
 )
 

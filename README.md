@@ -2,7 +2,7 @@
 
 **GenoSeek** is a reproducible pipeline and database that mines the primary literature to discover species with population-genetic data, geographic coverage, and a usable reference genome for landscape-genetic and glacial-refugia studies.
 
-Live catalog: [genominer.ecoseek.org](https://genominer.ecoseek.org) · Web frontend: [alrobles/genoseek-web-devel](https://github.com/alrobles/genoseek-web-devel)
+Live catalog: [genoseek.ecoseek.org](https://genoseek.ecoseek.org) · Web frontend: [alrobles/genoseek-web-devel](https://github.com/alrobles/genoseek-web-devel)
 
 It is intended to be a **publishable, queryable database of candidate species** linking:
 - papers (PubMed / GBIF Literature),
@@ -26,7 +26,7 @@ The pipeline currently has three stages:
    - Scores and deduplicates candidate species × paper pairs.
    - Enriches each candidate with GBIF occurrence counts/extent and NCBI SRA / BioSample / BioProject counts.
    - Extracts geographic place names from abstracts.
-   - Exports `data/genominer.db` and `data/candidates.tsv`.
+   - Exports `data/genoseek.db` and `data/candidates.tsv`.
 
 2. **Genetic metadata ingestion** (`scripts/ingest_genetic_candidates.py`)
    - For each top candidate, queries NCBI SRA and BioSample.
@@ -53,7 +53,7 @@ export GBIF_LITERATURE_DIR=$HOME/work/gbif_literature
 # 1. Mine literature
 python3 scripts/mine_candidates.py \
   --seeds config/seeds.csv \
-  --out data/genominer.db \
+  --out data/mine.db \
   --tsv data/candidates.tsv \
   --enrich-gbif --enrich-ncbi --enrich-places
 
@@ -99,7 +99,7 @@ python3 scripts/combine_spa_ready_report.py \
 | `data/reference_genome_report.tsv` | Recommended reference genome per species: accession, assembly level, size, FTP URL. |
 | `data/spa_ready_candidates.tsv` | Combined, ranked table with `ready_for_spa` and `ready_for_wgs_gst` flags. |
 | `data/genetic/<dataset>/` | Per-candidate SRA runinfo, BioSample attributes, sample coordinates, popmap, and population coordinates. |
-| `data/genominer.db` | SQLite database with `papers`, `candidates`, and `paper_candidate` tables. |
+| `data/genoseek.db` | SQLite database with `papers`, `candidates`, and `paper_candidate` tables. |
 
 ## License
 

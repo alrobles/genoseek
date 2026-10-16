@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Combine genominer candidate, genetic-ingest and reference-genome reports
+"""Combine genoseek candidate, genetic-ingest and reference-genome reports
 into an actionable SPA-ready candidate table.
 """
 from __future__ import annotations

@@ -22,8 +22,8 @@ No Python dependencies beyond the standard library are required for the core pip
 
 4. Inspect results:
    ```bash
-   sqlite3 data/genominer.db ".schema"
-   sqlite3 data/genominer.db "SELECT * FROM candidates ORDER BY score DESC LIMIT 20;"
+   sqlite3 data/mine.db ".schema"
+   sqlite3 data/mine.db "SELECT * FROM candidates ORDER BY score DESC LIMIT 20;"
    ```
 
 ## Cluster workflow
@@ -38,14 +38,14 @@ sbatch hpc/mine_candidates.job
 - `config/seeds.csv` — seed papers / taxon-marker-geography combinations.
 - `config/taxa/salamander_genera.txt` — example taxonomic filter.
 - `data/candidates.tsv` — flat candidate summary.
-- `data/genominer.db` — relational output (papers, candidates, links).
+- `data/mine.db` — relational output (papers, candidates, links).
 
 ## Snapshot system
 
 Each mining cycle freezes its outputs and diffs them against the previous
 cycle so new discoveries are tracked:
 
-- `genominer_submit.sh` chains four Slurm jobs: `mine_candidates` →
+- `genoseek_submit.sh` chains four Slurm jobs: `mine_candidates` →
   `ingest_and_combine` → `build_database` → `snapshot_report`.
 - `scripts/snapshot_diff.py` archives `data/*.tsv` into
   `data/snapshots/<YYYY-MM-DD>/` and writes `new_species.tsv` (binomials not

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_DIR="${REPO_DIR:-$HOME/work/genominer}"
+REPO_DIR="${REPO_DIR:-$HOME/work/genoseek}"
 SPA_REPO="${SPA_REPO:-$HOME/work/spa_1000_sp}"
 QUEUE="${QUEUE:-data/spa_ready_queue.csv}"
 LOG="${LOG:-${REPO_DIR}/schedule_spa_ready.log}"
@@ -12,12 +12,12 @@ cd "${REPO_DIR}"
 git fetch origin
 git checkout origin/devin/schedule-spa-ready -- scripts/schedule_spa.py src/spa_scheduler.py
 
-# Pull latest candidate tables via relay repo (not tracked in genominer to avoid large data commits)
+# Pull latest candidate tables via relay repo (not tracked in genoseek to avoid large data commits)
 RELAY_DIR="${RELAY_DIR:-/tmp/genrelay_$$}"
 rm -rf "${RELAY_DIR}"
 git clone https://github.com/alrobles/test.git "${RELAY_DIR}" --depth 1
-cp "${RELAY_DIR}/genominer_data/candidates.tsv" data/candidates.tsv
-cp "${RELAY_DIR}/genominer_data/spa_ready_candidates.tsv" data/spa_ready_candidates.tsv
+cp "${RELAY_DIR}/genoseek_data/candidates.tsv" data/candidates.tsv
+cp "${RELAY_DIR}/genoseek_data/spa_ready_candidates.tsv" data/spa_ready_candidates.tsv
 rm -rf "${RELAY_DIR}"
 
 # Pull the fixed generic nicher script from spa_1000_sp main (it removes stale

@@ -1,4 +1,4 @@
-"""Prepare a SPA run queue from genominer candidates and submit Slurm jobs."""
+"""Prepare a SPA run queue from genoseek candidates and submit Slurm jobs."""
 from __future__ import annotations
 import csv
 import json
@@ -78,13 +78,13 @@ def build_queue(
                 "ncbi_bioproject_count": r.get("ncbi_bioproject_count", ""),
                 "markers": r.get("markers", ""),
                 "priority": round(float(r["priority"]), 2),
-                "notes": f"genominer top; n_papers={r.get('n_papers','')}; geographies={r.get('geographies','')}",
+                "notes": f"genoseek top; n_papers={r.get('n_papers','')}; geographies={r.get('geographies','')}",
             })
     return top
 
 
 def _genetic_coords_path(dataset: str, repo_dir: Path) -> Path | None:
-    """Return the population (or sample) coordinate file from genominer's genetic ingestion."""
+    """Return the population (or sample) coordinate file from genoseek's genetic ingestion."""
     base = repo_dir / "data" / "genetic" / dataset
     for suffix in ("_population_coordinates.csv", "_sample_coordinates.csv"):
         p = base / f"{dataset}{suffix}"
@@ -180,21 +180,21 @@ def write_species_manifest_rows(queue_csv: str, species_csv: str, mode: str = "a
             existing = by_dataset[ds]
             if not existing.get("gbif_taxon_key") and r.get("gbif_taxon_key"):
                 existing["gbif_taxon_key"] = r["gbif_taxon_key"]
-                existing["notes"] = f"genominer queue; {r['notes']}"
+                existing["notes"] = f"genoseek queue; {r['notes']}"
         else:
             by_dataset[ds] = {
                 "dataset": ds,
                 "canonical_name": r["canonical_name"],
                 "group": r["group"],
                 "gbif_taxon_key": r["gbif_taxon_key"],
-                "status": "genominer",
+                "status": "genoseek",
                 "has_genetic_data": "no",
                 "popmap": "",
                 "snp_vcf": "",
                 "haps_vcf": "",
                 "parent_dataset": "",
                 "species_filter": r["canonical_name"],
-                "notes": f"genominer queue; {r['notes']}",
+                "notes": f"genoseek queue; {r['notes']}",
             }
 
     with open(species_csv, "w", newline="", encoding="utf-8") as f:

@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=genominer_schedule_spa
+#SBATCH --job-name=genoseek_schedule_spa
 #SBATCH --output=logs/schedule_spa_%j.out
 #SBATCH --error=logs/schedule_spa_%j.err
 #SBATCH --partition=sixhour

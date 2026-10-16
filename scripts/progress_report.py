@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""Daily progress and scratch-usage report for genominer/spa_1000_sp.
+"""Daily progress and scratch-usage report for genoseek/spa_1000_sp.
 
 Run on the HPC head node or from a Slurm job that can see
-$HOME/genominer/scratch. The report is printed to stdout
+$HOME/genoseek/scratch. The report is printed to stdout
 and appended to a JSON/TSV log file.
 
 Example:
     python3 scripts/progress_report.py \
-        --db $HOME/genominer/scratch/publish/genominer/genominer.db \
-        --scratch $HOME/genominer/scratch \
-        --out-tsv $HOME/genominer/scratch/publish/progress.tsv
+        --db $HOME/genoseek/scratch/publish/genoseek/genoseek.db \
+        --scratch $HOME/genoseek/scratch \
+        --out-tsv $HOME/genoseek/scratch/publish/progress.tsv
 """
 
 from __future__ import annotations
@@ -146,7 +146,7 @@ def _du_summary(scratch: Path) -> dict[str, Any]:
 
 
 def _db_progress(db_path: Path) -> dict[str, Any]:
-    """Count publishable products in genominer.db."""
+    """Count publishable products in genoseek.db."""
     if not db_path.exists():
         return {"error": f"{db_path} not found"}
 
@@ -219,13 +219,13 @@ def _append_tsv(report: dict[str, Any], tsv_path: Path) -> None:
 
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
-    default_scratch = os.environ.get("GENOMINER_SCRATCH", str(Path.home() / "genominer" / "scratch"))
+    default_scratch = os.environ.get("GENOSEEK_SCRATCH", str(Path.home() / "genoseek" / "scratch"))
     default_db = os.environ.get(
-        "GENOMINER_DB",
-        default_scratch + "/publish/genominer/genominer.db",
+        "GENOSEEK_DB",
+        default_scratch + "/publish/genoseek/genoseek.db",
     )
     default_out_tsv = os.environ.get(
-        "GENOMINER_PROGRESS_TSV",
+        "GENOSEEK_PROGRESS_TSV",
         default_scratch + "/publish/progress.tsv",
     )
     p.add_argument("--db", default=default_db)
@@ -250,7 +250,7 @@ def main() -> int:
     if args.markdown:
         d = report["db"]
         s = report["scratch"]
-        print("# genominer daily progress")
+        print("# genoseek daily progress")
         print(f"**timestamp:** {report['timestamp']}")
         print()
         print("## catalog")

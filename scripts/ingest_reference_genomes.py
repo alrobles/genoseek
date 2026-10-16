@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Find the best reference genome for the top genominer candidates.
+"""Find the best reference genome for the top genoseek candidates.
 
 Usage:
     python3 scripts/ingest_reference_genomes.py \

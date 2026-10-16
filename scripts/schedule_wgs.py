@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Schedule staged WGS -> G'ST pipelines for genominer WGS-ready candidates.
+"""Schedule staged WGS -> G'ST pipelines for genoseek WGS-ready candidates.
 
 Reads data/spa_ready_candidates.tsv and submits the staged pipeline in
 spa_1000_sp/hpc/submit_wgs_staged.py for the top candidates.
@@ -40,7 +40,7 @@ def main() -> int:
     p.add_argument("--candidates", default="data/spa_ready_candidates.tsv")
     default_spa_repo = os.environ.get(
         "SPA_REPO",
-        os.environ.get("GENOMINER_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
+        os.environ.get("GENOSEEK_WORK", str(Path.home() / "work")) + "/spa_1000_sp",
     )
     p.add_argument("--spa-repo", default=default_spa_repo)
     p.add_argument("--top-n", type=int, default=2, help="Number of WGS-ready candidates to submit")

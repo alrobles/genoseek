@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate a list of relative paths that must be mirrored from a publish route.
 
-The list is derived from genominer.db (vcf_outputs and sidecars) so rsync can
+The list is derived from genoseek.db (vcf_outputs and sidecars) so rsync can
 copy only the files the catalog actually references, skipping scratch temp data.
 """
 from __future__ import annotations
@@ -24,10 +24,10 @@ def main() -> int:
     p = argparse.ArgumentParser(
         description="Write a manifest of relative paths under a publish route."
     )
-    p.add_argument("--db", default="data/genominer.db",
-                   help="Path to genominer.db")
+    p.add_argument("--db", default="data/genoseek.db",
+                   help="Path to genoseek.db")
     p.add_argument("--publish-root", default=".",
-                   help="Root directory mirrored by rsync (contains genominer/ and vcf_database/)")
+                   help="Root directory mirrored by rsync (contains genoseek/ and vcf_database/)")
     p.add_argument("--out", default="-",
                    help="Output file ('-' for stdout)")
     p.add_argument("--existing-only", action="store_true",
@@ -43,8 +43,8 @@ def main() -> int:
     paths: set[str] = set()
 
     # Core catalog files at the root of the publish tree.
-    paths.add("genominer/genominer.db")
-    paths.add("genominer/genominer_catalog.tsv")
+    paths.add("genoseek/genoseek.db")
+    paths.add("genoseek/genoseek_catalog.tsv")
     paths.add("vcf_database/vcf_manifest.tsv")
 
     conn = sqlite3.connect(db_path)
